@@ -1,0 +1,1471 @@
+﻿EmployeeNumber,Age,Gender,MaritalStatus,Attrition,Department,EducationField,Education,DistanceFromHome,BusinessTravel,Over18,EmployeeCount,TotalWorkingYears,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Tenure_Band,NumCompaniesWorked
+1469,28,Male,Single,No,Business Development,Medical Sciences,3,5,Occasional Travel,Y,1,6,5,4,1,3,3-5 yrs,0
+250,53,Female,Divorced,No,Product & Engineering,Medical Sciences,2,13,Occasional Travel,Y,1,5,4,2,1,3,3-5 yrs,1
+1714,24,Male,Married,Yes,People Operations,HR Studies,1,22,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+86,45,Male,Divorced,No,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,25,1,0,0,0,0-2 yrs,2
+304,36,Male,Single,No,Product & Engineering,Biological Sciences,2,5,Occasional Travel,Y,1,16,13,11,3,7,10+ yrs,8
+666,34,Female,Divorced,No,Business Development,Applied Technology,3,14,Occasional Travel,Y,1,8,8,2,0,6,6-10 yrs,1
+577,35,Male,Single,No,Product & Engineering,Biological Sciences,3,22,Occasional Travel,Y,1,6,5,4,4,3,3-5 yrs,0
+332,39,Female,Divorced,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,7,3,2,1,2,3-5 yrs,7
+302,45,Female,Single,No,Business Development,Medical Sciences,3,6,No Travel,Y,1,23,19,7,12,8,10+ yrs,6
+63,35,Male,Married,No,Product & Engineering,Biological Sciences,1,8,Occasional Travel,Y,1,1,1,0,0,1,0-2 yrs,1
+925,47,Female,Single,No,Business Development,Biological Sciences,4,2,Occasional Travel,Y,1,3,3,2,1,2,3-5 yrs,1
+1293,43,Female,Single,No,Business Development,Marketing & Communications,4,4,Occasional Travel,Y,1,23,21,7,15,17,10+ yrs,3
+852,44,Male,Single,No,Product & Engineering,Medical Sciences,3,4,Occasional Travel,Y,1,10,5,2,2,3,3-5 yrs,9
+483,40,Female,Married,No,Product & Engineering,Biological Sciences,4,10,Occasional Travel,Y,1,10,7,7,1,7,6-10 yrs,3
+2007,22,Male,Single,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+1745,30,Female,Single,No,Product & Engineering,Applied Technology,4,2,Frequent Travel,Y,1,10,9,7,0,7,6-10 yrs,0
+1753,29,Male,Single,No,Product & Engineering,Biological Sciences,3,1,Frequent Travel,Y,1,10,3,2,0,2,3-5 yrs,8
+1042,36,Female,Single,Yes,Product & Engineering,Biological Sciences,4,16,Occasional Travel,Y,1,18,17,13,15,14,10+ yrs,1
+376,47,Male,Married,Yes,Product & Engineering,Biological Sciences,4,29,No Travel,Y,1,10,10,7,9,9,6-10 yrs,1
+1485,34,Male,Divorced,No,Product & Engineering,Medical Sciences,3,15,Frequent Travel,Y,1,16,14,8,6,9,10+ yrs,7
+355,31,Male,Single,Yes,Product & Engineering,Medical Sciences,2,29,Frequent Travel,Y,1,6,5,4,1,4,3-5 yrs,0
+574,47,Female,Divorced,No,Product & Engineering,Medical Sciences,2,2,Occasional Travel,Y,1,20,5,0,0,4,3-5 yrs,5
+1446,32,Male,Married,No,Business Development,Marketing & Communications,5,7,Occasional Travel,Y,1,7,4,3,0,3,3-5 yrs,4
+382,38,Female,Divorced,No,Business Development,Medical Sciences,2,7,Occasional Travel,Y,1,8,8,0,7,7,6-10 yrs,1
+1560,33,Male,Married,No,Business Development,Biological Sciences,4,8,Occasional Travel,Y,1,8,2,2,2,2,0-2 yrs,2
+1578,55,Male,Married,No,Business Development,Marketing & Communications,5,26,Occasional Travel,Y,1,36,36,6,2,13,10+ yrs,1
+933,27,Female,Single,No,Product & Engineering,Biological Sciences,3,4,Occasional Travel,Y,1,1,1,1,0,0,0-2 yrs,1
+855,33,Male,Divorced,No,Business Development,Medical Sciences,3,1,Occasional Travel,Y,1,9,9,8,0,8,6-10 yrs,1
+1475,44,Male,Single,No,Product & Engineering,Biological Sciences,3,20,Occasional Travel,Y,1,6,5,2,1,3,3-5 yrs,1
+339,34,Male,Married,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,13,11,9,5,9,10+ yrs,6
+1763,30,Male,Married,No,Product & Engineering,Biological Sciences,3,16,Occasional Travel,Y,1,10,7,0,1,7,6-10 yrs,3
+1018,26,Male,Married,No,Product & Engineering,Medical Sciences,2,2,Occasional Travel,Y,1,8,8,7,1,3,6-10 yrs,1
+807,40,Female,Married,No,Product & Engineering,Medical Sciences,2,2,Frequent Travel,Y,1,8,8,7,3,7,6-10 yrs,1
+623,37,Female,Single,No,Product & Engineering,Applied Technology,3,1,Occasional Travel,Y,1,12,6,5,1,2,6-10 yrs,4
+1733,36,Male,Divorced,Yes,Business Development,Marketing & Communications,5,13,Occasional Travel,Y,1,16,2,2,2,2,0-2 yrs,5
+984,35,Male,Divorced,No,Business Development,Biological Sciences,4,3,Occasional Travel,Y,1,12,10,9,0,8,6-10 yrs,6
+1468,40,Male,Divorced,No,Product & Engineering,Medical Sciences,1,8,No Travel,Y,1,16,9,8,4,8,6-10 yrs,2
+1210,41,Male,Divorced,Yes,Product & Engineering,Biological Sciences,2,5,No Travel,Y,1,5,1,0,0,0,0-2 yrs,6
+65,28,Male,Single,Yes,Product & Engineering,Applied Technology,4,5,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1834,28,Female,Married,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,3,3,2,1,2,3-5 yrs,1
+230,38,Female,Single,No,Business Development,Biological Sciences,4,1,Occasional Travel,Y,1,12,8,3,0,7,6-10 yrs,4
+1548,40,Male,Married,No,Business Development,Medical Sciences,2,9,Occasional Travel,Y,1,9,8,4,7,1,6-10 yrs,0
+1574,32,Male,Married,No,Product & Engineering,Applied Technology,4,1,No Travel,Y,1,9,6,5,1,2,6-10 yrs,4
+1060,38,Male,Married,No,Product & Engineering,General Studies,4,3,Frequent Travel,Y,1,8,2,2,2,2,0-2 yrs,3
+485,33,Female,Single,Yes,Business Development,Marketing & Communications,3,5,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+361,38,Male,Married,No,Business Development,Biological Sciences,2,2,No Travel,Y,1,13,8,7,7,5,6-10 yrs,3
+1318,40,Male,Single,Yes,Business Development,Marketing & Communications,4,25,Occasional Travel,Y,1,9,5,4,1,0,3-5 yrs,2
+819,33,Female,Single,Yes,Business Development,Marketing & Communications,3,16,Occasional Travel,Y,1,6,3,2,0,2,3-5 yrs,5
+723,50,Male,Married,Yes,Business Development,Applied Technology,2,8,Frequent Travel,Y,1,18,4,3,1,3,3-5 yrs,3
+1248,19,Female,Single,Yes,Product & Engineering,Medical Sciences,3,10,No Travel,Y,1,1,1,1,0,0,0-2 yrs,1
+575,46,Male,Married,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,26,3,2,0,1,3-5 yrs,6
+423,31,Male,Married,No,Product & Engineering,Applied Technology,4,5,Occasional Travel,Y,1,6,5,2,0,3,3-5 yrs,0
+162,51,Male,Single,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,23,20,18,15,15,10+ yrs,7
+1356,34,Female,Single,No,Business Development,Medical Sciences,2,15,Occasional Travel,Y,1,10,10,8,9,6,6-10 yrs,1
+1709,29,Female,Married,No,Product & Engineering,Medical Sciences,4,9,Occasional Travel,Y,1,9,5,3,1,2,3-5 yrs,9
+1235,32,Female,Single,No,Product & Engineering,Biological Sciences,2,2,Frequent Travel,Y,1,10,8,7,0,7,6-10 yrs,4
+281,40,Male,Married,No,Product & Engineering,Medical Sciences,2,19,Occasional Travel,Y,1,15,7,2,3,7,6-10 yrs,8
+1970,33,Male,Divorced,No,Product & Engineering,Biological Sciences,2,7,Frequent Travel,Y,1,9,9,7,2,8,6-10 yrs,1
+757,34,Female,Single,No,Product & Engineering,Medical Sciences,2,8,Occasional Travel,Y,1,10,5,1,4,3,3-5 yrs,3
+1633,39,Female,Single,No,Product & Engineering,Medical Sciences,3,4,Frequent Travel,Y,1,10,9,2,3,8,6-10 yrs,0
+1744,45,Female,Married,No,People Operations,Biological Sciences,3,4,Occasional Travel,Y,1,9,5,0,0,3,3-5 yrs,4
+1079,21,Female,Single,Yes,Product & Engineering,Biological Sciences,3,10,Occasional Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+1459,31,Female,Single,Yes,Product & Engineering,Biological Sciences,5,1,Frequent Travel,Y,1,10,10,8,4,7,6-10 yrs,1
+815,50,Male,Married,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,30,4,3,0,3,3-5 yrs,5
+1033,37,Female,Married,Yes,Product & Engineering,Medical Sciences,2,11,Occasional Travel,Y,1,15,1,0,0,0,0-2 yrs,5
+261,35,Male,Married,Yes,Product & Engineering,Biological Sciences,2,23,Occasional Travel,Y,1,8,1,0,0,1,0-2 yrs,3
+458,27,Female,Married,No,Business Development,Marketing & Communications,4,8,Occasional Travel,Y,1,8,8,7,0,7,6-10 yrs,1
+1885,37,Male,Married,No,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,16,5,3,0,4,3-5 yrs,5
+395,28,Female,Single,No,Product & Engineering,Biological Sciences,2,8,Occasional Travel,Y,1,5,5,3,0,2,3-5 yrs,1
+1550,40,Male,Single,No,People Operations,Medical Sciences,2,6,Occasional Travel,Y,1,21,21,7,7,7,10+ yrs,1
+1908,36,Male,Married,No,Business Development,Marketing & Communications,2,17,Occasional Travel,Y,1,12,4,2,1,3,3-5 yrs,2
+38,46,Female,Single,No,Business Development,Marketing & Communications,4,2,Occasional Travel,Y,1,22,2,2,2,1,0-2 yrs,3
+656,37,Male,Married,No,Business Development,Marketing & Communications,3,2,Occasional Travel,Y,1,17,3,0,1,0,3-5 yrs,4
+100,35,Male,Single,No,Business Development,Marketing & Communications,4,1,Occasional Travel,Y,1,16,15,13,2,8,10+ yrs,0
+1260,29,Male,Divorced,No,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,6,6,0,1,0,6-10 yrs,1
+84,55,Female,Divorced,No,Product & Engineering,Medical Sciences,3,8,Occasional Travel,Y,1,21,5,0,0,2,3-5 yrs,2
+1615,34,Male,Divorced,No,Product & Engineering,Biological Sciences,4,10,Frequent Travel,Y,1,9,9,7,7,2,6-10 yrs,1
+808,34,Female,Married,No,Business Development,Biological Sciences,2,8,Occasional Travel,Y,1,6,3,2,1,2,3-5 yrs,5
+1237,36,Female,Divorced,No,Product & Engineering,Applied Technology,3,1,Occasional Travel,Y,1,17,7,7,7,7,6-10 yrs,2
+1321,30,Female,Married,No,Product & Engineering,Medical Sciences,4,17,Occasional Travel,Y,1,9,9,1,0,8,6-10 yrs,1
+1201,53,Female,Divorced,No,Product & Engineering,Medical Sciences,2,7,Occasional Travel,Y,1,26,7,7,4,7,6-10 yrs,3
+760,39,Female,Married,No,People Operations,HR Studies,3,3,Occasional Travel,Y,1,12,8,3,3,6,6-10 yrs,9
+1938,58,Female,Married,No,Business Development,Biological Sciences,3,21,Occasional Travel,Y,1,29,1,0,0,0,0-2 yrs,4
+645,25,Male,Married,No,Business Development,Medical Sciences,1,13,Occasional Travel,Y,1,7,7,4,0,6,6-10 yrs,1
+1165,29,Female,Married,Yes,Business Development,Biological Sciences,1,23,Occasional Travel,Y,1,11,11,8,3,10,10+ yrs,1
+1471,44,Male,Single,No,Product & Engineering,Biological Sciences,3,5,No Travel,Y,1,7,5,2,0,3,3-5 yrs,3
+1678,41,Male,Single,No,Business Development,Biological Sciences,2,23,Occasional Travel,Y,1,21,2,0,0,2,0-2 yrs,3
+665,44,Female,Single,No,People Operations,Biological Sciences,4,1,Occasional Travel,Y,1,10,2,2,0,2,0-2 yrs,4
+865,32,Female,Married,No,Product & Engineering,Medical Sciences,2,8,Occasional Travel,Y,1,9,5,3,1,3,3-5 yrs,5
+57,30,Female,Single,No,Product & Engineering,Medical Sciences,2,1,Frequent Travel,Y,1,12,12,8,3,7,10+ yrs,1
+77,37,Male,Divorced,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,7,7,5,0,7,6-10 yrs,1
+30,21,Male,Single,No,Product & Engineering,Biological Sciences,2,15,Occasional Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+1975,39,Male,Single,No,Business Development,Marketing & Communications,4,15,Occasional Travel,Y,1,21,20,8,11,10,10+ yrs,0
+508,30,Male,Married,No,Business Development,Applied Technology,1,2,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+152,37,Male,Single,No,Business Development,Biological Sciences,3,3,Occasional Travel,Y,1,12,5,3,1,3,3-5 yrs,2
+462,31,Female,Single,No,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,11,11,9,4,10,10+ yrs,1
+1497,29,Male,Divorced,No,Business Development,Biological Sciences,3,19,Occasional Travel,Y,1,10,10,7,0,4,6-10 yrs,1
+529,37,Female,Married,No,Product & Engineering,Medical Sciences,5,25,No Travel,Y,1,15,13,11,10,7,10+ yrs,3
+1503,47,Female,Married,No,Business Development,Medical Sciences,3,14,Occasional Travel,Y,1,11,5,4,1,2,3-5 yrs,3
+580,46,Female,Married,No,Business Development,Marketing & Communications,3,10,Occasional Travel,Y,1,15,3,2,1,2,3-5 yrs,2
+374,55,Male,Single,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,37,36,10,4,13,10+ yrs,0
+1121,28,Female,Divorced,No,Product & Engineering,Medical Sciences,3,3,Occasional Travel,Y,1,10,9,7,1,7,6-10 yrs,0
+840,49,Female,Married,Yes,Business Development,Marketing & Communications,3,11,Occasional Travel,Y,1,9,9,8,7,7,6-10 yrs,1
+1364,27,Female,Married,No,Business Development,Medical Sciences,3,11,Occasional Travel,Y,1,5,1,0,0,0,0-2 yrs,8
+1024,48,Male,Single,No,Product & Engineering,Biological Sciences,4,4,Occasional Travel,Y,1,27,15,11,4,8,10+ yrs,7
+1119,38,Male,Divorced,No,Business Development,Marketing & Communications,4,10,Occasional Travel,Y,1,9,8,7,2,7,6-10 yrs,0
+487,46,Female,Married,No,Product & Engineering,Medical Sciences,4,7,No Travel,Y,1,7,1,0,0,0,0-2 yrs,2
+1853,32,Male,Single,No,Business Development,Marketing & Communications,4,10,Frequent Travel,Y,1,4,0,0,0,0,0-2 yrs,8
+102,37,Male,Single,No,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,16,5,2,0,2,3-5 yrs,4
+336,45,Male,Married,No,Product & Engineering,General Studies,3,1,Occasional Travel,Y,1,25,24,0,1,7,10+ yrs,0
+1645,35,Male,Divorced,Yes,Business Development,Medical Sciences,2,15,Occasional Travel,Y,1,7,2,2,2,2,0-2 yrs,6
+1611,45,Female,Single,No,Product & Engineering,Medical Sciences,5,5,Occasional Travel,Y,1,10,10,7,1,4,6-10 yrs,1
+947,31,Female,Married,No,Business Development,Marketing & Communications,2,20,No Travel,Y,1,9,9,8,0,0,6-10 yrs,1
+1084,30,Male,Married,No,Product & Engineering,General Studies,3,20,Occasional Travel,Y,1,7,6,2,0,2,6-10 yrs,0
+556,38,Male,Married,No,Product & Engineering,Biological Sciences,2,2,Frequent Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+192,45,Male,Single,No,Product & Engineering,Medical Sciences,3,29,Occasional Travel,Y,1,9,6,5,0,3,6-10 yrs,5
+91,59,Female,Single,No,Business Development,Biological Sciences,1,1,Frequent Travel,Y,1,20,4,3,1,3,3-5 yrs,7
+20,29,Female,Divorced,No,Product & Engineering,Biological Sciences,4,21,Occasional Travel,Y,1,10,10,9,8,8,6-10 yrs,1
+1677,49,Male,Single,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,23,8,7,0,0,6-10 yrs,4
+1502,33,Female,Married,No,Product & Engineering,Medical Sciences,4,4,Occasional Travel,Y,1,8,5,4,0,2,3-5 yrs,8
+1441,56,Female,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,5,3,2,1,0,3-5 yrs,2
+1344,34,Male,Divorced,No,Product & Engineering,Biological Sciences,3,9,Occasional Travel,Y,1,10,9,7,1,6,6-10 yrs,0
+1297,51,Female,Single,No,Product & Engineering,Medical Sciences,2,6,Frequent Travel,Y,1,8,7,0,7,7,6-10 yrs,0
+1775,53,Female,Married,No,Product & Engineering,Medical Sciences,4,1,No Travel,Y,1,27,3,2,0,2,3-5 yrs,4
+803,38,Female,Single,No,Product & Engineering,Biological Sciences,4,2,Frequent Travel,Y,1,17,15,7,4,12,10+ yrs,6
+566,19,Male,Single,Yes,People Operations,Applied Technology,2,2,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1240,25,Male,Single,No,Business Development,Biological Sciences,4,10,Occasional Travel,Y,1,5,4,3,1,1,3-5 yrs,0
+1127,39,Male,Divorced,Yes,Product & Engineering,Biological Sciences,3,2,Frequent Travel,Y,1,21,18,7,11,5,10+ yrs,7
+721,39,Female,Single,No,Product & Engineering,Applied Technology,4,2,Occasional Travel,Y,1,20,20,7,11,10,10+ yrs,1
+416,31,Male,Married,No,Business Development,Applied Technology,3,7,Occasional Travel,Y,1,10,8,7,7,7,6-10 yrs,4
+1852,29,Male,Married,No,Product & Engineering,Medical Sciences,1,20,Frequent Travel,Y,1,11,11,8,3,10,10+ yrs,1
+1839,18,Female,Single,No,Product & Engineering,Medical Sciences,3,14,No Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+573,60,Female,Married,No,Business Development,Marketing & Communications,3,28,Frequent Travel,Y,1,22,18,13,13,11,10+ yrs,4
+1101,33,Female,Single,Yes,Product & Engineering,Medical Sciences,4,29,Frequent Travel,Y,1,14,13,7,3,8,10+ yrs,1
+1177,26,Male,Married,No,Product & Engineering,Medical Sciences,4,3,Occasional Travel,Y,1,8,8,7,0,7,6-10 yrs,1
+1377,34,Male,Married,No,Product & Engineering,Medical Sciences,3,29,Occasional Travel,Y,1,10,8,7,7,7,6-10 yrs,4
+379,21,Male,Single,No,Product & Engineering,Medical Sciences,2,3,Occasional Travel,Y,1,3,3,2,1,0,3-5 yrs,1
+587,31,Male,Married,Yes,Product & Engineering,Biological Sciences,3,20,Frequent Travel,Y,1,12,1,0,0,0,0-2 yrs,3
+470,42,Male,Divorced,No,People Operations,Applied Technology,1,2,Occasional Travel,Y,1,4,3,2,1,0,3-5 yrs,0
+1005,50,Male,Married,No,Product & Engineering,Biological Sciences,3,24,Occasional Travel,Y,1,22,12,11,1,5,10+ yrs,3
+1286,28,Male,Single,No,Product & Engineering,Medical Sciences,4,1,Frequent Travel,Y,1,5,4,2,0,2,3-5 yrs,0
+605,42,Male,Married,No,Product & Engineering,Medical Sciences,3,24,Occasional Travel,Y,1,10,10,9,5,8,6-10 yrs,1
+1662,36,Female,Married,No,Product & Engineering,Medical Sciences,4,1,No Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+56,27,Male,Single,No,Business Development,Biological Sciences,3,8,Frequent Travel,Y,1,9,9,8,1,7,6-10 yrs,1
+1661,49,Female,Married,No,Product & Engineering,Biological Sciences,1,6,Occasional Travel,Y,1,30,15,11,2,12,10+ yrs,2
+1764,32,Male,Single,No,Product & Engineering,Applied Technology,4,5,No Travel,Y,1,12,7,7,0,7,6-10 yrs,2
+450,54,Female,Single,No,Product & Engineering,Biological Sciences,4,20,Frequent Travel,Y,1,20,4,3,0,3,3-5 yrs,3
+1279,21,Female,Single,Yes,Product & Engineering,Biological Sciences,2,10,Frequent Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+134,32,Male,Single,No,Product & Engineering,Biological Sciences,1,1,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+142,25,Male,Single,Yes,Business Development,Marketing & Communications,3,5,Occasional Travel,Y,1,6,6,4,0,3,6-10 yrs,1
+420,32,Male,Married,No,Business Development,Biological Sciences,3,7,Occasional Travel,Y,1,13,13,8,4,8,10+ yrs,1
+1457,46,Male,Divorced,Yes,Business Development,Marketing & Communications,3,9,Occasional Travel,Y,1,28,7,7,4,3,6-10 yrs,4
+241,56,Female,Divorced,No,Product & Engineering,Biological Sciences,3,8,Occasional Travel,Y,1,19,2,2,2,2,0-2 yrs,4
+331,32,Male,Single,Yes,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+1390,39,Male,Married,No,Business Development,Biological Sciences,4,21,Occasional Travel,Y,1,8,5,4,1,4,3-5 yrs,3
+538,25,Male,Married,Yes,Product & Engineering,Medical Sciences,3,3,Occasional Travel,Y,1,6,2,2,0,2,0-2 yrs,5
+1749,31,Male,Married,No,Business Development,Applied Technology,3,5,Occasional Travel,Y,1,6,5,2,0,2,3-5 yrs,1
+169,22,Male,Married,No,Product & Engineering,Applied Technology,1,2,Occasional Travel,Y,1,3,2,1,2,1,0-2 yrs,0
+1069,46,Male,Divorced,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,23,2,2,2,2,0-2 yrs,9
+471,32,Female,Married,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,8,8,0,0,7,6-10 yrs,1
+1573,38,Male,Married,Yes,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,7,5,2,1,4,3-5 yrs,4
+621,34,Male,Single,No,Business Development,Biological Sciences,4,21,Occasional Travel,Y,1,10,10,7,5,7,6-10 yrs,1
+1845,45,Female,Married,No,Business Development,Biological Sciences,4,2,No Travel,Y,1,10,8,7,5,7,6-10 yrs,4
+1674,49,Female,Divorced,No,Product & Engineering,Medical Sciences,3,16,Occasional Travel,Y,1,17,2,2,2,2,0-2 yrs,4
+1696,34,Male,Married,No,Product & Engineering,Medical Sciences,2,5,Occasional Travel,Y,1,15,15,10,4,13,10+ yrs,1
+833,30,Female,Single,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,12,0,0,0,0,0-2 yrs,5
+41,30,Male,Single,No,Product & Engineering,Medical Sciences,2,9,Occasional Travel,Y,1,10,10,0,1,8,6-10 yrs,1
+1871,39,Male,Divorced,No,Product & Engineering,General Studies,4,19,Occasional Travel,Y,1,7,2,2,2,2,0-2 yrs,8
+569,50,Male,Married,No,Product & Engineering,Biological Sciences,4,29,Occasional Travel,Y,1,28,27,10,15,7,10+ yrs,0
+464,35,Male,Single,No,Product & Engineering,Applied Technology,4,5,Occasional Travel,Y,1,17,16,6,0,13,10+ yrs,0
+474,37,Male,Divorced,No,Product & Engineering,Medical Sciences,3,6,Occasional Travel,Y,1,13,7,7,6,7,6-10 yrs,4
+1892,40,Male,Divorced,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,22,19,7,11,16,10+ yrs,2
+2003,35,Male,Married,No,Product & Engineering,Medical Sciences,4,11,Occasional Travel,Y,1,5,2,2,2,2,0-2 yrs,7
+1173,24,Male,Single,No,Product & Engineering,Medical Sciences,3,24,Occasional Travel,Y,1,6,4,3,1,2,3-5 yrs,8
+439,32,Female,Single,No,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,10,7,7,0,7,6-10 yrs,7
+1541,34,Male,Married,No,Business Development,Applied Technology,2,7,Occasional Travel,Y,1,12,11,10,5,7,10+ yrs,0
+1580,34,Male,Married,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,9,2,2,2,1,0-2 yrs,9
+223,57,Male,Divorced,No,Product & Engineering,Biological Sciences,2,24,Occasional Travel,Y,1,12,5,3,1,4,3-5 yrs,3
+1815,41,Female,Divorced,No,Business Development,Marketing & Communications,1,4,Occasional Travel,Y,1,23,22,14,13,5,10+ yrs,0
+1646,24,Female,Single,No,Product & Engineering,Applied Technology,1,2,Frequent Travel,Y,1,6,6,3,1,3,6-10 yrs,1
+1373,56,Male,Married,No,Product & Engineering,Biological Sciences,3,23,Occasional Travel,Y,1,33,19,16,15,9,10+ yrs,4
+498,28,Male,Single,No,Business Development,Biological Sciences,4,9,Occasional Travel,Y,1,7,7,5,0,7,6-10 yrs,1
+319,42,Male,Married,No,Product & Engineering,Applied Technology,2,4,Occasional Travel,Y,1,22,22,17,11,15,10+ yrs,1
+1525,39,Female,Single,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,9,2,0,2,2,0-2 yrs,4
+406,35,Male,Married,No,Business Development,Marketing & Communications,3,16,Occasional Travel,Y,1,12,11,9,6,9,10+ yrs,0
+850,27,Male,Married,No,Product & Engineering,Medical Sciences,3,3,No Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+1641,40,Female,Single,No,Product & Engineering,Biological Sciences,3,16,Occasional Travel,Y,1,18,4,2,3,3,3-5 yrs,6
+491,50,Male,Single,No,Product & Engineering,Applied Technology,3,10,Occasional Travel,Y,1,20,4,3,1,3,3-5 yrs,6
+1821,46,Female,Married,Yes,Product & Engineering,Medical Sciences,2,21,Occasional Travel,Y,1,13,9,7,3,7,6-10 yrs,4
+1097,28,Female,Single,No,Product & Engineering,General Studies,3,10,Occasional Travel,Y,1,10,8,7,1,7,6-10 yrs,3
+1822,40,Female,Divorced,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,12,5,3,0,3,3-5 yrs,4
+81,59,Female,Single,No,Business Development,Biological Sciences,3,25,Occasional Travel,Y,1,28,21,16,7,9,10+ yrs,7
+1419,29,Male,Single,No,People Operations,General Studies,3,17,Occasional Travel,Y,1,10,10,9,0,9,6-10 yrs,1
+1998,42,Male,Divorced,No,Product & Engineering,Biological Sciences,4,18,Occasional Travel,Y,1,9,4,3,1,2,3-5 yrs,6
+1514,28,Male,Married,No,Product & Engineering,Biological Sciences,1,29,Occasional Travel,Y,1,8,8,6,1,7,6-10 yrs,1
+1206,44,Male,Single,No,Product & Engineering,Biological Sciences,3,17,No Travel,Y,1,6,0,0,0,0,0-2 yrs,2
+1258,48,Male,Single,No,Product & Engineering,Applied Technology,2,2,Occasional Travel,Y,1,7,1,0,0,0,0-2 yrs,5
+809,42,Male,Divorced,No,Product & Engineering,Biological Sciences,3,8,Frequent Travel,Y,1,24,24,7,14,9,10+ yrs,1
+1369,35,Female,Married,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,10,9,7,0,0,6-10 yrs,0
+271,38,Male,Married,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,14,1,0,0,0,0-2 yrs,9
+744,44,Male,Single,No,Product & Engineering,Medical Sciences,3,24,No Travel,Y,1,9,5,2,1,4,3-5 yrs,2
+1137,35,Male,Divorced,No,Business Development,Marketing & Communications,2,11,Frequent Travel,Y,1,5,5,2,0,2,3-5 yrs,1
+1281,34,Female,Single,No,Business Development,Marketing & Communications,3,2,Occasional Travel,Y,1,4,3,2,0,2,3-5 yrs,0
+734,41,Male,Married,No,People Operations,HR Studies,3,1,Occasional Travel,Y,1,22,22,7,2,10,10+ yrs,1
+730,53,Male,Married,No,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,32,5,1,1,3,3-5 yrs,3
+39,33,Male,Single,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,7,1,1,0,0,0-2 yrs,4
+74,35,Male,Married,No,Business Development,Biological Sciences,5,18,Frequent Travel,Y,1,9,9,8,1,8,6-10 yrs,1
+1693,26,Male,Single,No,Product & Engineering,Medical Sciences,3,7,No Travel,Y,1,7,7,7,5,7,6-10 yrs,1
+1480,42,Female,Single,No,Product & Engineering,Medical Sciences,2,9,Frequent Travel,Y,1,12,12,9,5,8,10+ yrs,1
+549,60,Female,Married,No,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,33,29,8,11,10,10+ yrs,5
+1547,42,Male,Married,No,Product & Engineering,Biological Sciences,3,2,Frequent Travel,Y,1,24,20,8,13,9,10+ yrs,2
+555,34,Female,Divorced,Yes,Business Development,Marketing & Communications,2,6,Frequent Travel,Y,1,3,2,2,1,0,0-2 yrs,0
+1358,25,Male,Married,No,Product & Engineering,Medical Sciences,1,19,Occasional Travel,Y,1,7,3,2,1,2,3-5 yrs,3
+1125,38,Male,Single,No,Business Development,Marketing & Communications,2,2,Occasional Travel,Y,1,10,1,0,0,0,0-2 yrs,7
+2057,31,Male,Single,No,Product & Engineering,Medical Sciences,3,5,No Travel,Y,1,10,9,4,1,7,6-10 yrs,0
+571,30,Female,Single,No,Product & Engineering,Medical Sciences,3,2,No Travel,Y,1,12,11,7,6,7,10+ yrs,0
+479,36,Female,Single,No,Business Development,Medical Sciences,5,1,No Travel,Y,1,7,1,0,0,0,0-2 yrs,4
+1375,40,Female,Divorced,No,Product & Engineering,Medical Sciences,1,2,Occasional Travel,Y,1,15,12,11,11,8,10+ yrs,5
+424,31,Male,Married,No,People Operations,HR Studies,3,2,Occasional Travel,Y,1,9,2,2,1,0,0-2 yrs,3
+1484,49,Male,Divorced,No,Product & Engineering,Biological Sciences,4,7,Occasional Travel,Y,1,29,8,7,0,7,6-10 yrs,3
+132,44,Male,Married,No,Product & Engineering,Medical Sciences,3,23,No Travel,Y,1,17,3,2,1,2,3-5 yrs,4
+647,24,Female,Married,Yes,Product & Engineering,Biological Sciences,3,7,Frequent Travel,Y,1,6,6,3,1,2,6-10 yrs,1
+380,37,Female,Divorced,No,Product & Engineering,Medical Sciences,4,1,No Travel,Y,1,15,5,2,0,2,3-5 yrs,2
+1487,29,Female,Single,Yes,Business Development,Applied Technology,3,13,Frequent Travel,Y,1,7,5,3,0,0,3-5 yrs,5
+1997,38,Male,Married,No,Product & Engineering,Biological Sciences,4,6,Frequent Travel,Y,1,10,8,3,7,7,6-10 yrs,2
+1244,27,Male,Married,No,Product & Engineering,Biological Sciences,3,14,Occasional Travel,Y,1,9,9,7,6,8,6-10 yrs,1
+1428,30,Female,Divorced,No,Business Development,Marketing & Communications,4,7,Occasional Travel,Y,1,8,3,2,0,2,3-5 yrs,7
+1555,32,Female,Married,No,Product & Engineering,Biological Sciences,2,5,Occasional Travel,Y,1,12,7,1,2,5,6-10 yrs,3
+1243,35,Female,Married,No,Business Development,Marketing & Communications,2,8,No Travel,Y,1,16,13,2,4,12,10+ yrs,4
+995,33,Female,Single,No,Product & Engineering,Biological Sciences,1,13,Occasional Travel,Y,1,5,3,2,0,2,3-5 yrs,3
+832,40,Male,Single,No,Product & Engineering,Medical Sciences,4,16,Frequent Travel,Y,1,10,1,0,0,0,0-2 yrs,6
+650,31,Male,Divorced,Yes,Business Development,Medical Sciences,4,13,Occasional Travel,Y,1,9,3,1,1,2,3-5 yrs,2
+1306,45,Female,Single,No,Product & Engineering,Medical Sciences,3,25,Frequent Travel,Y,1,22,0,0,0,0,0-2 yrs,3
+1950,34,Male,Single,No,Business Development,Marketing & Communications,3,1,Occasional Travel,Y,1,14,14,8,2,1,10+ yrs,1
+1148,42,Male,Single,No,Product & Engineering,Medical Sciences,3,29,Occasional Travel,Y,1,16,1,0,0,0,0-2 yrs,4
+1627,39,Male,Divorced,No,Product & Engineering,Medical Sciences,2,3,Occasional Travel,Y,1,11,10,8,0,7,6-10 yrs,0
+2026,56,Male,Divorced,No,Product & Engineering,Biological Sciences,4,1,No Travel,Y,1,13,13,12,1,9,10+ yrs,1
+1106,25,Male,Married,Yes,Product & Engineering,Applied Technology,1,4,Occasional Travel,Y,1,7,7,7,5,6,6-10 yrs,1
+1032,59,Female,Single,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,30,5,3,4,3,3-5 yrs,3
+671,44,Male,Married,No,Product & Engineering,General Studies,4,3,Occasional Travel,Y,1,26,2,2,0,1,0-2 yrs,4
+328,33,Female,Married,Yes,Product & Engineering,Biological Sciences,2,2,Occasional Travel,Y,1,13,9,7,1,7,6-10 yrs,7
+1289,34,Male,Married,No,People Operations,Biological Sciences,3,11,Frequent Travel,Y,1,14,10,9,1,8,6-10 yrs,4
+796,26,Male,Single,Yes,Business Development,Applied Technology,3,8,Occasional Travel,Y,1,6,4,3,1,2,3-5 yrs,6
+1288,44,Male,Divorced,No,Product & Engineering,Biological Sciences,2,4,Occasional Travel,Y,1,26,25,9,14,13,10+ yrs,1
+689,37,Male,Married,No,Product & Engineering,General Studies,3,3,Occasional Travel,Y,1,10,10,7,7,8,6-10 yrs,1
+1980,54,Female,Single,No,Product & Engineering,Medical Sciences,3,10,Occasional Travel,Y,1,9,5,2,1,4,3-5 yrs,6
+579,34,Male,Divorced,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,14,7,3,5,7,6-10 yrs,3
+1594,36,Male,Married,No,Product & Engineering,Biological Sciences,4,6,Frequent Travel,Y,1,9,3,2,0,2,3-5 yrs,3
+287,40,Male,Married,No,Product & Engineering,Biological Sciences,5,9,No Travel,Y,1,5,3,2,0,2,3-5 yrs,9
+2065,49,Male,Married,No,Business Development,Medical Sciences,3,2,Frequent Travel,Y,1,17,9,6,0,8,6-10 yrs,2
+1132,39,Male,Single,No,Product & Engineering,Biological Sciences,3,9,No Travel,Y,1,9,5,4,0,3,3-5 yrs,9
+731,41,Male,Divorced,No,People Operations,HR Studies,4,10,Occasional Travel,Y,1,23,21,6,12,6,10+ yrs,3
+329,52,Male,Single,No,Business Development,Biological Sciences,4,2,No Travel,Y,1,33,33,7,15,12,10+ yrs,1
+76,31,Male,Divorced,No,Product & Engineering,Biological Sciences,4,7,Occasional Travel,Y,1,10,7,7,1,7,6-10 yrs,3
+1724,40,Female,Married,No,Product & Engineering,Biological Sciences,2,8,Occasional Travel,Y,1,18,1,0,0,0,0-2 yrs,2
+441,30,Female,Married,No,Product & Engineering,Medical Sciences,2,28,Occasional Travel,Y,1,11,10,8,1,9,6-10 yrs,1
+495,29,Male,Single,No,Product & Engineering,Biological Sciences,3,23,Occasional Travel,Y,1,6,3,2,1,2,3-5 yrs,9
+977,58,Male,Single,Yes,Product & Engineering,Applied Technology,3,2,Occasional Travel,Y,1,7,1,0,0,0,0-2 yrs,4
+964,40,Male,Divorced,No,Product & Engineering,Medical Sciences,4,9,Frequent Travel,Y,1,3,1,1,0,0,0-2 yrs,8
+1666,43,Male,Married,No,Product & Engineering,Biological Sciences,2,15,Occasional Travel,Y,1,14,14,10,6,11,10+ yrs,1
+868,37,Male,Divorced,No,Business Development,Marketing & Communications,4,16,Occasional Travel,Y,1,9,1,0,0,0,0-2 yrs,4
+1241,30,Male,Married,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,12,11,9,5,7,10+ yrs,0
+1482,30,Male,Divorced,No,Product & Engineering,Applied Technology,3,7,No Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1597,34,Male,Married,No,Product & Engineering,Applied Technology,4,10,Frequent Travel,Y,1,8,8,2,7,7,6-10 yrs,1
+1395,33,Male,Married,No,Business Development,Biological Sciences,1,5,Frequent Travel,Y,1,8,5,4,1,2,3-5 yrs,6
+944,49,Female,Married,No,Product & Engineering,General Studies,2,8,Occasional Travel,Y,1,29,26,9,1,7,10+ yrs,4
+323,50,Female,Divorced,No,Business Development,Medical Sciences,4,1,Occasional Travel,Y,1,32,7,0,0,6,6-10 yrs,3
+567,30,Female,Married,No,Business Development,General Studies,4,22,No Travel,Y,1,10,9,8,7,8,6-10 yrs,0
+269,35,Female,Single,No,Product & Engineering,Medical Sciences,3,2,Frequent Travel,Y,1,10,6,2,1,2,6-10 yrs,5
+1731,47,Male,Married,No,Business Development,Marketing & Communications,4,2,No Travel,Y,1,4,1,0,0,0,0-2 yrs,7
+105,35,Male,Single,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,6,6,4,0,4,6-10 yrs,1
+1941,49,Male,Married,No,Product & Engineering,Biological Sciences,1,2,Frequent Travel,Y,1,28,5,4,4,3,3-5 yrs,3
+1599,43,Male,Divorced,No,Product & Engineering,Applied Technology,3,27,Occasional Travel,Y,1,8,6,4,0,2,6-10 yrs,5
+147,34,Male,Single,Yes,Product & Engineering,Biological Sciences,3,7,Frequent Travel,Y,1,9,9,7,0,6,6-10 yrs,1
+1754,30,Male,Divorced,No,Business Development,Marketing & Communications,2,15,Occasional Travel,Y,1,12,7,7,1,7,6-10 yrs,2
+1673,31,Female,Married,No,Business Development,Biological Sciences,4,5,Occasional Travel,Y,1,10,10,0,0,2,6-10 yrs,1
+1314,46,Female,Single,No,People Operations,Biological Sciences,2,1,Occasional Travel,Y,1,10,7,6,5,7,6-10 yrs,6
+920,43,Female,Divorced,No,Product & Engineering,Biological Sciences,3,8,Occasional Travel,Y,1,4,1,0,0,0,0-2 yrs,4
+1737,39,Male,Married,No,Product & Engineering,Biological Sciences,3,1,No Travel,Y,1,9,9,8,5,8,6-10 yrs,1
+1708,41,Male,Single,No,Business Development,Marketing & Communications,3,6,Occasional Travel,Y,1,10,10,8,8,7,6-10 yrs,1
+791,52,Male,Married,No,Product & Engineering,Medical Sciences,4,19,No Travel,Y,1,5,4,3,1,2,3-5 yrs,0
+475,30,Female,Married,No,Business Development,Applied Technology,2,25,No Travel,Y,1,4,2,2,2,2,0-2 yrs,7
+1576,48,Female,Married,No,Product & Engineering,General Studies,4,15,Occasional Travel,Y,1,10,8,2,7,6,6-10 yrs,8
+1544,29,Female,Married,No,Product & Engineering,General Studies,1,8,Occasional Travel,Y,1,9,7,7,0,7,6-10 yrs,3
+431,49,Female,Single,No,Product & Engineering,Applied Technology,2,1,Occasional Travel,Y,1,25,7,1,0,7,6-10 yrs,7
+2052,35,Female,Married,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,4,4,3,1,1,3-5 yrs,1
+1507,28,Male,Single,No,Business Development,Biological Sciences,3,7,Frequent Travel,Y,1,5,4,2,1,3,3-5 yrs,0
+951,32,Female,Married,No,Product & Engineering,Biological Sciences,3,1,No Travel,Y,1,5,3,0,0,2,3-5 yrs,6
+524,31,Female,Married,No,Product & Engineering,Medical Sciences,2,7,Occasional Travel,Y,1,13,13,10,3,12,10+ yrs,1
+786,34,Male,Single,No,Business Development,General Studies,3,2,Occasional Travel,Y,1,6,6,5,1,4,6-10 yrs,1
+775,34,Female,Divorced,No,Product & Engineering,Biological Sciences,5,8,Occasional Travel,Y,1,7,0,0,0,0,0-2 yrs,3
+1317,50,Female,Married,No,Product & Engineering,Biological Sciences,3,28,Occasional Travel,Y,1,25,3,2,1,2,3-5 yrs,4
+715,37,Male,Single,No,Product & Engineering,Biological Sciences,2,10,Occasional Travel,Y,1,4,1,0,0,0,0-2 yrs,3
+903,47,Female,Married,No,Business Development,Marketing & Communications,2,2,Occasional Travel,Y,1,8,7,6,7,7,6-10 yrs,0
+1551,24,Male,Divorced,No,Product & Engineering,Applied Technology,2,21,Occasional Travel,Y,1,2,1,1,0,0,0-2 yrs,0
+1012,18,Male,Single,No,Product & Engineering,Biological Sciences,2,5,No Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+349,29,Male,Divorced,No,Business Development,Marketing & Communications,2,20,Occasional Travel,Y,1,10,3,2,0,2,3-5 yrs,2
+1654,39,Male,Married,No,Product & Engineering,Medical Sciences,3,12,Occasional Travel,Y,1,7,5,4,1,0,3-5 yrs,4
+1881,31,Male,Divorced,No,Product & Engineering,Biological Sciences,3,20,Occasional Travel,Y,1,10,10,8,0,2,6-10 yrs,1
+1890,36,Male,Single,No,People Operations,HR Studies,1,2,Frequent Travel,Y,1,10,10,1,0,8,6-10 yrs,1
+1383,34,Female,Single,No,Product & Engineering,Applied Technology,4,2,Occasional Travel,Y,1,14,14,11,4,11,10+ yrs,1
+1049,45,Male,Single,No,People Operations,Medical Sciences,4,24,Occasional Travel,Y,1,6,6,3,0,4,6-10 yrs,1
+113,23,Male,Divorced,No,Business Development,Applied Technology,1,2,Occasional Travel,Y,1,3,0,0,0,0,0-2 yrs,3
+1966,32,Male,Single,No,Product & Engineering,Biological Sciences,4,5,Occasional Travel,Y,1,8,1,0,0,0,0-2 yrs,8
+366,29,Male,Married,No,Business Development,Medical Sciences,3,2,Occasional Travel,Y,1,10,0,0,0,0,0-2 yrs,2
+857,36,Male,Married,No,Business Development,Biological Sciences,2,1,Occasional Travel,Y,1,18,18,14,4,11,10+ yrs,1
+2046,45,Female,Single,No,Business Development,Biological Sciences,3,20,Occasional Travel,Y,1,8,5,3,0,1,3-5 yrs,8
+1707,24,Male,Married,No,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,5,5,3,0,4,3-5 yrs,1
+1563,38,Male,Married,No,People Operations,HR Studies,4,10,Frequent Travel,Y,1,10,6,3,1,2,6-10 yrs,3
+702,33,Male,Single,Yes,Product & Engineering,Biological Sciences,3,3,Frequent Travel,Y,1,10,10,8,9,7,6-10 yrs,1
+986,40,Female,Single,Yes,Business Development,Biological Sciences,3,24,No Travel,Y,1,22,1,0,0,0,0-2 yrs,4
+305,33,Female,Married,No,Product & Engineering,Medical Sciences,4,4,Occasional Travel,Y,1,7,3,2,1,1,3-5 yrs,6
+150,24,Male,Married,No,Product & Engineering,Biological Sciences,1,18,Occasional Travel,Y,1,6,5,3,1,2,3-5 yrs,0
+1135,31,Male,Married,No,Business Development,Biological Sciences,3,20,Frequent Travel,Y,1,3,2,2,2,2,0-2 yrs,0
+776,52,Male,Married,No,Business Development,Marketing & Communications,4,3,Occasional Travel,Y,1,34,34,6,1,16,10+ yrs,1
+240,45,Female,Divorced,No,Business Development,Biological Sciences,2,4,Occasional Travel,Y,1,9,5,4,0,3,3-5 yrs,4
+1267,44,Male,Married,No,Business Development,Marketing & Communications,3,5,Occasional Travel,Y,1,26,22,9,3,10,10+ yrs,7
+1102,28,Male,Divorced,No,Product & Engineering,Biological Sciences,2,15,Occasional Travel,Y,1,4,4,2,2,2,3-5 yrs,1
+1789,46,Male,Divorced,No,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,24,2,1,2,2,0-2 yrs,7
+1824,58,Male,Divorced,No,Business Development,Medical Sciences,3,2,No Travel,Y,1,37,16,9,14,14,10+ yrs,4
+1312,36,Female,Married,No,Product & Engineering,Applied Technology,4,10,Occasional Travel,Y,1,10,7,7,1,7,6-10 yrs,3
+391,37,Female,Single,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,17,17,12,5,7,10+ yrs,1
+1543,37,Male,Married,No,Product & Engineering,Medical Sciences,3,13,Occasional Travel,Y,1,10,10,8,3,7,6-10 yrs,1
+564,29,Male,Married,No,Product & Engineering,Medical Sciences,4,3,Occasional Travel,Y,1,10,10,2,0,7,6-10 yrs,1
+1651,36,Female,Married,No,Product & Engineering,Biological Sciences,4,5,Occasional Travel,Y,1,9,3,2,0,2,3-5 yrs,4
+40,44,Male,Married,No,Product & Engineering,General Studies,4,10,Occasional Travel,Y,1,9,4,2,1,3,3-5 yrs,2
+728,47,Male,Single,No,Business Development,Marketing & Communications,4,14,Occasional Travel,Y,1,20,7,7,1,7,6-10 yrs,2
+291,32,Male,Married,Yes,Business Development,Medical Sciences,4,4,Occasional Travel,Y,1,14,14,8,9,8,10+ yrs,1
+1903,44,Male,Married,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,10,2,0,2,2,0-2 yrs,2
+1516,32,Male,Single,No,Product & Engineering,Medical Sciences,3,10,Occasional Travel,Y,1,10,5,2,0,0,3-5 yrs,2
+1447,34,Female,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,7,5,4,0,2,3-5 yrs,5
+874,44,Male,Married,No,Product & Engineering,Biological Sciences,4,8,Occasional Travel,Y,1,10,3,2,0,2,3-5 yrs,2
+1250,54,Male,Married,No,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,36,10,9,0,9,6-10 yrs,3
+1255,43,Male,Married,No,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,25,8,7,0,7,6-10 yrs,3
+256,34,Male,Married,No,Product & Engineering,Biological Sciences,1,2,Frequent Travel,Y,1,10,10,9,1,9,6-10 yrs,1
+510,26,Male,Single,Yes,Product & Engineering,Applied Technology,1,3,Frequent Travel,Y,1,7,6,4,0,4,6-10 yrs,0
+1355,38,Female,Divorced,No,Business Development,Biological Sciences,2,2,Occasional Travel,Y,1,11,7,7,1,7,6-10 yrs,3
+1927,28,Male,Married,No,Business Development,Biological Sciences,2,1,Frequent Travel,Y,1,7,7,7,0,7,6-10 yrs,1
+1411,37,Female,Single,No,Product & Engineering,Medical Sciences,3,11,Occasional Travel,Y,1,8,3,2,0,2,3-5 yrs,4
+107,38,Female,Divorced,No,Product & Engineering,Medical Sciences,3,6,No Travel,Y,1,17,13,11,1,9,10+ yrs,7
+1836,26,Male,Single,No,Business Development,Medical Sciences,3,10,Occasional Travel,Y,1,5,5,3,1,2,3-5 yrs,1
+62,46,Male,Single,No,Business Development,Marketing & Communications,4,5,Frequent Travel,Y,1,14,9,6,0,8,6-10 yrs,4
+208,29,Male,Married,No,Product & Engineering,Applied Technology,1,1,No Travel,Y,1,10,10,7,0,9,6-10 yrs,1
+824,29,Male,Married,No,Product & Engineering,Biological Sciences,2,23,Occasional Travel,Y,1,10,10,7,0,7,6-10 yrs,1
+1581,26,Female,Married,No,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1981,24,Male,Single,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,4,4,3,1,2,3-5 yrs,1
+1464,31,Male,Married,Yes,Product & Engineering,Biological Sciences,3,2,Frequent Travel,Y,1,7,2,2,2,2,0-2 yrs,6
+1557,48,Female,Divorced,No,Business Development,Biological Sciences,4,16,Occasional Travel,Y,1,18,8,7,7,7,6-10 yrs,8
+1691,48,Female,Married,Yes,Business Development,Medical Sciences,2,7,Frequent Travel,Y,1,19,9,7,7,7,6-10 yrs,2
+2041,38,Female,Married,No,Business Development,Biological Sciences,2,10,Occasional Travel,Y,1,10,10,7,1,9,6-10 yrs,1
+655,27,Female,Divorced,No,Product & Engineering,Medical Sciences,4,6,Occasional Travel,Y,1,6,5,3,0,3,3-5 yrs,0
+245,38,Female,Single,No,Product & Engineering,Biological Sciences,2,9,Occasional Travel,Y,1,2,2,2,2,1,0-2 yrs,1
+1029,42,Male,Married,No,Business Development,Marketing & Communications,2,5,Occasional Travel,Y,1,21,1,0,0,0,0-2 yrs,6
+1712,45,Male,Married,No,Product & Engineering,Biological Sciences,1,1,No Travel,Y,1,25,23,15,14,4,10+ yrs,3
+507,24,Female,Divorced,No,Business Development,Marketing & Communications,4,10,Occasional Travel,Y,1,5,5,2,0,3,3-5 yrs,1
+649,34,Male,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,6,6,5,1,3,6-10 yrs,1
+1083,26,Male,Married,No,Product & Engineering,Medical Sciences,2,1,Occasional Travel,Y,1,6,5,3,1,3,3-5 yrs,1
+1716,47,Male,Married,Yes,Business Development,Biological Sciences,3,9,Frequent Travel,Y,1,25,23,5,14,10,10+ yrs,7
+1653,25,Male,Divorced,No,Product & Engineering,Biological Sciences,1,2,Frequent Travel,Y,1,7,7,7,0,7,6-10 yrs,1
+466,41,Male,Single,No,Product & Engineering,Medical Sciences,3,6,Occasional Travel,Y,1,8,5,4,1,2,3-5 yrs,6
+1657,20,Female,Single,No,Business Development,Medical Sciences,3,2,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+608,26,Female,Divorced,Yes,People Operations,Biological Sciences,4,17,Frequent Travel,Y,1,8,7,7,1,0,6-10 yrs,0
+785,47,Female,Single,Yes,Business Development,Biological Sciences,2,27,Frequent Travel,Y,1,8,5,4,1,3,3-5 yrs,4
+792,26,Female,Divorced,No,Product & Engineering,Biological Sciences,2,1,Frequent Travel,Y,1,5,2,2,2,0,0-2 yrs,3
+1640,37,Female,Married,No,Product & Engineering,Medical Sciences,3,10,Occasional Travel,Y,1,8,8,4,7,7,6-10 yrs,1
+335,40,Male,Divorced,No,Product & Engineering,Applied Technology,2,24,Occasional Travel,Y,1,9,9,8,4,7,6-10 yrs,1
+1987,25,Female,Married,No,People Operations,HR Studies,3,2,Occasional Travel,Y,1,6,2,0,1,2,0-2 yrs,4
+1934,47,Male,Married,No,Product & Engineering,Applied Technology,4,14,No Travel,Y,1,16,8,7,1,7,6-10 yrs,8
+1883,29,Male,Single,No,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,11,3,2,1,2,3-5 yrs,3
+1585,36,Female,Single,No,Business Development,Biological Sciences,4,1,Occasional Travel,Y,1,15,1,0,0,0,0-2 yrs,6
+1478,34,Male,Single,No,Business Development,General Studies,3,3,Occasional Travel,Y,1,15,13,9,3,12,10+ yrs,3
+1965,27,Male,Single,No,Business Development,Marketing & Communications,3,9,Occasional Travel,Y,1,7,7,7,0,7,6-10 yrs,1
+722,32,Male,Single,No,Business Development,Marketing & Communications,3,10,Occasional Travel,Y,1,10,10,7,0,8,6-10 yrs,1
+1606,50,Male,Married,No,Product & Engineering,Medical Sciences,5,20,Frequent Travel,Y,1,32,30,8,12,13,10+ yrs,2
+1179,30,Male,Married,No,Business Development,Marketing & Communications,3,10,Occasional Travel,Y,1,10,10,3,1,4,6-10 yrs,1
+494,21,Female,Single,Yes,Business Development,Biological Sciences,3,12,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+72,26,Female,Married,No,Business Development,Marketing & Communications,3,23,Occasional Travel,Y,1,5,2,2,0,0,0-2 yrs,7
+844,27,Male,Divorced,No,Product & Engineering,Applied Technology,1,5,Occasional Travel,Y,1,9,9,8,0,8,6-10 yrs,1
+754,43,Male,Married,No,Business Development,Biological Sciences,3,15,Frequent Travel,Y,1,7,2,2,2,2,0-2 yrs,3
+426,31,Male,Divorced,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,3,2,2,2,2,0-2 yrs,0
+1554,35,Female,Married,No,Business Development,Biological Sciences,4,28,Occasional Travel,Y,1,6,5,3,4,2,3-5 yrs,0
+144,22,Female,Single,No,Product & Engineering,Medical Sciences,3,15,Occasional Travel,Y,1,1,0,0,0,0,0-2 yrs,1
+1703,44,Female,Married,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,9,8,7,6,7,6-10 yrs,1
+133,37,Male,Divorced,Yes,People Operations,HR Studies,4,6,Occasional Travel,Y,1,7,3,2,0,2,3-5 yrs,4
+551,42,Female,Married,No,Product & Engineering,Applied Technology,4,28,Frequent Travel,Y,1,7,6,5,0,4,6-10 yrs,0
+894,42,Female,Married,No,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,17,5,3,1,3,3-5 yrs,2
+367,31,Male,Married,No,Product & Engineering,Medical Sciences,3,23,Occasional Travel,Y,1,10,9,0,7,8,6-10 yrs,0
+1221,36,Male,Divorced,No,Product & Engineering,Biological Sciences,4,6,Occasional Travel,Y,1,7,7,7,1,7,6-10 yrs,1
+405,18,Male,Single,Yes,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+746,47,Female,Divorced,No,Business Development,Medical Sciences,3,3,Frequent Travel,Y,1,28,22,2,11,13,10+ yrs,9
+1265,34,Female,Married,No,Product & Engineering,Applied Technology,3,20,Occasional Travel,Y,1,2,1,0,0,0,0-2 yrs,0
+940,58,Female,Divorced,No,Product & Engineering,Applied Technology,3,5,Occasional Travel,Y,1,24,6,0,0,4,6-10 yrs,2
+501,36,Female,Married,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,6,2,2,2,2,0-2 yrs,4
+392,44,Male,Divorced,Yes,Product & Engineering,Biological Sciences,3,24,Frequent Travel,Y,1,19,1,0,0,0,0-2 yrs,3
+1985,40,Female,Married,No,Product & Engineering,Applied Technology,3,11,Frequent Travel,Y,1,10,10,9,9,4,6-10 yrs,1
+1969,54,Female,Married,No,Product & Engineering,Biological Sciences,2,9,Occasional Travel,Y,1,9,4,3,2,3,3-5 yrs,3
+165,58,Female,Married,Yes,Product & Engineering,Medical Sciences,4,23,Occasional Travel,Y,1,40,40,10,15,6,10+ yrs,1
+1702,23,Male,Divorced,Yes,Business Development,Biological Sciences,3,7,Occasional Travel,Y,1,3,3,2,0,2,3-5 yrs,1
+399,31,Female,Divorced,No,Business Development,Marketing & Communications,3,5,Frequent Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+724,38,Female,Single,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,10,9,7,1,8,6-10 yrs,0
+1638,38,Female,Married,No,Product & Engineering,Medical Sciences,2,2,Occasional Travel,Y,1,10,5,4,0,2,3-5 yrs,3
+930,28,Female,Divorced,No,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,6,2,2,2,2,0-2 yrs,5
+476,26,Male,Married,No,Business Development,Biological Sciences,3,1,Occasional Travel,Y,1,8,8,7,7,7,6-10 yrs,1
+233,27,Male,Married,No,Product & Engineering,Applied Technology,3,17,Occasional Travel,Y,1,6,5,2,1,1,3-5 yrs,0
+2038,32,Male,Single,No,Product & Engineering,Applied Technology,3,2,Occasional Travel,Y,1,4,4,2,1,2,3-5 yrs,1
+1196,37,Female,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,14,14,8,3,11,10+ yrs,1
+1650,29,Male,Single,No,Business Development,Medical Sciences,3,10,Occasional Travel,Y,1,8,5,2,1,4,3-5 yrs,9
+288,46,Male,Divorced,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,17,4,2,0,3,3-5 yrs,7
+1614,36,Female,Married,No,Product & Engineering,Biological Sciences,4,12,Occasional Travel,Y,1,7,3,2,1,1,3-5 yrs,9
+190,32,Female,Single,Yes,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,10,5,4,0,4,3-5 yrs,7
+1609,30,Male,Married,No,Product & Engineering,Medical Sciences,3,7,Occasional Travel,Y,1,6,6,4,1,1,6-10 yrs,1
+1324,31,Female,Divorced,No,Business Development,Biological Sciences,4,2,No Travel,Y,1,10,10,8,9,6,6-10 yrs,1
+1823,34,Male,Married,No,Business Development,Applied Technology,2,8,Occasional Travel,Y,1,10,10,8,4,8,6-10 yrs,1
+1642,44,Male,Married,No,People Operations,HR Studies,5,1,Frequent Travel,Y,1,14,10,7,0,2,6-10 yrs,4
+918,58,Male,Divorced,Yes,Product & Engineering,Biological Sciences,1,2,Frequent Travel,Y,1,3,1,0,0,0,0-2 yrs,9
+1333,44,Male,Married,Yes,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,10,3,2,1,2,3-5 yrs,4
+1912,31,Female,Divorced,No,Business Development,Medical Sciences,2,10,Occasional Travel,Y,1,8,5,2,1,4,3-5 yrs,2
+273,38,Male,Married,No,Product & Engineering,Applied Technology,3,29,Occasional Travel,Y,1,9,7,7,1,7,6-10 yrs,3
+854,25,Male,Single,No,Product & Engineering,Medical Sciences,1,2,Occasional Travel,Y,1,6,4,3,0,1,3-5 yrs,7
+826,35,Female,Single,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,7,2,2,2,2,0-2 yrs,3
+949,36,Male,Single,No,Product & Engineering,General Studies,4,7,Occasional Travel,Y,1,8,6,2,0,1,6-10 yrs,2
+2024,36,Female,Married,No,Business Development,Medical Sciences,3,3,Occasional Travel,Y,1,10,9,7,3,4,6-10 yrs,0
+1812,39,Male,Divorced,No,Business Development,Biological Sciences,3,20,Frequent Travel,Y,1,7,2,1,2,2,0-2 yrs,2
+14,35,Male,Married,No,Product & Engineering,Medical Sciences,3,16,Occasional Travel,Y,1,6,5,4,0,3,3-5 yrs,0
+199,41,Male,Divorced,No,Product & Engineering,Biological Sciences,3,10,Frequent Travel,Y,1,21,7,6,7,7,6-10 yrs,4
+967,36,Male,Married,Yes,Business Development,Biological Sciences,1,3,Occasional Travel,Y,1,16,16,7,3,7,10+ yrs,1
+388,29,Male,Single,No,Business Development,Biological Sciences,2,2,Frequent Travel,Y,1,10,10,7,0,9,6-10 yrs,1
+407,36,Male,Married,No,Product & Engineering,Biological Sciences,4,18,Frequent Travel,Y,1,4,1,0,0,0,0-2 yrs,4
+817,33,Male,Married,No,Product & Engineering,Medical Sciences,3,7,Occasional Travel,Y,1,14,13,9,3,7,10+ yrs,0
+397,36,Male,Single,No,Product & Engineering,Applied Technology,3,3,Occasional Travel,Y,1,10,8,0,7,7,6-10 yrs,4
+634,38,Female,Married,No,Product & Engineering,Medical Sciences,3,10,Occasional Travel,Y,1,18,1,0,0,0,0-2 yrs,3
+799,54,Female,Divorced,No,Product & Engineering,Medical Sciences,4,19,Occasional Travel,Y,1,9,5,3,1,4,3-5 yrs,9
+1440,37,Male,Single,No,Product & Engineering,Applied Technology,2,5,No Travel,Y,1,7,6,5,1,3,6-10 yrs,0
+1044,33,Female,Single,No,Business Development,Biological Sciences,1,8,No Travel,Y,1,3,2,2,2,2,0-2 yrs,0
+2055,50,Male,Divorced,Yes,Business Development,Marketing & Communications,3,28,Occasional Travel,Y,1,20,3,2,2,0,3-5 yrs,4
+170,49,Female,Married,No,Product & Engineering,Medical Sciences,4,20,Occasional Travel,Y,1,16,15,11,5,11,10+ yrs,1
+1477,33,Male,Married,No,Business Development,Medical Sciences,3,7,Frequent Travel,Y,1,5,4,3,0,3,3-5 yrs,0
+449,27,Male,Married,No,Business Development,Marketing & Communications,1,1,No Travel,Y,1,6,5,4,1,4,3-5 yrs,0
+440,28,Male,Married,Yes,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,5,3,2,2,2,3-5 yrs,5
+909,39,Female,Married,No,People Operations,Biological Sciences,3,2,Occasional Travel,Y,1,13,5,4,0,4,3-5 yrs,8
+1569,35,Female,Divorced,Yes,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+997,50,Male,Divorced,No,Product & Engineering,Medical Sciences,2,1,Occasional Travel,Y,1,32,5,4,1,3,3-5 yrs,9
+178,36,Male,Divorced,No,Product & Engineering,Medical Sciences,2,6,Occasional Travel,Y,1,7,3,2,0,1,3-5 yrs,6
+1780,21,Male,Single,Yes,Business Development,Marketing & Communications,1,7,Occasional Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+644,50,Male,Married,No,People Operations,Medical Sciences,3,3,Frequent Travel,Y,1,32,32,5,10,7,10+ yrs,1
+1118,52,Male,Single,No,Product & Engineering,Biological Sciences,4,7,Occasional Travel,Y,1,18,8,6,4,0,6-10 yrs,7
+582,33,Male,Married,Yes,Product & Engineering,Medical Sciences,1,15,Occasional Travel,Y,1,15,7,6,7,7,6-10 yrs,7
+1827,47,Female,Divorced,No,Product & Engineering,Biological Sciences,3,4,Occasional Travel,Y,1,28,22,11,14,10,10+ yrs,8
+872,22,Male,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,4,2,2,2,2,0-2 yrs,6
+828,28,Male,Single,Yes,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,5,2,2,2,1,0-2 yrs,6
+1681,33,Female,Divorced,No,Business Development,Biological Sciences,3,16,No Travel,Y,1,7,6,5,1,2,6-10 yrs,1
+215,40,Male,Married,No,Business Development,Marketing & Communications,4,4,Occasional Travel,Y,1,15,12,11,2,11,10+ yrs,7
+1371,27,Male,Single,No,Business Development,Biological Sciences,1,2,Frequent Travel,Y,1,8,6,2,0,0,6-10 yrs,3
+2012,40,Male,Married,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,8,1,0,0,0,0-2 yrs,8
+1096,55,Male,Married,No,Product & Engineering,Biological Sciences,1,2,Frequent Travel,Y,1,23,3,2,1,2,3-5 yrs,3
+1108,33,Male,Single,Yes,Product & Engineering,Medical Sciences,3,25,Occasional Travel,Y,1,5,2,2,2,2,0-2 yrs,4
+970,37,Male,Married,Yes,Business Development,Biological Sciences,4,1,Occasional Travel,Y,1,17,14,1,11,7,10+ yrs,5
+1779,34,Female,Single,No,Business Development,Biological Sciences,2,3,Occasional Travel,Y,1,6,2,2,2,2,0-2 yrs,5
+1280,46,Female,Married,No,Business Development,Marketing & Communications,2,4,Occasional Travel,Y,1,26,11,4,0,8,10+ yrs,2
+1582,38,Male,Married,No,Business Development,Biological Sciences,3,14,Occasional Travel,Y,1,10,9,8,7,7,6-10 yrs,0
+1311,30,Female,Married,No,Product & Engineering,Applied Technology,3,6,Occasional Travel,Y,1,10,9,2,6,7,6-10 yrs,0
+847,34,Male,Married,No,People Operations,HR Studies,2,3,Occasional Travel,Y,1,4,3,2,0,2,3-5 yrs,0
+1658,34,Female,Divorced,No,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,11,11,8,7,9,10+ yrs,1
+2036,36,Male,Divorced,No,Business Development,Marketing & Communications,4,15,No Travel,Y,1,15,15,12,11,11,10+ yrs,1
+2040,35,Female,Single,No,People Operations,Biological Sciences,4,26,Occasional Travel,Y,1,9,9,0,1,7,6-10 yrs,1
+586,35,Male,Married,No,Product & Engineering,Biological Sciences,3,16,Occasional Travel,Y,1,10,8,7,0,0,6-10 yrs,4
+1740,40,Male,Single,No,Business Development,Medical Sciences,4,7,Occasional Travel,Y,1,21,21,8,12,8,10+ yrs,1
+128,24,Female,Married,No,Business Development,General Studies,2,3,Occasional Travel,Y,1,4,3,2,0,2,3-5 yrs,0
+981,53,Male,Divorced,No,Business Development,Medical Sciences,2,2,Occasional Travel,Y,1,22,17,13,15,2,10+ yrs,6
+1671,32,Male,Divorced,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,10,9,5,1,6,6-10 yrs,0
+1504,28,Male,Single,Yes,Product & Engineering,Medical Sciences,2,2,Frequent Travel,Y,1,8,0,0,0,0,0-2 yrs,7
+1501,55,Male,Married,No,Product & Engineering,Biological Sciences,4,4,Occasional Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+548,30,Female,Single,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,11,5,4,0,2,3-5 yrs,2
+848,26,Female,Married,Yes,Product & Engineering,Medical Sciences,2,5,Frequent Travel,Y,1,8,8,7,1,7,6-10 yrs,1
+811,23,Male,Married,Yes,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,1,0,0,0,0,0-2 yrs,1
+211,51,Male,Married,No,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,10,1,0,0,0,0-2 yrs,2
+827,42,Female,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,8,4,3,0,2,3-5 yrs,9
+856,35,Female,Single,No,Product & Engineering,Medical Sciences,1,27,Occasional Travel,Y,1,6,6,5,1,1,6-10 yrs,1
+600,35,Male,Married,No,Business Development,Marketing & Communications,3,1,Occasional Travel,Y,1,15,11,9,6,9,10+ yrs,9
+701,20,Male,Single,Yes,Product & Engineering,Medical Sciences,1,10,Occasional Travel,Y,1,1,1,0,1,1,0-2 yrs,1
+1387,28,Male,Married,No,Business Development,Biological Sciences,3,26,Occasional Travel,Y,1,5,5,3,0,4,3-5 yrs,1
+1202,29,Female,Married,No,Product & Engineering,Biological Sciences,1,15,Occasional Travel,Y,1,6,5,4,1,3,3-5 yrs,0
+520,43,Male,Divorced,No,Product & Engineering,Biological Sciences,3,12,Occasional Travel,Y,1,25,25,10,3,9,10+ yrs,1
+1180,40,Female,Married,No,Product & Engineering,Medical Sciences,2,26,Frequent Travel,Y,1,16,1,1,0,0,0-2 yrs,3
+1192,29,Female,Married,No,Product & Engineering,Medical Sciences,1,6,Occasional Travel,Y,1,10,10,8,0,8,6-10 yrs,1
+1863,46,Female,Divorced,No,Business Development,Applied Technology,3,3,Occasional Travel,Y,1,25,19,17,2,8,10+ yrs,2
+1792,44,Male,Divorced,Yes,Product & Engineering,Medical Sciences,2,1,Frequent Travel,Y,1,6,5,3,2,3,3-5 yrs,1
+1443,47,Female,Married,No,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,26,20,17,5,6,10+ yrs,3
+772,32,Male,Married,No,Product & Engineering,Biological Sciences,4,24,Frequent Travel,Y,1,10,10,8,4,7,6-10 yrs,1
+662,38,Female,Single,No,Product & Engineering,Biological Sciences,1,1,Occasional Travel,Y,1,8,0,0,0,0,0-2 yrs,3
+1352,51,Male,Divorced,No,People Operations,Biological Sciences,3,5,Occasional Travel,Y,1,33,33,9,0,10,10+ yrs,1
+422,58,Male,Divorced,No,Product & Engineering,Biological Sciences,4,1,No Travel,Y,1,12,5,3,1,2,3-5 yrs,2
+620,35,Female,Single,No,Business Development,Medical Sciences,3,1,Occasional Travel,Y,1,5,5,4,0,3,3-5 yrs,1
+1465,45,Male,Married,No,Product & Engineering,Applied Technology,3,29,Occasional Travel,Y,1,10,3,1,1,2,3-5 yrs,4
+762,56,Male,Married,No,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,30,10,7,1,1,6-10 yrs,7
+1062,37,Female,Single,No,Product & Engineering,General Studies,3,3,Occasional Travel,Y,1,8,4,3,0,1,3-5 yrs,3
+1700,37,Male,Divorced,No,Business Development,Medical Sciences,4,1,Frequent Travel,Y,1,6,6,3,1,3,6-10 yrs,1
+985,39,Male,Single,No,Business Development,Biological Sciences,5,2,Occasional Travel,Y,1,9,8,7,0,7,6-10 yrs,0
+1182,35,Male,Divorced,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,15,7,7,6,4,6-10 yrs,2
+1070,54,Female,Married,No,Business Development,Biological Sciences,4,2,Occasional Travel,Y,1,13,9,4,7,0,6-10 yrs,6
+1046,32,Female,Single,No,Product & Engineering,Medical Sciences,4,29,No Travel,Y,1,10,8,7,7,7,6-10 yrs,9
+473,48,Female,Married,No,Business Development,Medical Sciences,1,29,Occasional Travel,Y,1,15,0,0,0,0,0-2 yrs,3
+998,33,Female,Married,No,Product & Engineering,General Studies,4,1,Frequent Travel,Y,1,6,6,5,1,2,6-10 yrs,1
+163,31,Male,Married,Yes,Business Development,Biological Sciences,4,6,Occasional Travel,Y,1,12,7,7,7,7,6-10 yrs,4
+244,46,Female,Divorced,No,Business Development,Marketing & Communications,2,1,Occasional Travel,Y,1,24,24,13,15,7,10+ yrs,1
+393,38,Male,Divorced,No,Product & Engineering,Biological Sciences,4,23,Occasional Travel,Y,1,10,2,2,1,2,0-2 yrs,9
+1995,38,Male,Married,No,Business Development,Biological Sciences,4,1,Occasional Travel,Y,1,16,15,13,5,8,10+ yrs,0
+1706,43,Male,Married,No,Business Development,Medical Sciences,3,2,Occasional Travel,Y,1,10,10,9,8,8,6-10 yrs,1
+403,37,Male,Married,No,Product & Engineering,Medical Sciences,3,9,Frequent Travel,Y,1,4,4,2,1,2,3-5 yrs,1
+445,39,Female,Married,Yes,Business Development,Medical Sciences,2,3,Occasional Travel,Y,1,12,1,0,0,0,0-2 yrs,4
+869,28,Male,Divorced,No,People Operations,Medical Sciences,2,8,Occasional Travel,Y,1,6,5,1,0,4,3-5 yrs,1
+2049,35,Male,Married,No,Product & Engineering,Biological Sciences,4,18,Frequent Travel,Y,1,10,10,2,0,2,6-10 yrs,1
+117,30,Male,Married,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,11,11,10,10,8,10+ yrs,1
+1307,39,Female,Divorced,No,Product & Engineering,Medical Sciences,4,13,Occasional Travel,Y,1,21,19,9,15,2,10+ yrs,6
+1866,43,Female,Married,No,Product & Engineering,Medical Sciences,3,6,Occasional Travel,Y,1,21,16,12,6,14,10+ yrs,7
+764,27,Female,Single,No,Product & Engineering,Medical Sciences,3,7,Occasional Travel,Y,1,9,7,6,0,7,6-10 yrs,8
+936,42,Female,Single,No,Business Development,Medical Sciences,2,14,Occasional Travel,Y,1,10,5,4,0,3,3-5 yrs,7
+1916,31,Female,Divorced,No,Product & Engineering,Medical Sciences,3,4,Occasional Travel,Y,1,4,2,2,2,2,0-2 yrs,8
+932,39,Male,Married,Yes,Product & Engineering,Medical Sciences,3,6,Occasional Travel,Y,1,8,2,2,2,2,0-2 yrs,7
+1264,29,Female,Divorced,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,9,7,7,1,7,6-10 yrs,3
+396,49,Female,Single,No,Product & Engineering,Biological Sciences,4,10,Frequent Travel,Y,1,22,3,2,1,2,3-5 yrs,9
+1961,38,Male,Single,No,Business Development,Biological Sciences,3,1,Occasional Travel,Y,1,20,1,0,0,0,0-2 yrs,4
+2008,35,Male,Single,No,Product & Engineering,Medical Sciences,4,9,Occasional Travel,Y,1,10,10,7,0,8,6-10 yrs,1
+468,42,Female,Single,No,Product & Engineering,Biological Sciences,5,23,Occasional Travel,Y,1,16,1,0,0,0,0-2 yrs,2
+1537,31,Female,Single,Yes,Product & Engineering,Biological Sciences,3,3,Frequent Travel,Y,1,7,7,2,7,7,6-10 yrs,1
+1951,34,Male,Divorced,No,Business Development,Medical Sciences,4,13,Occasional Travel,Y,1,9,8,7,1,1,6-10 yrs,1
+924,36,Male,Married,No,Product & Engineering,Biological Sciences,1,14,Occasional Travel,Y,1,17,16,8,4,11,10+ yrs,0
+800,27,Male,Married,No,Business Development,Marketing & Communications,1,8,Frequent Travel,Y,1,5,4,2,1,1,3-5 yrs,0
+615,40,Male,Divorced,No,Business Development,General Studies,3,28,No Travel,Y,1,20,1,0,0,1,0-2 yrs,3
+1535,34,Male,Married,No,Business Development,Applied Technology,3,1,Occasional Travel,Y,1,10,10,9,8,6,6-10 yrs,1
+451,43,Female,Married,No,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,10,1,0,0,0,0-2 yrs,8
+1453,31,Male,Divorced,No,Business Development,Biological Sciences,2,8,Occasional Travel,Y,1,13,13,7,9,9,10+ yrs,1
+1999,41,Male,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,12,5,3,1,0,3-5 yrs,3
+1956,31,Male,Married,No,Product & Engineering,Biological Sciences,3,1,Frequent Travel,Y,1,10,10,8,8,7,6-10 yrs,1
+1922,45,Male,Single,No,Product & Engineering,Medical Sciences,4,1,Frequent Travel,Y,1,12,4,2,0,3,3-5 yrs,4
+446,33,Male,Single,No,Business Development,Marketing & Communications,3,10,Frequent Travel,Y,1,9,7,7,0,1,6-10 yrs,3
+434,27,Female,Single,No,Product & Engineering,Biological Sciences,3,5,Occasional Travel,Y,1,4,4,3,1,2,3-5 yrs,1
+2061,36,Male,Married,No,Product & Engineering,Medical Sciences,2,23,Frequent Travel,Y,1,17,5,2,0,3,3-5 yrs,4
+1698,33,Male,Married,No,Product & Engineering,Medical Sciences,3,21,Occasional Travel,Y,1,14,14,11,2,13,10+ yrs,1
+16,31,Male,Divorced,No,Product & Engineering,Biological Sciences,1,26,Occasional Travel,Y,1,5,5,2,4,3,3-5 yrs,1
+235,19,Female,Single,Yes,Business Development,Applied Technology,1,1,Frequent Travel,Y,1,1,0,0,0,0,0-2 yrs,0
+359,32,Male,Married,No,Product & Engineering,Biological Sciences,3,7,Frequent Travel,Y,1,5,5,1,0,3,3-5 yrs,1
+1133,36,Male,Single,No,Product & Engineering,Biological Sciences,4,18,No Travel,Y,1,18,11,9,0,9,10+ yrs,2
+1794,37,Male,Divorced,No,People Operations,General Studies,2,8,Occasional Travel,Y,1,19,10,0,4,7,6-10 yrs,2
+1056,28,Male,Married,No,Business Development,Medical Sciences,1,10,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+183,25,Male,Married,No,Business Development,Biological Sciences,3,28,Occasional Travel,Y,1,6,2,2,2,2,0-2 yrs,2
+816,29,Female,Married,Yes,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1120,29,Female,Divorced,No,Product & Engineering,Biological Sciences,4,28,Occasional Travel,Y,1,11,7,5,1,7,6-10 yrs,4
+1035,41,Female,Divorced,No,Product & Engineering,Biological Sciences,1,7,No Travel,Y,1,21,21,16,5,10,10+ yrs,1
+184,30,Male,Married,No,People Operations,HR Studies,3,9,Occasional Travel,Y,1,12,11,9,4,7,10+ yrs,0
+1800,39,Male,Single,No,Product & Engineering,Medical Sciences,1,10,Occasional Travel,Y,1,9,4,3,2,2,3-5 yrs,7
+1783,22,Female,Married,Yes,Product & Engineering,Medical Sciences,1,8,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+308,31,Male,Married,No,Product & Engineering,Medical Sciences,4,1,No Travel,Y,1,6,5,4,1,4,3-5 yrs,0
+1045,45,Female,Married,No,Business Development,Biological Sciences,2,11,Occasional Travel,Y,1,26,9,3,1,1,6-10 yrs,3
+547,42,Female,Divorced,No,Product & Engineering,Biological Sciences,2,29,Frequent Travel,Y,1,19,5,4,0,2,3-5 yrs,2
+442,31,Female,Married,No,Product & Engineering,Biological Sciences,2,7,Frequent Travel,Y,1,10,10,9,8,9,6-10 yrs,1
+408,51,Male,Divorced,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,13,4,1,1,2,3-5 yrs,5
+1184,34,Male,Single,No,Product & Engineering,Medical Sciences,3,1,Frequent Travel,Y,1,14,13,9,4,9,10+ yrs,0
+992,33,Male,Single,No,Business Development,Biological Sciences,3,17,No Travel,Y,1,10,10,8,6,0,6-10 yrs,1
+1962,35,Female,Married,No,Business Development,Biological Sciences,4,7,Occasional Travel,Y,1,10,10,8,0,9,6-10 yrs,1
+1986,40,Female,Married,No,Business Development,Marketing & Communications,2,2,Occasional Travel,Y,1,15,11,8,5,10,10+ yrs,3
+1268,33,Male,Divorced,No,Business Development,Marketing & Communications,5,10,Occasional Travel,Y,1,10,9,8,0,8,6-10 yrs,0
+1163,34,Female,Married,No,Business Development,Biological Sciences,1,9,Occasional Travel,Y,1,6,6,5,1,3,6-10 yrs,1
+683,34,Male,Married,No,Product & Engineering,Biological Sciences,5,1,Occasional Travel,Y,1,10,10,9,8,8,6-10 yrs,1
+1015,30,Female,Married,No,Product & Engineering,Biological Sciences,2,8,Occasional Travel,Y,1,9,8,7,1,7,6-10 yrs,0
+5,33,Female,Married,No,Product & Engineering,Biological Sciences,4,3,Frequent Travel,Y,1,8,8,7,3,0,6-10 yrs,1
+1002,45,Male,Married,No,Product & Engineering,Biological Sciences,2,23,No Travel,Y,1,9,9,8,0,8,6-10 yrs,1
+626,37,Male,Divorced,No,Business Development,Medical Sciences,4,9,No Travel,Y,1,9,9,5,7,7,6-10 yrs,1
+438,31,Male,Divorced,No,Business Development,Marketing & Communications,3,7,Occasional Travel,Y,1,13,7,7,1,7,6-10 yrs,4
+8,32,Male,Single,No,Product & Engineering,Biological Sciences,2,2,Frequent Travel,Y,1,8,7,7,3,6,6-10 yrs,0
+1301,28,Male,Single,No,Product & Engineering,Applied Technology,3,1,Occasional Travel,Y,1,5,3,2,1,2,3-5 yrs,2
+1407,26,Male,Single,No,Product & Engineering,Medical Sciences,1,2,Occasional Travel,Y,1,5,4,3,1,1,3-5 yrs,0
+1004,30,Female,Married,Yes,Product & Engineering,Biological Sciences,3,22,Occasional Travel,Y,1,7,5,2,0,1,3-5 yrs,4
+52,33,Female,Married,No,Business Development,Biological Sciences,3,1,Frequent Travel,Y,1,10,5,3,1,3,3-5 yrs,2
+743,38,Female,Single,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,10,1,0,0,0,0-2 yrs,4
+334,41,Male,Divorced,No,Product & Engineering,Biological Sciences,2,19,Occasional Travel,Y,1,17,1,0,0,0,0-2 yrs,2
+179,51,Male,Single,Yes,Product & Engineering,Biological Sciences,4,8,Frequent Travel,Y,1,18,4,2,0,3,3-5 yrs,2
+837,38,Male,Divorced,No,Product & Engineering,Biological Sciences,3,12,Frequent Travel,Y,1,13,4,3,1,2,3-5 yrs,2
+1864,27,Female,Married,No,Business Development,Medical Sciences,1,23,Occasional Travel,Y,1,9,9,8,5,8,6-10 yrs,1
+901,53,Female,Single,No,Product & Engineering,Biological Sciences,4,23,Occasional Travel,Y,1,33,12,9,3,8,10+ yrs,6
+1479,30,Male,Married,No,Business Development,Biological Sciences,1,16,Occasional Travel,Y,1,4,2,1,2,2,0-2 yrs,8
+1876,30,Male,Single,Yes,Business Development,Medical Sciences,3,9,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+806,30,Male,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,7,2,2,0,2,0-2 yrs,3
+1423,58,Female,Married,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,32,9,8,1,5,6-10 yrs,3
+1047,34,Male,Divorced,No,Business Development,Marketing & Communications,4,1,Occasional Travel,Y,1,16,15,1,0,9,10+ yrs,0
+1918,26,Male,Married,No,Product & Engineering,General Studies,3,6,Frequent Travel,Y,1,8,7,7,7,7,6-10 yrs,0
+500,51,Female,Married,No,Business Development,Biological Sciences,2,14,Occasional Travel,Y,1,18,7,7,0,7,6-10 yrs,4
+429,39,Male,Married,No,Product & Engineering,Medical Sciences,1,10,Occasional Travel,Y,1,21,21,9,11,10,10+ yrs,1
+592,36,Male,Single,No,Business Development,Medical Sciences,4,10,No Travel,Y,1,10,10,3,9,7,6-10 yrs,1
+436,32,Female,Married,No,Business Development,Applied Technology,2,8,Occasional Travel,Y,1,13,13,12,11,9,10+ yrs,1
+1071,56,Female,Married,No,Product & Engineering,Medical Sciences,3,9,Frequent Travel,Y,1,18,5,4,0,3,3-5 yrs,2
+1483,57,Male,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,13,12,9,2,8,10+ yrs,0
+568,57,Male,Divorced,No,Business Development,Marketing & Communications,3,29,Occasional Travel,Y,1,32,1,0,0,0,0-2 yrs,3
+763,40,Female,Single,No,Product & Engineering,Medical Sciences,1,2,Occasional Travel,Y,1,5,4,2,2,3,3-5 yrs,0
+2023,23,Male,Married,Yes,Business Development,Marketing & Communications,3,9,Frequent Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+1689,53,Male,Married,No,Product & Engineering,Medical Sciences,4,24,Occasional Travel,Y,1,11,4,3,1,2,3-5 yrs,3
+1675,38,Female,Single,No,Product & Engineering,Medical Sciences,3,2,Frequent Travel,Y,1,4,4,3,3,3,3-5 yrs,1
+829,36,Male,Married,No,People Operations,HR Studies,3,13,Occasional Travel,Y,1,8,5,2,0,4,3-5 yrs,4
+312,29,Female,Married,No,Business Development,Medical Sciences,1,1,Frequent Travel,Y,1,11,11,10,4,1,10+ yrs,1
+2015,38,Female,Married,No,Product & Engineering,Medical Sciences,3,10,Occasional Travel,Y,1,20,18,16,1,11,10+ yrs,3
+1993,47,Male,Single,No,Product & Engineering,Medical Sciences,3,25,Occasional Travel,Y,1,25,17,14,12,11,10+ yrs,2
+1309,32,Male,Married,Yes,Product & Engineering,Biological Sciences,2,7,Occasional Travel,Y,1,10,10,4,1,1,6-10 yrs,1
+1621,35,Male,Married,No,Product & Engineering,Biological Sciences,5,18,Occasional Travel,Y,1,16,16,15,1,10,10+ yrs,1
+85,36,Male,Single,No,Product & Engineering,Biological Sciences,3,11,Frequent Travel,Y,1,6,6,5,0,3,6-10 yrs,1
+1420,49,Male,Single,Yes,Product & Engineering,Biological Sciences,2,28,Frequent Travel,Y,1,20,4,3,1,3,3-5 yrs,3
+804,34,Female,Single,No,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,6,6,5,1,3,6-10 yrs,1
+1322,39,Male,Single,No,Product & Engineering,Biological Sciences,2,18,Occasional Travel,Y,1,9,8,7,1,7,6-10 yrs,0
+292,30,Male,Single,No,Product & Engineering,Biological Sciences,1,1,No Travel,Y,1,12,11,8,5,8,10+ yrs,1
+1391,51,Male,Married,No,Business Development,Marketing & Communications,3,2,Frequent Travel,Y,1,14,4,2,3,2,3-5 yrs,2
+1291,35,Male,Married,No,Product & Engineering,Biological Sciences,1,6,Occasional Travel,Y,1,4,3,2,2,2,3-5 yrs,0
+732,60,Male,Single,No,Business Development,Marketing & Communications,4,16,Occasional Travel,Y,1,10,2,2,2,2,0-2 yrs,8
+2044,50,Male,Divorced,Yes,Business Development,Biological Sciences,4,1,Frequent Travel,Y,1,12,6,3,0,1,6-10 yrs,7
+1546,45,Male,Married,No,Product & Engineering,Applied Technology,3,28,Occasional Travel,Y,1,8,5,4,0,3,3-5 yrs,4
+112,56,Male,Single,No,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,37,6,4,0,2,6-10 yrs,4
+1857,46,Male,Divorced,No,Product & Engineering,Biological Sciences,2,2,Occasional Travel,Y,1,12,9,8,4,7,6-10 yrs,3
+1768,42,Male,Divorced,No,Product & Engineering,Medical Sciences,3,12,Occasional Travel,Y,1,7,5,3,0,4,3-5 yrs,8
+1697,60,Male,Divorced,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,19,1,0,0,0,0-2 yrs,3
+879,25,Male,Married,No,Business Development,General Studies,1,3,Occasional Travel,Y,1,5,5,3,0,3,3-5 yrs,1
+1858,28,Male,Divorced,No,People Operations,Biological Sciences,2,1,No Travel,Y,1,3,3,2,2,2,3-5 yrs,1
+1572,53,Female,Married,Yes,Product & Engineering,Applied Technology,5,2,Occasional Travel,Y,1,34,33,7,1,9,10+ yrs,0
+1936,39,Male,Married,No,Product & Engineering,Medical Sciences,2,9,Occasional Travel,Y,1,10,10,0,7,9,6-10 yrs,1
+1867,48,Male,Married,No,Product & Engineering,Biological Sciences,3,10,Occasional Travel,Y,1,29,22,10,12,9,10+ yrs,4
+378,37,Male,Married,No,Business Development,Medical Sciences,4,6,Occasional Travel,Y,1,7,5,4,0,1,3-5 yrs,4
+1392,41,Female,Divorced,No,Product & Engineering,Biological Sciences,3,22,Frequent Travel,Y,1,12,6,2,3,3,6-10 yrs,3
+484,21,Male,Single,No,Business Development,Medical Sciences,2,9,No Travel,Y,1,3,3,2,2,2,3-5 yrs,1
+859,32,Male,Divorced,No,Business Development,Biological Sciences,4,13,Occasional Travel,Y,1,8,5,2,0,3,3-5 yrs,2
+4,37,Male,Single,Yes,Product & Engineering,General Studies,2,2,Occasional Travel,Y,1,7,0,0,0,0,0-2 yrs,6
+10,59,Female,Married,No,Product & Engineering,Medical Sciences,3,3,Occasional Travel,Y,1,12,1,0,0,0,0-2 yrs,4
+425,45,Male,Divorced,No,Product & Engineering,Biological Sciences,3,7,Frequent Travel,Y,1,24,24,9,9,11,10+ yrs,1
+881,35,Female,Divorced,Yes,Product & Engineering,Biological Sciences,4,25,Frequent Travel,Y,1,10,10,2,7,8,6-10 yrs,1
+1257,36,Male,Married,No,Product & Engineering,Applied Technology,3,3,Frequent Travel,Y,1,12,11,10,0,7,10+ yrs,1
+2037,41,Male,Divorced,No,Business Development,Biological Sciences,3,3,Occasional Travel,Y,1,14,5,4,0,4,3-5 yrs,2
+298,41,Female,Single,No,Business Development,Biological Sciences,3,6,Occasional Travel,Y,1,16,1,0,0,0,0-2 yrs,3
+1292,42,Female,Married,No,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,18,1,0,0,0,0-2 yrs,6
+35,42,Male,Married,No,Business Development,Marketing & Communications,4,8,Occasional Travel,Y,1,10,9,7,4,2,6-10 yrs,0
+1495,24,Female,Married,No,Business Development,Biological Sciences,2,13,No Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1157,33,Female,Single,Yes,Business Development,Marketing & Communications,4,9,Occasional Travel,Y,1,6,5,2,0,3,3-5 yrs,0
+902,43,Female,Married,No,Product & Engineering,Biological Sciences,3,1,Frequent Travel,Y,1,12,5,2,2,2,3-5 yrs,4
+885,25,Male,Married,No,Business Development,Marketing & Communications,1,4,Occasional Travel,Y,1,5,5,2,0,3,3-5 yrs,1
+1006,38,Male,Married,No,Product & Engineering,Medical Sciences,1,10,Frequent Travel,Y,1,3,2,1,0,2,0-2 yrs,0
+1515,33,Male,Single,No,Product & Engineering,Biological Sciences,5,8,Occasional Travel,Y,1,14,0,0,0,0,0-2 yrs,2
+862,53,Female,Married,No,Business Development,Marketing & Communications,2,7,Occasional Travel,Y,1,35,5,2,0,4,3-5 yrs,7
+1126,43,Female,Married,No,Product & Engineering,Biological Sciences,3,27,Frequent Travel,Y,1,18,8,7,0,1,6-10 yrs,8
+351,42,Female,Divorced,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,10,9,6,7,8,6-10 yrs,0
+32,53,Female,Divorced,No,Product & Engineering,General Studies,3,5,Occasional Travel,Y,1,26,14,13,4,8,10+ yrs,4
+454,29,Male,Married,Yes,Product & Engineering,General Studies,4,8,Occasional Travel,Y,1,7,7,7,0,7,6-10 yrs,1
+793,29,Female,Married,No,Product & Engineering,Medical Sciences,3,27,Occasional Travel,Y,1,11,8,7,1,1,6-10 yrs,4
+61,37,Male,Married,No,Product & Engineering,Biological Sciences,2,19,Occasional Travel,Y,1,8,1,0,0,0,0-2 yrs,4
+141,50,Female,Married,No,Product & Engineering,Biological Sciences,3,1,Frequent Travel,Y,1,28,8,3,0,7,6-10 yrs,3
+469,29,Male,Married,No,Business Development,Biological Sciences,3,2,No Travel,Y,1,4,4,3,0,2,3-5 yrs,1
+73,33,Female,Single,No,Product & Engineering,Biological Sciences,2,1,Frequent Travel,Y,1,15,15,14,8,12,10+ yrs,1
+1074,55,Male,Single,No,Product & Engineering,Medical Sciences,1,2,No Travel,Y,1,31,9,7,6,2,6-10 yrs,7
+296,51,Male,Married,No,Product & Engineering,Biological Sciences,4,8,Occasional Travel,Y,1,16,10,9,4,7,6-10 yrs,5
+159,30,Male,Divorced,No,Product & Engineering,Biological Sciences,3,23,Frequent Travel,Y,1,10,10,7,0,9,6-10 yrs,1
+1256,49,Male,Married,No,Product & Engineering,Medical Sciences,2,4,Occasional Travel,Y,1,23,1,0,0,0,0-2 yrs,2
+987,47,Male,Divorced,No,Product & Engineering,Medical Sciences,4,16,Frequent Travel,Y,1,20,19,10,2,7,10+ yrs,1
+95,31,Male,Single,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,1,1,1,1,0,0-2 yrs,1
+1856,47,Female,Single,No,Product & Engineering,Biological Sciences,4,9,Occasional Travel,Y,1,7,2,2,2,0,0-2 yrs,4
+1308,58,Male,Divorced,No,Product & Engineering,Biological Sciences,4,23,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+58,41,Female,Married,Yes,Product & Engineering,Applied Technology,3,12,Occasional Travel,Y,1,23,22,15,15,8,10+ yrs,1
+2054,29,Female,Single,No,Product & Engineering,Medical Sciences,4,28,Occasional Travel,Y,1,5,5,4,0,4,3-5 yrs,1
+716,50,Male,Married,No,Product & Engineering,Medical Sciences,1,28,Occasional Travel,Y,1,20,20,8,3,8,10+ yrs,1
+2010,32,Female,Single,No,Product & Engineering,Biological Sciences,4,29,Occasional Travel,Y,1,6,6,2,4,1,6-10 yrs,1
+1608,44,Female,Divorced,No,Product & Engineering,Medical Sciences,3,7,Occasional Travel,Y,1,23,22,7,1,10,10+ yrs,0
+1152,38,Male,Married,No,People Operations,HR Studies,3,1,Occasional Travel,Y,1,7,7,6,5,0,6-10 yrs,1
+1053,26,Male,Married,Yes,Product & Engineering,Biological Sciences,3,2,Frequent Travel,Y,1,6,3,2,1,2,3-5 yrs,6
+729,40,Male,Married,No,Business Development,Biological Sciences,4,5,Frequent Travel,Y,1,20,18,13,1,12,10+ yrs,5
+834,45,Female,Single,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+624,46,Female,Married,No,Product & Engineering,Medical Sciences,1,18,Frequent Travel,Y,1,28,2,2,1,2,0-2 yrs,5
+1082,28,Male,Single,Yes,Product & Engineering,Applied Technology,2,24,No Travel,Y,1,10,10,7,1,9,6-10 yrs,1
+1755,34,Male,Married,No,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,6,5,0,1,2,3-5 yrs,0
+1034,55,Male,Married,No,Product & Engineering,Medical Sciences,4,18,Frequent Travel,Y,1,17,8,7,6,7,6-10 yrs,3
+1269,19,Female,Single,No,Product & Engineering,Biological Sciences,3,25,Occasional Travel,Y,1,1,1,0,0,1,0-2 yrs,1
+78,32,Male,Married,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,9,9,8,7,8,6-10 yrs,1
+1449,40,Male,Divorced,No,Product & Engineering,General Studies,4,9,No Travel,Y,1,11,8,7,0,7,6-10 yrs,3
+121,30,Female,Divorced,No,Business Development,Medical Sciences,2,4,Occasional Travel,Y,1,11,11,8,2,7,10+ yrs,1
+926,22,Female,Married,Yes,Product & Engineering,Biological Sciences,1,3,Occasional Travel,Y,1,4,3,2,0,2,3-5 yrs,0
+945,48,Male,Married,No,Product & Engineering,Medical Sciences,4,20,Occasional Travel,Y,1,13,0,0,0,0,0-2 yrs,4
+264,45,Male,Married,No,Product & Engineering,Medical Sciences,2,2,No Travel,Y,1,22,20,8,11,8,10+ yrs,9
+386,53,Male,Married,No,Product & Engineering,Medical Sciences,4,3,Occasional Travel,Y,1,21,5,3,1,3,3-5 yrs,3
+481,36,Male,Married,No,Business Development,Medical Sciences,4,3,Frequent Travel,Y,1,16,13,9,1,12,10+ yrs,4
+710,29,Male,Divorced,No,Product & Engineering,Biological Sciences,4,1,Frequent Travel,Y,1,10,10,7,2,8,6-10 yrs,1
+1080,46,Female,Divorced,No,Product & Engineering,Biological Sciences,4,8,Occasional Travel,Y,1,19,16,13,1,7,10+ yrs,8
+1025,41,Female,Single,No,Product & Engineering,Medical Sciences,2,7,Occasional Travel,Y,1,8,2,2,2,1,0-2 yrs,6
+248,41,Female,Single,Yes,Business Development,Marketing & Communications,2,20,Occasional Travel,Y,1,4,4,3,0,2,3-5 yrs,1
+1401,52,Female,Married,No,Product & Engineering,Medical Sciences,2,28,Frequent Travel,Y,1,24,5,3,0,2,3-5 yrs,2
+145,51,Female,Single,No,Product & Engineering,Medical Sciences,4,1,Frequent Travel,Y,1,23,13,12,12,8,10+ yrs,3
+55,26,Male,Single,Yes,Product & Engineering,Biological Sciences,3,25,Occasional Travel,Y,1,1,1,0,0,1,0-2 yrs,1
+1556,36,Male,Single,No,Business Development,Biological Sciences,4,2,Occasional Travel,Y,1,7,3,2,1,2,3-5 yrs,3
+282,38,Male,Married,Yes,Product & Engineering,Medical Sciences,1,29,Occasional Travel,Y,1,17,1,0,0,0,0-2 yrs,7
+1613,31,Male,Single,No,Business Development,General Studies,4,2,Frequent Travel,Y,1,10,5,2,0,3,3-5 yrs,7
+68,44,Female,Divorced,No,Business Development,Marketing & Communications,5,1,Occasional Travel,Y,1,9,4,3,1,3,3-5 yrs,5
+747,30,Male,Divorced,No,Business Development,Marketing & Communications,5,27,Occasional Travel,Y,1,10,8,7,7,7,6-10 yrs,7
+1331,31,Female,Single,Yes,Business Development,Biological Sciences,3,1,Frequent Travel,Y,1,3,3,2,2,2,3-5 yrs,1
+1405,27,Female,Single,Yes,Product & Engineering,Biological Sciences,4,17,Occasional Travel,Y,1,8,8,2,7,7,6-10 yrs,1
+1136,28,Male,Married,No,Product & Engineering,Biological Sciences,1,2,Occasional Travel,Y,1,6,5,3,0,4,3-5 yrs,0
+1009,24,Female,Divorced,No,Product & Engineering,Medical Sciences,1,17,Occasional Travel,Y,1,5,4,2,3,2,3-5 yrs,1
+249,50,Male,Married,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,5,3,2,0,2,3-5 yrs,2
+182,39,Female,Married,No,Business Development,Biological Sciences,4,4,Occasional Travel,Y,1,17,15,11,5,9,10+ yrs,4
+1298,30,Female,Single,No,Product & Engineering,Medical Sciences,2,9,No Travel,Y,1,10,8,4,1,7,6-10 yrs,7
+104,30,Male,Married,No,Product & Engineering,Biological Sciences,1,1,Occasional Travel,Y,1,10,10,8,3,0,6-10 yrs,1
+1669,29,Male,Divorced,No,Business Development,Medical Sciences,3,5,Occasional Travel,Y,1,10,10,0,0,9,6-10 yrs,1
+140,59,Female,Married,No,People Operations,HR Studies,4,2,No Travel,Y,1,30,3,2,2,2,3-5 yrs,9
+742,36,Female,Married,No,Product & Engineering,Biological Sciences,3,8,No Travel,Y,1,10,8,7,0,5,6-10 yrs,9
+994,29,Female,Single,Yes,Product & Engineering,Biological Sciences,3,10,Occasional Travel,Y,1,3,0,0,0,0,0-2 yrs,6
+648,30,Male,Married,Yes,Business Development,Biological Sciences,4,12,Frequent Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+226,50,Female,Single,No,Product & Engineering,Biological Sciences,3,11,Occasional Travel,Y,1,21,5,4,4,4,3-5 yrs,3
+340,37,Female,Married,No,Product & Engineering,Medical Sciences,2,1,Occasional Travel,Y,1,17,3,1,0,2,3-5 yrs,2
+421,38,Female,Married,No,Product & Engineering,Biological Sciences,2,25,Occasional Travel,Y,1,19,10,8,0,1,6-10 yrs,3
+599,41,Male,Single,No,Business Development,Biological Sciences,2,10,No Travel,Y,1,16,14,3,1,10,10+ yrs,7
+1762,29,Female,Divorced,No,Product & Engineering,Applied Technology,3,4,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+452,45,Male,Married,No,Product & Engineering,General Studies,4,8,Occasional Travel,Y,1,12,10,9,9,8,6-10 yrs,9
+129,28,Male,Married,No,Business Development,Medical Sciences,3,4,No Travel,Y,1,5,5,4,0,4,3-5 yrs,1
+1954,29,Male,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,6,5,3,0,2,3-5 yrs,0
+1109,42,Male,Married,No,Product & Engineering,Medical Sciences,2,2,Occasional Travel,Y,1,23,22,6,13,7,10+ yrs,0
+1263,48,Male,Single,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,25,1,0,0,0,0-2 yrs,6
+137,20,Female,Single,Yes,Product & Engineering,Biological Sciences,3,6,Frequent Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+581,31,Male,Divorced,No,Product & Engineering,Biological Sciences,1,9,Occasional Travel,Y,1,13,13,8,0,8,10+ yrs,1
+1722,41,Male,Married,No,People Operations,HR Studies,3,4,No Travel,Y,1,10,3,2,1,2,3-5 yrs,6
+1844,29,Male,Divorced,Yes,People Operations,HR Studies,3,13,Occasional Travel,Y,1,4,2,2,2,0,0-2 yrs,4
+1171,42,Male,Single,No,Business Development,Marketing & Communications,4,4,Occasional Travel,Y,1,9,6,4,1,5,6-10 yrs,7
+2045,36,Female,Married,No,Business Development,Marketing & Communications,4,11,Occasional Travel,Y,1,8,6,3,0,0,6-10 yrs,4
+412,28,Male,Single,No,Product & Engineering,Medical Sciences,2,16,Occasional Travel,Y,1,9,8,3,0,7,6-10 yrs,0
+1734,32,Male,Single,Yes,Business Development,Biological Sciences,2,1,Occasional Travel,Y,1,10,0,0,0,0,0-2 yrs,6
+1682,36,Male,Married,No,Product & Engineering,Biological Sciences,4,26,Occasional Travel,Y,1,10,3,2,0,2,3-5 yrs,6
+517,42,Female,Divorced,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,8,5,2,1,2,3-5 yrs,3
+327,43,Female,Married,No,Business Development,Marketing & Communications,3,16,Occasional Travel,Y,1,22,17,13,1,9,10+ yrs,5
+1710,36,Female,Single,No,Business Development,Biological Sciences,4,2,Occasional Travel,Y,1,17,13,7,6,7,10+ yrs,3
+369,25,Male,Divorced,No,Product & Engineering,Biological Sciences,2,5,No Travel,Y,1,6,6,3,1,5,6-10 yrs,1
+419,36,Female,Married,No,Product & Engineering,Biological Sciences,4,24,No Travel,Y,1,11,9,8,0,8,6-10 yrs,7
+154,36,Female,Married,No,Business Development,Applied Technology,2,11,Frequent Travel,Y,1,10,9,7,2,8,6-10 yrs,0
+1668,38,Male,Married,No,Product & Engineering,Biological Sciences,3,1,Frequent Travel,Y,1,19,13,11,2,9,10+ yrs,7
+939,33,Male,Single,No,Product & Engineering,General Studies,4,1,Occasional Travel,Y,1,6,3,2,0,2,3-5 yrs,3
+341,45,Male,Married,No,Product & Engineering,Biological Sciences,4,7,Frequent Travel,Y,1,9,3,2,0,2,3-5 yrs,4
+1898,27,Female,Single,No,Business Development,Medical Sciences,2,2,Occasional Travel,Y,1,9,8,7,0,7,6-10 yrs,0
+1489,34,Female,Single,Yes,Business Development,Medical Sciences,4,24,Occasional Travel,Y,1,16,15,9,10,10,10+ yrs,0
+94,29,Male,Married,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,6,5,4,0,4,3-5 yrs,0
+125,32,Male,Single,No,Business Development,Medical Sciences,4,6,Occasional Travel,Y,1,12,11,8,5,7,10+ yrs,1
+1124,46,Male,Married,No,Business Development,Marketing & Communications,1,3,Occasional Travel,Y,1,23,12,9,4,9,10+ yrs,3
+42,39,Male,Married,Yes,Business Development,Applied Technology,3,5,Occasional Travel,Y,1,19,1,0,0,0,0-2 yrs,3
+1523,44,Male,Married,No,Product & Engineering,Biological Sciences,3,28,Occasional Travel,Y,1,24,20,6,14,17,10+ yrs,3
+601,40,Female,Single,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,22,20,6,5,13,10+ yrs,7
+597,55,Female,Single,No,Business Development,Biological Sciences,5,18,Occasional Travel,Y,1,37,10,9,7,7,6-10 yrs,3
+999,41,Male,Divorced,No,Product & Engineering,Medical Sciences,3,9,Frequent Travel,Y,1,21,18,16,0,11,10+ yrs,2
+1188,43,Female,Single,Yes,Business Development,Marketing & Communications,3,9,Occasional Travel,Y,1,7,4,3,1,3,3-5 yrs,8
+1583,38,Female,Single,No,Business Development,Biological Sciences,3,16,Occasional Travel,Y,1,8,3,2,1,2,3-5 yrs,2
+1752,29,Female,Single,Yes,Business Development,Marketing & Communications,3,9,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1417,26,Male,Single,No,Product & Engineering,General Studies,3,7,Occasional Travel,Y,1,8,7,7,0,7,6-10 yrs,0
+101,45,Male,Married,No,Product & Engineering,General Studies,4,6,Occasional Travel,Y,1,17,0,0,0,0,0-2 yrs,4
+110,34,Male,Married,No,Product & Engineering,Medical Sciences,2,1,Occasional Travel,Y,1,5,5,2,1,3,3-5 yrs,1
+1382,38,Male,Divorced,No,Product & Engineering,Biological Sciences,3,7,Frequent Travel,Y,1,4,4,2,0,3,3-5 yrs,1
+106,55,Male,Married,No,Business Development,Biological Sciences,2,1,Occasional Travel,Y,1,24,1,0,1,0,0-2 yrs,3
+614,18,Male,Single,Yes,Business Development,Marketing & Communications,3,5,Frequent Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+1628,40,Female,Married,No,Product & Engineering,Biological Sciences,3,15,Occasional Travel,Y,1,18,18,15,14,12,10+ yrs,1
+942,35,Female,Married,No,Product & Engineering,Biological Sciences,1,21,Occasional Travel,Y,1,10,10,6,0,7,6-10 yrs,1
+1315,28,Female,Married,No,Product & Engineering,Biological Sciences,3,1,No Travel,Y,1,10,9,8,7,5,6-10 yrs,0
+1680,20,Male,Single,No,Business Development,Biological Sciences,1,9,Occasional Travel,Y,1,2,2,2,0,2,0-2 yrs,1
+584,33,Male,Divorced,Yes,Product & Engineering,Medical Sciences,1,10,Occasional Travel,Y,1,8,4,3,1,3,3-5 yrs,7
+895,31,Male,Married,No,Product & Engineering,Biological Sciences,4,11,Occasional Travel,Y,1,8,6,4,0,2,6-10 yrs,3
+1092,40,Male,Married,No,Product & Engineering,Applied Technology,4,20,Occasional Travel,Y,1,14,11,10,11,1,10+ yrs,4
+1215,50,Female,Married,No,Product & Engineering,Medical Sciences,3,2,Frequent Travel,Y,1,32,2,2,2,2,0-2 yrs,2
+1648,27,Male,Single,No,Product & Engineering,Medical Sciences,3,2,Frequent Travel,Y,1,6,4,2,1,2,3-5 yrs,2
+536,28,Male,Divorced,No,Product & Engineering,Medical Sciences,2,17,Occasional Travel,Y,1,10,10,0,1,8,6-10 yrs,1
+1790,36,Male,Married,No,Product & Engineering,Biological Sciences,3,10,Occasional Travel,Y,1,15,12,8,5,7,10+ yrs,7
+1472,53,Male,Single,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,35,9,8,8,8,6-10 yrs,4
+1803,42,Male,Married,No,Product & Engineering,Medical Sciences,3,13,Occasional Travel,Y,1,10,0,0,0,0,0-2 yrs,5
+139,37,Male,Divorced,No,Product & Engineering,Biological Sciences,2,2,No Travel,Y,1,17,1,0,0,0,0-2 yrs,5
+843,43,Male,Married,No,Product & Engineering,Biological Sciences,2,14,Occasional Travel,Y,1,22,4,1,1,0,3-5 yrs,6
+1270,23,Male,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,1,1,0,0,1,0-2 yrs,1
+1409,52,Female,Married,No,Product & Engineering,General Studies,4,8,Occasional Travel,Y,1,12,5,4,0,4,3-5 yrs,9
+1249,29,Female,Divorced,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,3,3,2,1,2,3-5 yrs,1
+80,50,Female,Divorced,No,Product & Engineering,Medical Sciences,2,7,Occasional Travel,Y,1,29,27,3,13,8,10+ yrs,5
+387,42,Male,Married,No,Business Development,Biological Sciences,1,1,Occasional Travel,Y,1,20,20,16,11,6,10+ yrs,1
+2068,34,Male,Married,No,Product & Engineering,Medical Sciences,3,8,Occasional Travel,Y,1,6,4,3,1,2,3-5 yrs,2
+330,32,Female,Married,No,Business Development,Biological Sciences,2,4,Occasional Travel,Y,1,6,4,3,1,2,3-5 yrs,2
+307,38,Male,Divorced,No,Business Development,Biological Sciences,3,3,Occasional Travel,Y,1,17,16,10,5,13,10+ yrs,0
+197,30,Female,Divorced,No,Product & Engineering,Applied Technology,3,5,Occasional Travel,Y,1,8,3,2,2,2,3-5 yrs,5
+1935,56,Female,Married,No,Business Development,Marketing & Communications,5,11,Occasional Travel,Y,1,6,0,0,0,0,0-2 yrs,4
+497,27,Male,Divorced,No,Product & Engineering,Medical Sciences,2,1,Occasional Travel,Y,1,5,5,2,0,4,3-5 yrs,1
+155,36,Female,Divorced,No,Product & Engineering,Biological Sciences,2,3,Occasional Travel,Y,1,7,1,0,0,0,0-2 yrs,5
+1802,40,Female,Married,No,Product & Engineering,Biological Sciences,2,2,Occasional Travel,Y,1,7,4,3,0,2,3-5 yrs,4
+342,37,Male,Divorced,Yes,Product & Engineering,Medical Sciences,3,10,Frequent Travel,Y,1,17,1,0,0,0,0-2 yrs,6
+1994,33,Male,Divorced,No,Product & Engineering,Medical Sciences,2,1,No Travel,Y,1,1,1,1,0,0,0-2 yrs,1
+13,36,Male,Married,No,Product & Engineering,Medical Sciences,3,27,Occasional Travel,Y,1,17,7,7,7,7,6-10 yrs,6
+602,39,Female,Married,No,Product & Engineering,Biological Sciences,1,8,Frequent Travel,Y,1,8,8,3,0,7,6-10 yrs,1
+990,36,Male,Divorced,No,Business Development,Applied Technology,4,8,No Travel,Y,1,12,7,7,0,7,6-10 yrs,4
+350,25,Female,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,5,4,2,1,2,3-5 yrs,0
+823,36,Female,Married,No,Product & Engineering,General Studies,3,1,Occasional Travel,Y,1,10,9,7,0,5,6-10 yrs,0
+518,37,Male,Single,No,Product & Engineering,Biological Sciences,4,10,Occasional Travel,Y,1,18,1,0,0,1,0-2 yrs,2
+1282,51,Male,Divorced,No,Business Development,Biological Sciences,3,9,Frequent Travel,Y,1,31,29,10,11,10,10+ yrs,4
+1655,49,Female,Married,No,Product & Engineering,General Studies,4,22,Occasional Travel,Y,1,27,4,2,1,2,3-5 yrs,3
+771,35,Female,Divorced,No,Product & Engineering,Biological Sciences,4,2,No Travel,Y,1,16,1,0,0,0,0-2 yrs,2
+1767,43,Male,Married,Yes,Product & Engineering,Applied Technology,3,17,Frequent Travel,Y,1,6,1,0,0,0,0-2 yrs,9
+1114,33,Female,Married,No,Business Development,Biological Sciences,3,7,Frequent Travel,Y,1,4,3,2,0,2,3-5 yrs,0
+618,26,Male,Divorced,No,Business Development,Medical Sciences,2,29,Occasional Travel,Y,1,8,0,0,0,0,0-2 yrs,5
+1007,46,Male,Divorced,No,Product & Engineering,Medical Sciences,2,7,Occasional Travel,Y,1,13,8,7,0,7,6-10 yrs,6
+1907,56,Male,Single,Yes,Product & Engineering,Biological Sciences,2,24,Occasional Travel,Y,1,5,4,2,1,0,3-5 yrs,1
+195,32,Male,Divorced,No,Business Development,Medical Sciences,2,9,Frequent Travel,Y,1,9,8,7,0,7,6-10 yrs,0
+680,30,Female,Divorced,No,Product & Engineering,Medical Sciences,3,3,Frequent Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1562,30,Male,Married,Yes,Business Development,Biological Sciences,3,1,Occasional Travel,Y,1,10,10,8,6,7,6-10 yrs,1
+1027,27,Female,Married,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,4,3,2,2,2,3-5 yrs,0
+1911,42,Male,Married,No,Product & Engineering,Medical Sciences,3,6,Occasional Travel,Y,1,18,13,7,5,7,10+ yrs,9
+1016,20,Female,Single,Yes,Product & Engineering,Medical Sciences,3,11,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+738,50,Male,Married,No,Business Development,Marketing & Communications,4,8,Occasional Travel,Y,1,4,2,2,2,2,0-2 yrs,7
+243,19,Male,Single,Yes,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+1996,31,Male,Married,No,Business Development,Biological Sciences,2,2,Occasional Travel,Y,1,3,2,2,1,2,0-2 yrs,0
+974,29,Female,Married,No,Business Development,Applied Technology,3,20,Frequent Travel,Y,1,3,3,1,0,2,3-5 yrs,1
+1860,42,Male,Single,No,Product & Engineering,Biological Sciences,3,8,Occasional Travel,Y,1,8,0,0,0,0,0-2 yrs,4
+1880,36,Female,Married,No,Business Development,Applied Technology,4,10,Occasional Travel,Y,1,10,10,9,1,7,6-10 yrs,1
+1167,42,Male,Single,Yes,Business Development,Biological Sciences,3,12,Frequent Travel,Y,1,22,21,9,13,14,10+ yrs,0
+1204,46,Female,Married,No,Business Development,Marketing & Communications,3,2,Occasional Travel,Y,1,28,26,15,15,9,10+ yrs,8
+2056,39,Female,Married,No,Business Development,Marketing & Communications,1,24,Occasional Travel,Y,1,21,20,9,9,6,10+ yrs,0
+11,30,Male,Divorced,No,Product & Engineering,Biological Sciences,1,24,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1435,36,Male,Single,No,Product & Engineering,Biological Sciences,4,4,Occasional Travel,Y,1,10,10,4,1,8,6-10 yrs,1
+927,41,Female,Divorced,Yes,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,10,7,7,1,0,6-10 yrs,4
+1605,22,Female,Married,No,Product & Engineering,General Studies,2,26,No Travel,Y,1,4,4,2,1,3,3-5 yrs,1
+478,21,Female,Single,Yes,Business Development,Applied Technology,1,1,Frequent Travel,Y,1,3,3,2,1,2,3-5 yrs,1
+1085,41,Female,Married,No,Product & Engineering,Applied Technology,2,7,Occasional Travel,Y,1,10,10,6,0,8,6-10 yrs,1
+1564,35,Male,Single,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,3,3,0,1,2,3-5 yrs,1
+447,47,Male,Married,No,Product & Engineering,Biological Sciences,5,5,Occasional Travel,Y,1,21,3,2,1,1,3-5 yrs,4
+1460,45,Male,Divorced,No,Product & Engineering,Medical Sciences,3,20,Occasional Travel,Y,1,24,7,7,0,7,6-10 yrs,2
+1590,29,Male,Divorced,No,Product & Engineering,Biological Sciences,1,2,Frequent Travel,Y,1,6,6,4,1,3,6-10 yrs,1
+2060,26,Female,Single,No,Business Development,General Studies,3,5,Occasional Travel,Y,1,5,4,2,0,0,3-5 yrs,0
+353,51,Male,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1932,34,Male,Married,No,Product & Engineering,General Studies,4,22,Frequent Travel,Y,1,16,15,10,6,11,10+ yrs,1
+496,35,Male,Single,No,Product & Engineering,Biological Sciences,4,9,Occasional Travel,Y,1,10,1,1,0,0,0-2 yrs,9
+1534,40,Male,Single,Yes,Product & Engineering,Biological Sciences,4,9,Occasional Travel,Y,1,15,5,4,1,0,3-5 yrs,3
+1242,42,Female,Married,No,Product & Engineering,Medical Sciences,5,26,Frequent Travel,Y,1,20,1,0,0,0,0-2 yrs,3
+193,38,Female,Single,No,Product & Engineering,Applied Technology,5,3,Occasional Travel,Y,1,19,3,2,2,2,3-5 yrs,3
+720,24,Female,Single,Yes,Business Development,Biological Sciences,2,3,Occasional Travel,Y,1,4,2,2,2,0,0-2 yrs,9
+1588,39,Male,Married,No,Business Development,Medical Sciences,3,6,Occasional Travel,Y,1,11,7,6,7,6,6-10 yrs,2
+1361,40,Male,Married,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,7,4,2,0,3,3-5 yrs,3
+1553,45,Male,Divorced,No,Product & Engineering,Applied Technology,4,1,Occasional Travel,Y,1,10,10,8,7,7,6-10 yrs,1
+2051,40,Female,Married,No,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,20,5,3,0,2,3-5 yrs,2
+590,34,Female,Divorced,Yes,People Operations,HR Studies,3,23,Frequent Travel,Y,1,11,3,2,0,2,3-5 yrs,9
+727,32,Female,Single,No,Product & Engineering,Biological Sciences,2,3,Occasional Travel,Y,1,10,7,7,7,7,6-10 yrs,3
+1656,50,Female,Divorced,No,Product & Engineering,Biological Sciences,5,17,Occasional Travel,Y,1,19,14,11,1,11,10+ yrs,5
+311,37,Male,Divorced,No,Business Development,Marketing & Communications,4,4,Frequent Travel,Y,1,13,9,8,5,8,6-10 yrs,4
+1421,29,Female,Single,Yes,Product & Engineering,General Studies,1,14,Frequent Travel,Y,1,9,8,7,7,7,6-10 yrs,0
+314,35,Female,Single,No,Business Development,Marketing & Communications,3,1,Frequent Travel,Y,1,10,10,7,0,8,6-10 yrs,1
+1833,31,Female,Married,No,Business Development,Marketing & Communications,4,7,Frequent Travel,Y,1,9,3,2,2,2,3-5 yrs,2
+1782,38,Female,Married,No,Product & Engineering,General Studies,2,6,Occasional Travel,Y,1,5,5,4,0,4,3-5 yrs,1
+293,27,Female,Single,No,Business Development,Biological Sciences,3,20,Frequent Travel,Y,1,7,7,7,0,7,6-10 yrs,1
+103,46,Male,Divorced,No,People Operations,Medical Sciences,2,5,Occasional Travel,Y,1,16,4,2,0,2,3-5 yrs,8
+200,41,Male,Married,No,Product & Engineering,Biological Sciences,4,9,Occasional Travel,Y,1,7,5,0,1,4,3-5 yrs,2
+1128,40,Male,Single,No,Product & Engineering,Medical Sciences,3,14,Occasional Travel,Y,1,21,20,7,4,9,10+ yrs,1
+1211,30,Male,Divorced,No,Business Development,Biological Sciences,4,29,Occasional Travel,Y,1,8,4,3,0,3,3-5 yrs,8
+1224,30,Male,Divorced,No,Product & Engineering,Biological Sciences,4,7,Occasional Travel,Y,1,10,10,7,8,9,6-10 yrs,1
+934,34,Male,Divorced,No,Product & Engineering,Biological Sciences,3,10,Occasional Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+1598,40,Female,Married,No,Business Development,Biological Sciences,2,14,Occasional Travel,Y,1,5,5,4,1,2,3-5 yrs,1
+766,29,Male,Divorced,No,Business Development,Marketing & Communications,3,10,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1217,46,Male,Married,No,Product & Engineering,Biological Sciences,2,15,Occasional Travel,Y,1,25,4,2,0,3,3-5 yrs,5
+176,41,Male,Divorced,No,Business Development,Biological Sciences,1,9,Occasional Travel,Y,1,12,9,7,0,7,6-10 yrs,3
+1929,39,Female,Married,No,Business Development,Biological Sciences,4,21,No Travel,Y,1,10,3,2,1,2,3-5 yrs,6
+1143,29,Female,Divorced,No,Product & Engineering,Biological Sciences,3,10,Frequent Travel,Y,1,8,7,5,1,1,6-10 yrs,0
+546,52,Female,Married,No,Product & Engineering,Biological Sciences,2,4,Occasional Travel,Y,1,31,5,2,1,4,3-5 yrs,2
+1394,37,Male,Married,No,Product & Engineering,Biological Sciences,1,4,Occasional Travel,Y,1,8,6,4,1,3,6-10 yrs,7
+690,29,Female,Married,No,Business Development,Medical Sciences,2,3,Occasional Travel,Y,1,6,6,0,1,2,6-10 yrs,1
+1683,44,Female,Divorced,No,People Operations,Biological Sciences,3,1,Occasional Travel,Y,1,8,2,2,2,2,0-2 yrs,4
+684,45,Female,Married,Yes,Business Development,Biological Sciences,4,26,Frequent Travel,Y,1,5,1,1,0,0,0-2 yrs,2
+1399,25,Male,Married,No,Business Development,Biological Sciences,1,18,Occasional Travel,Y,1,6,3,2,1,2,3-5 yrs,2
+467,47,Male,Single,No,Business Development,Medical Sciences,1,4,Frequent Travel,Y,1,5,0,0,0,0,0-2 yrs,3
+515,37,Female,Divorced,No,Product & Engineering,Biological Sciences,3,14,Occasional Travel,Y,1,18,18,7,12,17,10+ yrs,1
+1,41,Female,Single,Yes,Business Development,Biological Sciences,2,1,Occasional Travel,Y,1,8,6,4,0,5,6-10 yrs,8
+482,57,Male,Married,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,15,3,2,1,2,3-5 yrs,2
+1156,18,Male,Single,Yes,Product & Engineering,Medical Sciences,1,8,No Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+1955,32,Female,Divorced,No,Product & Engineering,Medical Sciences,4,15,No Travel,Y,1,9,5,1,1,2,3-5 yrs,5
+641,26,Male,Married,No,Business Development,Marketing & Communications,2,28,Occasional Travel,Y,1,6,5,3,1,4,3-5 yrs,1
+1758,33,Female,Single,Yes,Business Development,Biological Sciences,3,16,Occasional Travel,Y,1,11,0,0,0,0,0-2 yrs,2
+75,35,Female,Married,No,Product & Engineering,Medical Sciences,4,23,Occasional Travel,Y,1,4,2,2,2,2,0-2 yrs,3
+882,32,Male,Divorced,No,Product & Engineering,Biological Sciences,3,1,No Travel,Y,1,4,3,0,0,2,3-5 yrs,0
+1797,35,Male,Single,Yes,Business Development,Biological Sciences,3,27,Occasional Travel,Y,1,10,10,7,7,7,6-10 yrs,1
+1458,39,Female,Single,Yes,Product & Engineering,Biological Sciences,3,2,No Travel,Y,1,11,1,0,0,0,0-2 yrs,2
+1360,58,Female,Married,Yes,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,31,10,9,5,9,6-10 yrs,7
+238,36,Male,Single,No,Product & Engineering,Medical Sciences,2,3,Frequent Travel,Y,1,13,8,7,7,2,6-10 yrs,4
+604,31,Male,Single,No,Business Development,Biological Sciences,1,2,Occasional Travel,Y,1,10,6,5,0,5,6-10 yrs,4
+164,26,Female,Married,No,Product & Engineering,General Studies,3,6,Occasional Travel,Y,1,5,5,4,4,3,3-5 yrs,1
+1310,39,Male,Single,Yes,Product & Engineering,Medical Sciences,3,23,Occasional Travel,Y,1,6,5,2,0,3,3-5 yrs,0
+725,27,Female,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,9,9,7,0,7,6-10 yrs,1
+1200,44,Male,Single,Yes,Product & Engineering,Biological Sciences,4,10,Occasional Travel,Y,1,6,6,4,0,2,6-10 yrs,1
+996,45,Female,Divorced,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,8,5,3,0,2,3-5 yrs,3
+119,40,Male,Married,No,Product & Engineering,Biological Sciences,4,1,Frequent Travel,Y,1,22,22,3,11,11,10+ yrs,1
+2000,47,Female,Married,No,Product & Engineering,Medical Sciences,1,1,No Travel,Y,1,14,13,8,5,12,10+ yrs,0
+247,34,Female,Single,No,Product & Engineering,Medical Sciences,2,27,Occasional Travel,Y,1,9,3,2,1,2,3-5 yrs,2
+1225,44,Male,Single,No,Product & Engineering,General Studies,4,29,Occasional Travel,Y,1,20,20,11,13,17,10+ yrs,1
+1362,36,Female,Married,No,Business Development,Marketing & Communications,3,7,Frequent Travel,Y,1,17,15,7,6,13,10+ yrs,2
+1094,27,Male,Married,No,Product & Engineering,Biological Sciences,5,8,No Travel,Y,1,3,3,2,1,2,3-5 yrs,1
+554,24,Female,Single,Yes,Business Development,Applied Technology,1,1,Occasional Travel,Y,1,6,5,3,1,4,3-5 yrs,1
+343,39,Female,Single,No,Product & Engineering,Applied Technology,4,2,Frequent Travel,Y,1,20,19,6,11,8,10+ yrs,0
+90,36,Male,Married,Yes,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,2,1,0,0,0,0-2 yrs,0
+1115,34,Male,Married,No,Product & Engineering,Biological Sciences,4,3,No Travel,Y,1,6,0,0,0,0,0-2 yrs,3
+174,50,Female,Single,No,Business Development,Marketing & Communications,3,12,Frequent Travel,Y,1,16,2,2,2,1,0-2 yrs,4
+410,41,Male,Single,No,Business Development,Biological Sciences,4,2,Occasional Travel,Y,1,22,22,10,0,4,10+ yrs,1
+1389,31,Male,Married,Yes,Product & Engineering,Medical Sciences,4,22,Occasional Travel,Y,1,10,10,2,6,7,6-10 yrs,1
+444,39,Male,Married,No,Product & Engineering,Medical Sciences,2,7,Frequent Travel,Y,1,21,21,9,13,3,10+ yrs,1
+2020,44,Male,Single,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,6,4,3,1,2,3-5 yrs,6
+1545,33,Male,Single,No,Product & Engineering,Biological Sciences,3,25,Occasional Travel,Y,1,5,5,3,0,2,3-5 yrs,1
+677,33,Male,Divorced,No,Business Development,Marketing & Communications,4,8,Occasional Travel,Y,1,6,5,0,1,2,3-5 yrs,0
+2018,25,Female,Divorced,No,Business Development,General Studies,2,8,Occasional Travel,Y,1,6,5,3,0,4,3-5 yrs,0
+1161,37,Female,Divorced,No,Product & Engineering,Medical Sciences,2,25,Occasional Travel,Y,1,9,6,2,1,3,6-10 yrs,7
+486,37,Female,Married,No,Product & Engineering,Medical Sciences,3,10,Occasional Travel,Y,1,17,5,4,0,3,3-5 yrs,6
+667,27,Male,Divorced,Yes,Business Development,Marketing & Communications,1,2,Occasional Travel,Y,1,5,4,3,0,2,3-5 yrs,0
+1992,25,Male,Divorced,No,Product & Engineering,General Studies,1,2,Occasional Travel,Y,1,7,2,2,0,2,0-2 yrs,6
+456,30,Female,Divorced,No,Business Development,Marketing & Communications,3,5,Occasional Travel,Y,1,10,10,9,1,2,6-10 yrs,1
+565,29,Female,Married,Yes,Product & Engineering,Applied Technology,5,25,Occasional Travel,Y,1,6,2,2,1,1,0-2 yrs,5
+224,27,Male,Divorced,No,Product & Engineering,Medical Sciences,3,3,No Travel,Y,1,1,1,1,0,1,0-2 yrs,1
+36,44,Female,Married,No,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,24,22,6,5,17,10+ yrs,3
+705,23,Male,Married,No,Product & Engineering,Medical Sciences,3,4,Occasional Travel,Y,1,5,3,2,0,2,3-5 yrs,2
+262,43,Male,Divorced,No,Product & Engineering,Medical Sciences,3,7,No Travel,Y,1,7,5,4,2,2,3-5 yrs,4
+1299,29,Female,Divorced,Yes,Product & Engineering,Applied Technology,3,7,Occasional Travel,Y,1,10,7,7,7,7,6-10 yrs,3
+1870,27,Female,Married,No,Product & Engineering,Biological Sciences,3,15,Frequent Travel,Y,1,8,7,6,7,3,6-10 yrs,0
+1869,46,Female,Married,Yes,Business Development,Biological Sciences,3,10,Occasional Travel,Y,1,14,8,7,0,7,6-10 yrs,5
+231,32,Male,Single,No,Product & Engineering,Biological Sciences,5,6,Occasional Travel,Y,1,8,5,4,1,4,3-5 yrs,3
+228,30,Female,Married,No,Business Development,Biological Sciences,3,5,Occasional Travel,Y,1,12,10,9,7,4,6-10 yrs,2
+904,37,Male,Single,No,Business Development,Medical Sciences,2,19,No Travel,Y,1,10,10,0,0,9,6-10 yrs,1
+239,30,Male,Divorced,No,Product & Engineering,Medical Sciences,3,9,No Travel,Y,1,12,12,9,6,10,10+ yrs,1
+709,38,Female,Single,No,Business Development,Marketing & Communications,4,7,Occasional Travel,Y,1,8,7,7,0,5,6-10 yrs,0
+1670,33,Male,Divorced,No,Business Development,Medical Sciences,4,2,Occasional Travel,Y,1,6,6,2,0,4,6-10 yrs,1
+1630,35,Female,Married,No,Product & Engineering,Biological Sciences,4,8,No Travel,Y,1,15,14,11,2,9,10+ yrs,1
+1275,26,Male,Single,No,Product & Engineering,Biological Sciences,2,4,Occasional Travel,Y,1,8,8,5,2,2,6-10 yrs,1
+663,43,Male,Divorced,No,Product & Engineering,Medical Sciences,5,9,Frequent Travel,Y,1,10,8,7,4,7,6-10 yrs,3
+96,32,Male,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,10,10,4,0,9,6-10 yrs,1
+1721,31,Male,Married,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,6,5,2,0,3,3-5 yrs,1
+813,52,Female,Married,No,Product & Engineering,Biological Sciences,4,11,Occasional Travel,Y,1,9,5,2,1,4,3-5 yrs,8
+1039,44,Female,Married,No,Business Development,Medical Sciences,3,28,Occasional Travel,Y,1,23,12,11,11,11,10+ yrs,3
+912,29,Female,Divorced,No,Product & Engineering,Medical Sciences,1,7,Occasional Travel,Y,1,8,4,3,0,3,3-5 yrs,6
+1175,28,Female,Married,Yes,Product & Engineering,Biological Sciences,1,12,Occasional Travel,Y,1,1,1,1,0,0,0-2 yrs,1
+325,33,Male,Married,Yes,Product & Engineering,Medical Sciences,3,14,Occasional Travel,Y,1,8,5,4,0,4,3-5 yrs,5
+1017,30,Female,Single,Yes,Product & Engineering,Medical Sciences,3,5,Frequent Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+297,30,Female,Single,Yes,Product & Engineering,Applied Technology,3,3,Occasional Travel,Y,1,8,5,2,0,4,3-5 yrs,5
+221,28,Male,Married,No,Product & Engineering,Medical Sciences,3,21,Occasional Travel,Y,1,5,5,2,0,2,3-5 yrs,1
+175,31,Female,Married,Yes,Business Development,Biological Sciences,3,20,Occasional Travel,Y,1,4,2,2,2,2,0-2 yrs,3
+2021,21,Male,Single,No,Business Development,Medical Sciences,1,5,Occasional Travel,Y,1,2,2,2,1,2,0-2 yrs,1
+306,37,Male,Divorced,No,Product & Engineering,General Studies,3,11,Frequent Travel,Y,1,10,10,8,0,7,6-10 yrs,1
+1687,38,Female,Married,No,Product & Engineering,Medical Sciences,2,4,Occasional Travel,Y,1,7,0,0,0,0,0-2 yrs,7
+1303,25,Female,Single,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,2,2,2,2,1,0-2 yrs,1
+252,33,Female,Married,No,Product & Engineering,Medical Sciences,3,14,Occasional Travel,Y,1,8,8,7,1,6,6-10 yrs,1
+54,27,Female,Divorced,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+966,32,Female,Married,No,Product & Engineering,Medical Sciences,4,3,Occasional Travel,Y,1,8,8,7,6,3,6-10 yrs,1
+143,25,Male,Married,No,Product & Engineering,Medical Sciences,1,7,Occasional Travel,Y,1,2,2,2,2,1,0-2 yrs,1
+51,36,Female,Married,No,Product & Engineering,Biological Sciences,4,5,Occasional Travel,Y,1,6,1,1,0,0,0-2 yrs,9
+787,55,Male,Married,Yes,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,24,5,2,1,4,3-5 yrs,5
+1854,42,Male,Married,No,Product & Engineering,Applied Technology,4,10,No Travel,Y,1,10,6,3,3,3,6-10 yrs,3
+1878,22,Male,Single,Yes,Product & Engineering,Biological Sciences,1,7,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1989,30,Male,Married,No,Product & Engineering,Medical Sciences,2,1,Occasional Travel,Y,1,12,12,8,1,7,10+ yrs,1
+652,35,Male,Single,No,Product & Engineering,General Studies,2,25,Occasional Travel,Y,1,9,3,2,0,2,3-5 yrs,4
+630,52,Male,Divorced,No,Product & Engineering,Applied Technology,2,6,Occasional Travel,Y,1,18,10,9,6,9,6-10 yrs,3
+1245,54,Female,Divorced,No,Product & Engineering,Biological Sciences,4,1,Frequent Travel,Y,1,33,5,4,1,4,3-5 yrs,7
+1319,52,Male,Single,Yes,Business Development,Biological Sciences,3,5,Occasional Travel,Y,1,10,8,7,7,7,6-10 yrs,9
+31,34,Male,Single,Yes,Product & Engineering,Medical Sciences,1,6,Occasional Travel,Y,1,8,4,2,1,3,3-5 yrs,2
+1973,55,Male,Married,No,People Operations,HR Studies,4,26,Occasional Travel,Y,1,35,10,9,1,4,6-10 yrs,4
+1408,42,Female,Married,No,People Operations,HR Studies,3,10,Occasional Travel,Y,1,21,20,7,0,9,10+ yrs,0
+88,35,Male,Married,No,Product & Engineering,Medical Sciences,3,1,Frequent Travel,Y,1,5,3,2,1,2,3-5 yrs,4
+1239,40,Female,Divorced,No,Business Development,Applied Technology,3,10,Occasional Travel,Y,1,7,5,1,1,3,3-5 yrs,7
+1736,31,Female,Single,No,Product & Engineering,Applied Technology,1,24,Frequent Travel,Y,1,9,5,4,1,4,3-5 yrs,2
+488,41,Male,Single,Yes,Business Development,Marketing & Communications,3,4,Frequent Travel,Y,1,8,8,7,7,7,6-10 yrs,1
+686,26,Female,Married,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,3,3,2,0,2,3-5 yrs,1
+1190,32,Female,Divorced,No,Business Development,Biological Sciences,1,2,No Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1805,38,Male,Divorced,No,People Operations,HR Studies,3,2,No Travel,Y,1,13,11,10,3,8,10+ yrs,5
+511,22,Female,Married,No,Product & Engineering,Medical Sciences,3,11,Occasional Travel,Y,1,2,2,1,1,2,0-2 yrs,1
+1019,22,Male,Married,No,Product & Engineering,Biological Sciences,1,8,Occasional Travel,Y,1,4,4,3,1,1,3-5 yrs,1
+1001,27,Female,Married,No,Product & Engineering,Applied Technology,4,16,Occasional Travel,Y,1,4,2,2,2,2,0-2 yrs,9
+1835,38,Female,Married,No,Business Development,Marketing & Communications,4,2,Occasional Travel,Y,1,20,4,2,0,3,3-5 yrs,2
+611,29,Male,Divorced,No,Product & Engineering,Applied Technology,3,19,Occasional Travel,Y,1,8,3,2,1,2,3-5 yrs,4
+364,28,Male,Single,Yes,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,5,0,0,0,0,0-2 yrs,2
+98,31,Female,Single,No,Product & Engineering,Biological Sciences,4,8,Occasional Travel,Y,1,11,11,7,1,8,10+ yrs,1
+1278,55,Male,Divorced,No,Product & Engineering,Medical Sciences,1,8,No Travel,Y,1,34,33,9,15,0,10+ yrs,1
+321,59,Male,Married,No,People Operations,Medical Sciences,2,6,Occasional Travel,Y,1,7,2,2,2,2,0-2 yrs,8
+595,48,Female,Married,No,Business Development,Marketing & Communications,5,2,Occasional Travel,Y,1,14,9,7,6,7,6-10 yrs,2
+525,43,Male,Married,No,Product & Engineering,Medical Sciences,3,21,Frequent Travel,Y,1,8,3,2,1,2,3-5 yrs,7
+845,35,Male,Single,No,Product & Engineering,General Studies,3,7,Occasional Travel,Y,1,17,8,5,1,6,6-10 yrs,3
+242,33,Male,Single,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,4,3,1,0,2,3-5 yrs,0
+23,53,Female,Married,No,Business Development,Biological Sciences,4,2,Occasional Travel,Y,1,31,25,8,3,7,10+ yrs,2
+1801,46,Male,Single,No,Business Development,Biological Sciences,2,26,No Travel,Y,1,6,2,2,2,2,0-2 yrs,8
+1461,31,Female,Single,No,People Operations,Medical Sciences,2,8,Occasional Travel,Y,1,8,3,2,0,2,3-5 yrs,9
+461,38,Male,Divorced,No,Product & Engineering,Biological Sciences,2,15,Occasional Travel,Y,1,12,11,10,2,9,10+ yrs,0
+1424,55,Male,Divorced,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,31,7,7,0,0,6-10 yrs,2
+1233,60,Male,Divorced,No,Business Development,Marketing & Communications,4,7,Occasional Travel,Y,1,12,11,7,1,9,10+ yrs,0
+825,58,Male,Single,Yes,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,40,31,15,13,8,10+ yrs,7
+79,38,Female,Single,No,Product & Engineering,Biological Sciences,5,29,Frequent Travel,Y,1,10,10,3,9,9,6-10 yrs,1
+1732,46,Male,Divorced,No,Business Development,Biological Sciences,3,2,Occasional Travel,Y,1,13,10,6,0,3,6-10 yrs,4
+377,28,Male,Married,No,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,5,5,2,0,4,3-5 yrs,1
+2032,56,Male,Married,Yes,Product & Engineering,Applied Technology,2,7,Occasional Travel,Y,1,14,10,9,9,8,6-10 yrs,8
+1220,33,Female,Married,No,Business Development,Medical Sciences,3,25,Frequent Travel,Y,1,10,10,7,0,1,6-10 yrs,1
+1552,40,Male,Divorced,No,Product & Engineering,Biological Sciences,2,8,No Travel,Y,1,8,2,2,2,2,0-2 yrs,3
+1944,27,Female,Married,Yes,People Operations,HR Studies,3,22,Frequent Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+384,26,Female,Divorced,No,Product & Engineering,Biological Sciences,3,1,Frequent Travel,Y,1,6,6,5,1,4,6-10 yrs,1
+1804,35,Male,Divorced,No,Product & Engineering,Medical Sciences,2,2,No Travel,Y,1,15,7,7,1,7,6-10 yrs,2
+969,33,Female,Single,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,6,5,0,1,4,3-5 yrs,0
+492,40,Male,Married,Yes,Business Development,Marketing & Communications,2,22,Occasional Travel,Y,1,8,6,4,1,0,6-10 yrs,2
+1905,34,Male,Married,Yes,Product & Engineering,Applied Technology,4,16,No Travel,Y,1,5,5,2,3,0,3-5 yrs,1
+47,50,Male,Married,Yes,Business Development,Marketing & Communications,2,3,Occasional Travel,Y,1,3,3,2,0,2,3-5 yrs,1
+1022,48,Male,Single,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,19,2,2,2,2,0-2 yrs,2
+1830,54,Female,Married,No,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,14,7,1,1,7,6-10 yrs,4
+922,20,Female,Single,Yes,Business Development,Medical Sciences,3,2,Occasional Travel,Y,1,2,2,2,0,2,0-2 yrs,1
+1813,43,Male,Single,No,Product & Engineering,Biological Sciences,3,9,No Travel,Y,1,7,3,2,1,2,3-5 yrs,4
+1859,29,Male,Divorced,No,Product & Engineering,Biological Sciences,1,29,Occasional Travel,Y,1,11,7,0,1,6,6-10 yrs,8
+1374,34,Female,Divorced,No,Product & Engineering,Applied Technology,1,26,No Travel,Y,1,5,5,4,0,0,3-5 yrs,1
+752,42,Male,Divorced,Yes,Product & Engineering,Medical Sciences,3,19,Frequent Travel,Y,1,7,2,2,2,2,0-2 yrs,6
+1647,27,Female,Married,No,Product & Engineering,Medical Sciences,3,8,Occasional Travel,Y,1,5,3,2,0,2,3-5 yrs,7
+959,19,Male,Single,Yes,Business Development,General Studies,3,21,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1026,39,Female,Married,No,Product & Engineering,Biological Sciences,1,1,Occasional Travel,Y,1,21,21,6,11,8,10+ yrs,1
+260,27,Female,Single,No,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,7,7,7,0,3,6-10 yrs,1
+1283,59,Male,Single,No,Product & Engineering,Medical Sciences,4,18,Occasional Travel,Y,1,25,9,7,5,4,6-10 yrs,6
+613,31,Male,Divorced,No,Business Development,Biological Sciences,3,7,Occasional Travel,Y,1,10,5,4,0,1,3-5 yrs,9
+1216,28,Male,Married,No,Product & Engineering,Medical Sciences,4,19,Occasional Travel,Y,1,6,6,5,3,3,6-10 yrs,1
+523,34,Female,Married,No,Business Development,Marketing & Communications,4,4,No Travel,Y,1,6,3,2,1,2,3-5 yrs,9
+941,31,Male,Married,No,Business Development,Biological Sciences,4,7,Occasional Travel,Y,1,13,7,7,5,2,6-10 yrs,3
+1050,53,Female,Married,No,Business Development,Marketing & Communications,3,2,Frequent Travel,Y,1,30,15,7,6,12,10+ yrs,2
+2034,41,Female,Married,No,Product & Engineering,Biological Sciences,4,28,Occasional Travel,Y,1,21,20,7,0,10,10+ yrs,0
+1013,54,Female,Married,No,Product & Engineering,Applied Technology,3,17,Occasional Travel,Y,1,22,10,7,0,8,6-10 yrs,8
+562,30,Male,Married,No,Product & Engineering,Biological Sciences,3,3,No Travel,Y,1,9,5,3,1,4,3-5 yrs,4
+499,49,Male,Single,No,Product & Engineering,General Studies,3,7,Occasional Travel,Y,1,26,5,2,0,0,3-5 yrs,8
+550,46,Female,Divorced,No,Product & Engineering,Medical Sciences,3,18,Occasional Travel,Y,1,19,10,7,0,8,6-10 yrs,2
+97,36,Female,Married,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,5,1,0,0,0,0-2 yrs,3
+1939,32,Female,Single,Yes,Product & Engineering,Biological Sciences,2,5,Frequent Travel,Y,1,8,4,1,0,3,3-5 yrs,3
+1619,27,Male,Divorced,No,Product & Engineering,General Studies,3,19,Occasional Travel,Y,1,7,7,7,0,7,6-10 yrs,1
+679,32,Female,Married,No,Product & Engineering,Biological Sciences,4,9,Occasional Travel,Y,1,6,6,4,0,5,6-10 yrs,1
+1150,29,Male,Married,No,Product & Engineering,Medical Sciences,1,8,Occasional Travel,Y,1,10,10,7,1,2,6-10 yrs,1
+267,37,Male,Married,No,Product & Engineering,Biological Sciences,3,21,Occasional Travel,Y,1,8,8,7,1,7,6-10 yrs,1
+1601,35,Male,Married,No,Product & Engineering,Biological Sciences,2,7,Occasional Travel,Y,1,1,1,0,0,1,0-2 yrs,1
+851,51,Female,Married,No,Business Development,Marketing & Communications,4,26,Occasional Travel,Y,1,29,20,6,4,17,10+ yrs,2
+151,34,Female,Divorced,No,Product & Engineering,Biological Sciences,4,6,Occasional Travel,Y,1,12,1,0,0,0,0-2 yrs,6
+558,40,Female,Married,No,Business Development,Biological Sciences,4,2,Occasional Travel,Y,1,21,20,15,1,12,10+ yrs,0
+1972,38,Male,Married,No,People Operations,General Studies,4,1,Frequent Travel,Y,1,7,6,2,1,2,6-10 yrs,0
+1363,48,Male,Single,No,Product & Engineering,Biological Sciences,3,4,Occasional Travel,Y,1,11,10,9,0,8,6-10 yrs,1
+836,42,Male,Married,No,Product & Engineering,Biological Sciences,3,29,Occasional Travel,Y,1,10,9,8,7,8,6-10 yrs,1
+1979,31,Female,Married,No,Product & Engineering,Medical Sciences,3,10,No Travel,Y,1,13,11,7,4,8,10+ yrs,4
+118,46,Male,Single,Yes,Business Development,Medical Sciences,2,9,Occasional Travel,Y,1,9,9,8,4,7,6-10 yrs,1
+1185,35,Male,Married,No,Product & Engineering,General Studies,4,4,Frequent Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1928,29,Male,Single,Yes,Business Development,Applied Technology,3,24,Frequent Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1976,42,Male,Single,No,Product & Engineering,Biological Sciences,2,23,No Travel,Y,1,20,20,9,3,7,10+ yrs,1
+1043,39,Female,Single,No,Product & Engineering,Medical Sciences,3,22,Frequent Travel,Y,1,21,21,6,2,8,10+ yrs,1
+675,22,Male,Married,No,Product & Engineering,Medical Sciences,1,6,Occasional Travel,Y,1,3,2,2,2,2,0-2 yrs,0
+15,29,Female,Single,No,Product & Engineering,Biological Sciences,2,15,Occasional Travel,Y,1,10,9,5,0,8,6-10 yrs,0
+526,43,Female,Divorced,No,Product & Engineering,General Studies,4,8,Occasional Travel,Y,1,8,5,2,0,2,3-5 yrs,4
+390,26,Male,Married,No,Product & Engineering,Medical Sciences,2,11,Frequent Travel,Y,1,5,5,3,3,3,3-5 yrs,1
+961,31,Female,Married,No,Product & Engineering,Medical Sciences,3,12,Occasional Travel,Y,1,10,9,7,8,5,6-10 yrs,0
+1692,32,Male,Single,Yes,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1940,38,Male,Divorced,No,Product & Engineering,Biological Sciences,2,9,Occasional Travel,Y,1,10,5,2,0,3,3-5 yrs,2
+960,20,Male,Single,Yes,Product & Engineering,Applied Technology,3,4,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1191,56,Female,Divorced,No,Product & Engineering,Applied Technology,4,4,Occasional Travel,Y,1,28,5,2,4,2,3-5 yrs,4
+216,34,Female,Married,No,Business Development,Marketing & Communications,4,2,Frequent Travel,Y,1,6,4,3,1,2,3-5 yrs,6
+1251,31,Male,Married,No,Product & Engineering,Medical Sciences,2,11,Occasional Travel,Y,1,6,6,5,0,1,6-10 yrs,1
+1644,48,Male,Married,No,Product & Engineering,Medical Sciences,5,4,Frequent Travel,Y,1,23,2,2,2,2,0-2 yrs,2
+352,40,Male,Divorced,No,Product & Engineering,Medical Sciences,2,2,Occasional Travel,Y,1,22,21,7,3,9,10+ yrs,0
+453,40,Male,Married,No,Business Development,Medical Sciences,2,1,Occasional Travel,Y,1,6,4,3,0,2,3-5 yrs,2
+1945,35,Male,Married,No,Business Development,Medical Sciences,4,18,Occasional Travel,Y,1,6,5,3,0,4,3-5 yrs,0
+1467,34,Female,Married,Yes,People Operations,Applied Technology,4,9,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+704,35,Male,Married,No,Product & Engineering,Biological Sciences,3,3,No Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1431,34,Male,Divorced,No,Product & Engineering,General Studies,4,1,Frequent Travel,Y,1,10,4,3,1,3,3-5 yrs,5
+1066,40,Male,Married,No,Business Development,Marketing & Communications,3,26,Occasional Travel,Y,1,8,7,7,7,5,6-10 yrs,1
+1807,34,Male,Married,Yes,Product & Engineering,Biological Sciences,4,9,Frequent Travel,Y,1,11,7,1,0,7,6-10 yrs,4
+1052,36,Male,Divorced,Yes,Product & Engineering,General Studies,3,15,Occasional Travel,Y,1,9,1,0,0,0,0-2 yrs,7
+1527,46,Female,Married,No,Business Development,Biological Sciences,3,3,Occasional Travel,Y,1,23,13,12,5,1,10+ yrs,8
+714,27,Female,Divorced,No,Business Development,Medical Sciences,1,3,Frequent Travel,Y,1,6,6,5,0,4,6-10 yrs,1
+28,34,Female,Single,No,Product & Engineering,Biological Sciences,4,7,Occasional Travel,Y,1,13,12,6,2,11,10+ yrs,0
+477,42,Male,Single,No,Product & Engineering,General Studies,4,2,Occasional Travel,Y,1,14,1,0,0,0,0-2 yrs,3
+1747,30,Female,Divorced,Yes,People Operations,HR Studies,3,8,Frequent Travel,Y,1,6,4,2,1,2,3-5 yrs,6
+460,37,Male,Divorced,No,Product & Engineering,Medical Sciences,2,5,Occasional Travel,Y,1,8,6,2,0,4,6-10 yrs,7
+578,54,Female,Single,No,Product & Engineering,Biological Sciences,4,8,Occasional Travel,Y,1,19,1,0,0,0,0-2 yrs,7
+638,49,Male,Divorced,No,Product & Engineering,Biological Sciences,4,18,Occasional Travel,Y,1,31,31,9,0,9,10+ yrs,1
+300,29,Male,Single,Yes,Product & Engineering,Applied Technology,3,1,Occasional Travel,Y,1,7,6,2,1,5,6-10 yrs,0
+1273,25,Male,Single,Yes,Business Development,Biological Sciences,1,24,Frequent Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+1937,38,Female,Divorced,No,Product & Engineering,Medical Sciences,3,8,Frequent Travel,Y,1,20,20,11,0,7,10+ yrs,1
+1425,36,Female,Single,No,Business Development,Marketing & Communications,4,3,Occasional Travel,Y,1,15,5,4,0,1,3-5 yrs,3
+2014,39,Male,Single,No,Product & Engineering,Biological Sciences,1,24,Occasional Travel,Y,1,18,7,7,1,7,6-10 yrs,7
+124,46,Male,Married,No,Product & Engineering,Medical Sciences,3,1,Frequent Travel,Y,1,21,10,9,9,5,6-10 yrs,2
+1422,54,Female,Single,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,29,20,7,12,7,10+ yrs,6
+972,45,Male,Married,No,Product & Engineering,Biological Sciences,2,4,No Travel,Y,1,9,9,7,0,8,6-10 yrs,1
+1403,27,Female,Married,No,Business Development,Marketing & Communications,3,10,Occasional Travel,Y,1,6,6,2,4,4,6-10 yrs,1
+206,45,Male,Divorced,No,Product & Engineering,Biological Sciences,3,9,Occasional Travel,Y,1,20,17,9,0,15,10+ yrs,8
+1784,31,Female,Married,No,Business Development,Marketing & Communications,4,29,Occasional Travel,Y,1,13,12,7,5,7,10+ yrs,1
+2064,27,Male,Married,No,Product & Engineering,Biological Sciences,3,4,Occasional Travel,Y,1,6,6,2,0,3,6-10 yrs,1
+1098,44,Male,Married,Yes,People Operations,Medical Sciences,2,1,Occasional Travel,Y,1,24,20,6,3,6,10+ yrs,9
+805,35,Female,Married,No,Business Development,Biological Sciences,4,8,Occasional Travel,Y,1,3,3,2,0,2,3-5 yrs,1
+983,38,Female,Single,No,Business Development,Applied Technology,3,10,No Travel,Y,1,6,5,3,1,3,3-5 yrs,1
+1729,30,Male,Married,No,Product & Engineering,Biological Sciences,1,16,Occasional Travel,Y,1,10,10,0,0,8,6-10 yrs,1
+657,20,Female,Single,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+773,38,Male,Married,No,Product & Engineering,Medical Sciences,5,2,Occasional Travel,Y,1,6,1,0,0,1,0-2 yrs,6
+1113,50,Male,Single,Yes,Business Development,General Studies,4,1,Frequent Travel,Y,1,5,0,0,0,0,0-2 yrs,3
+700,27,Male,Single,No,Product & Engineering,Medical Sciences,4,3,Occasional Travel,Y,1,5,4,2,1,1,3-5 yrs,0
+878,36,Male,Married,No,People Operations,Biological Sciences,3,8,Occasional Travel,Y,1,6,5,4,0,3,3-5 yrs,0
+1542,42,Male,Married,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,4,1,0,0,0,0-2 yrs,4
+1837,58,Male,Married,No,Product & Engineering,Biological Sciences,4,15,Frequent Travel,Y,1,23,2,2,2,2,0-2 yrs,2
+1099,33,Male,Divorced,No,Product & Engineering,Biological Sciences,3,5,Occasional Travel,Y,1,9,3,2,1,2,3-5 yrs,4
+153,34,Female,Single,No,Product & Engineering,Medical Sciences,3,5,Occasional Travel,Y,1,14,11,10,5,8,10+ yrs,2
+1028,35,Male,Divorced,No,Product & Engineering,General Studies,3,10,Occasional Travel,Y,1,3,3,2,1,2,3-5 yrs,1
+1529,35,Female,Single,No,Product & Engineering,Biological Sciences,3,16,Occasional Travel,Y,1,11,11,8,3,3,10+ yrs,1
+1158,41,Male,Married,No,Product & Engineering,Biological Sciences,4,12,Occasional Travel,Y,1,6,1,0,0,0,0-2 yrs,3
+158,43,Male,Married,No,Business Development,Biological Sciences,2,26,Frequent Travel,Y,1,25,25,12,4,12,10+ yrs,1
+911,32,Male,Single,Yes,Product & Engineering,Biological Sciences,4,25,Occasional Travel,Y,1,1,1,0,0,1,0-2 yrs,1
+880,35,Female,Married,No,Product & Engineering,Biological Sciences,3,9,Occasional Travel,Y,1,17,17,14,5,15,10+ yrs,1
+493,31,Male,Single,No,Product & Engineering,Biological Sciences,4,9,Occasional Travel,Y,1,3,2,2,2,2,0-2 yrs,0
+372,45,Male,Married,No,Product & Engineering,Medical Sciences,2,20,Occasional Travel,Y,1,21,20,7,4,10,10+ yrs,0
+910,33,Male,Divorced,No,People Operations,HR Studies,2,3,Occasional Travel,Y,1,7,4,3,0,3,3-5 yrs,3
+1304,32,Male,Married,No,Business Development,Medical Sciences,3,8,Occasional Travel,Y,1,10,10,7,0,8,6-10 yrs,1
+1140,34,Male,Single,No,Product & Engineering,Biological Sciences,2,2,Frequent Travel,Y,1,5,3,2,0,2,3-5 yrs,2
+1212,40,Male,Married,No,Business Development,Medical Sciences,4,2,Frequent Travel,Y,1,5,0,0,0,0,0-2 yrs,5
+60,34,Male,Single,No,Business Development,Marketing & Communications,4,23,No Travel,Y,1,10,9,5,8,7,6-10 yrs,0
+1771,33,Male,Divorced,No,Product & Engineering,Applied Technology,3,4,No Travel,Y,1,11,9,8,1,7,6-10 yrs,5
+1396,32,Male,Married,No,Business Development,Marketing & Communications,1,2,Occasional Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+1226,20,Male,Single,No,Business Development,Marketing & Communications,3,21,Occasional Travel,Y,1,2,2,1,2,2,0-2 yrs,1
+1073,36,Female,Single,No,Product & Engineering,Medical Sciences,5,12,Occasional Travel,Y,1,15,14,8,7,8,10+ yrs,0
+7,27,Male,Married,No,Product & Engineering,Medical Sciences,1,2,Occasional Travel,Y,1,6,2,2,2,2,0-2 yrs,9
+1415,25,Male,Married,No,Product & Engineering,Applied Technology,3,1,Occasional Travel,Y,1,7,3,2,0,2,3-5 yrs,4
+1787,37,Male,Married,No,Business Development,Marketing & Communications,2,9,Occasional Travel,Y,1,5,5,2,0,3,3-5 yrs,1
+363,46,Female,Married,No,Business Development,Applied Technology,3,2,Occasional Travel,Y,1,28,7,7,7,7,6-10 yrs,3
+1635,45,Female,Divorced,No,Product & Engineering,General Studies,2,2,Occasional Travel,Y,1,10,10,7,3,9,6-10 yrs,1
+1882,34,Male,Married,No,Business Development,Biological Sciences,3,4,Occasional Travel,Y,1,9,5,3,1,0,3-5 yrs,2
+593,22,Male,Single,Yes,Product & Engineering,Applied Technology,1,4,Frequent Travel,Y,1,4,2,2,1,2,0-2 yrs,5
+1412,35,Male,Single,No,Product & Engineering,Biological Sciences,2,18,Frequent Travel,Y,1,10,2,2,2,2,0-2 yrs,2
+1522,29,Male,Single,Yes,Product & Engineering,Applied Technology,4,1,Occasional Travel,Y,1,11,9,7,0,7,6-10 yrs,6
+1166,40,Female,Single,No,Product & Engineering,Medical Sciences,4,9,Frequent Travel,Y,1,20,18,7,2,13,10+ yrs,9
+1842,31,Male,Married,Yes,People Operations,HR Studies,5,18,Occasional Travel,Y,1,2,1,0,0,0,0-2 yrs,0
+417,39,Male,Divorced,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,19,18,10,3,7,10+ yrs,0
+1622,28,Female,Divorced,No,Product & Engineering,Medical Sciences,3,27,Occasional Travel,Y,1,6,5,3,0,0,3-5 yrs,0
+428,33,Female,Married,No,Product & Engineering,Biological Sciences,4,5,Frequent Travel,Y,1,12,10,6,8,8,6-10 yrs,6
+201,19,Female,Single,No,Product & Engineering,Medical Sciences,1,3,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+797,34,Female,Single,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,10,4,2,1,3,3-5 yrs,2
+64,48,Male,Single,Yes,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,23,1,0,0,0,0-2 yrs,9
+1618,39,Male,Married,No,Product & Engineering,Medical Sciences,5,10,Occasional Travel,Y,1,10,7,7,7,7,6-10 yrs,2
+1011,31,Female,Married,No,Product & Engineering,Biological Sciences,1,1,Frequent Travel,Y,1,4,4,3,0,3,3-5 yrs,1
+1162,27,Male,Married,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,4,4,2,2,2,3-5 yrs,1
+1577,34,Male,Single,No,Product & Engineering,Medical Sciences,4,7,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+632,24,Male,Married,No,Business Development,Medical Sciences,3,24,Frequent Travel,Y,1,3,2,2,2,1,0-2 yrs,0
+1367,51,Female,Single,No,Product & Engineering,Applied Technology,2,11,Occasional Travel,Y,1,29,5,2,0,3,3-5 yrs,3
+905,50,Male,Divorced,No,Product & Engineering,Biological Sciences,4,2,No Travel,Y,1,31,31,6,14,7,10+ yrs,1
+530,31,Male,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,4,4,2,3,2,3-5 yrs,1
+699,36,Male,Divorced,No,Product & Engineering,Medical Sciences,2,9,Occasional Travel,Y,1,13,3,2,0,2,3-5 yrs,2
+437,27,Male,Single,No,Business Development,Biological Sciences,3,2,Occasional Travel,Y,1,5,5,4,0,4,3-5 yrs,1
+24,38,Male,Single,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,6,3,2,1,2,3-5 yrs,5
+954,40,Male,Divorced,No,Business Development,Marketing & Communications,4,10,Occasional Travel,Y,1,11,1,0,0,0,0-2 yrs,2
+46,43,Female,Divorced,No,Product & Engineering,Medical Sciences,2,2,Occasional Travel,Y,1,6,5,3,1,4,3-5 yrs,1
+1259,27,Male,Divorced,No,Product & Engineering,Biological Sciences,2,4,Occasional Travel,Y,1,5,5,3,0,3,3-5 yrs,1
+1154,28,Male,Divorced,No,Product & Engineering,Biological Sciences,3,6,Frequent Travel,Y,1,3,3,1,0,2,3-5 yrs,1
+1850,27,Female,Single,No,Product & Engineering,Biological Sciences,2,5,Frequent Travel,Y,1,6,5,4,0,2,3-5 yrs,0
+544,45,Male,Married,No,Product & Engineering,Biological Sciences,2,10,Occasional Travel,Y,1,8,2,2,0,2,0-2 yrs,3
+1285,34,Female,Divorced,No,Product & Engineering,Medical Sciences,3,19,Frequent Travel,Y,1,15,11,8,5,10,10+ yrs,4
+733,27,Male,Divorced,No,Product & Engineering,Biological Sciences,2,10,Frequent Travel,Y,1,9,9,7,1,7,6-10 yrs,1
+1048,59,Male,Married,No,Business Development,Applied Technology,2,1,Occasional Travel,Y,1,14,6,4,0,4,6-10 yrs,3
+1496,44,Male,Single,No,Product & Engineering,Medical Sciences,1,2,Frequent Travel,Y,1,16,2,2,2,2,0-2 yrs,5
+337,31,Male,Divorced,No,Product & Engineering,Medical Sciences,4,3,Frequent Travel,Y,1,9,2,2,2,2,0-2 yrs,9
+1592,23,Male,Married,No,Product & Engineering,Applied Technology,3,10,Occasional Travel,Y,1,4,2,2,2,2,0-2 yrs,2
+1088,38,Female,Married,No,Product & Engineering,Biological Sciences,1,17,Occasional Travel,Y,1,20,19,9,1,9,10+ yrs,0
+661,43,Male,Divorced,No,Product & Engineering,General Studies,4,6,Occasional Travel,Y,1,21,1,0,0,0,0-2 yrs,4
+207,32,Female,Single,No,Business Development,Marketing & Communications,3,8,Frequent Travel,Y,1,9,9,8,3,7,6-10 yrs,1
+1350,35,Male,Single,No,Product & Engineering,Biological Sciences,4,4,Frequent Travel,Y,1,9,9,6,1,1,6-10 yrs,1
+1193,19,Male,Single,No,Product & Engineering,Biological Sciences,2,9,Occasional Travel,Y,1,1,1,1,0,0,0-2 yrs,1
+864,45,Male,Divorced,No,Business Development,Marketing & Communications,3,9,Occasional Travel,Y,1,18,5,4,0,2,3-5 yrs,4
+956,26,Male,Single,No,Business Development,Medical Sciences,3,1,Frequent Travel,Y,1,7,7,7,0,7,6-10 yrs,1
+789,36,Male,Single,No,Business Development,Biological Sciences,4,8,No Travel,Y,1,10,10,7,0,9,6-10 yrs,1
+1971,43,Male,Married,No,Product & Engineering,Biological Sciences,3,11,Occasional Travel,Y,1,10,10,9,0,9,6-10 yrs,1
+22,22,Male,Divorced,No,Product & Engineering,Medical Sciences,2,16,No Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+167,19,Male,Single,Yes,Business Development,Marketing & Communications,1,22,Occasional Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+1294,36,Female,Single,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,18,16,14,5,12,10+ yrs,9
+1379,31,Female,Single,Yes,Business Development,Biological Sciences,3,2,Frequent Travel,Y,1,3,1,0,0,0,0-2 yrs,7
+2025,36,Female,Divorced,No,Product & Engineering,Biological Sciences,2,4,Frequent Travel,Y,1,18,4,2,0,2,3-5 yrs,7
+259,52,Male,Married,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,34,33,18,11,9,10+ yrs,0
+1607,32,Female,Married,No,Product & Engineering,General Studies,4,5,Occasional Travel,Y,1,6,3,2,0,2,3-5 yrs,3
+1397,39,Male,Married,No,Product & Engineering,Biological Sciences,2,25,No Travel,Y,1,13,6,4,0,5,6-10 yrs,3
+2019,52,Male,Divorced,No,Business Development,Biological Sciences,4,29,No Travel,Y,1,16,9,8,0,0,6-10 yrs,2
+1720,32,Male,Married,No,Product & Engineering,Biological Sciences,3,10,Frequent Travel,Y,1,10,5,2,1,3,3-5 yrs,6
+838,34,Female,Single,No,Product & Engineering,Biological Sciences,4,16,Frequent Travel,Y,1,6,5,2,1,3,3-5 yrs,1
+246,31,Female,Married,No,Product & Engineering,Medical Sciences,1,12,Occasional Travel,Y,1,7,4,2,0,2,3-5 yrs,8
+411,18,Female,Single,No,Business Development,Medical Sciences,3,10,Occasional Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+669,21,Male,Single,No,Business Development,Applied Technology,1,22,Occasional Travel,Y,1,3,3,2,1,2,3-5 yrs,1
+1847,36,Female,Married,No,Product & Engineering,General Studies,4,2,Occasional Travel,Y,1,15,1,0,0,0,0-2 yrs,4
+1725,24,Male,Divorced,No,Product & Engineering,Medical Sciences,1,29,Occasional Travel,Y,1,6,6,2,1,2,6-10 yrs,1
+1701,34,Female,Married,No,Product & Engineering,Biological Sciences,3,19,Occasional Travel,Y,1,10,10,9,8,7,6-10 yrs,1
+707,25,Male,Married,No,Business Development,Biological Sciences,3,8,Occasional Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+1506,28,Male,Divorced,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+643,24,Male,Married,No,Product & Engineering,General Studies,2,17,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+214,58,Female,Married,No,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,9,1,0,0,0,0-2 yrs,4
+21,32,Male,Divorced,No,Product & Engineering,Biological Sciences,2,5,Occasional Travel,Y,1,7,6,2,0,5,6-10 yrs,0
+1513,29,Female,Married,No,Product & Engineering,Biological Sciences,1,2,Frequent Travel,Y,1,4,3,2,0,2,3-5 yrs,0
+749,29,Male,Single,No,Business Development,Biological Sciences,3,10,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+913,44,Male,Married,No,Product & Engineering,Biological Sciences,2,9,Occasional Travel,Y,1,8,8,7,7,1,6-10 yrs,1
+1684,23,Male,Single,Yes,Product & Engineering,Medical Sciences,1,8,Occasional Travel,Y,1,5,5,4,1,2,3-5 yrs,1
+1436,36,Female,Married,No,Business Development,Marketing & Communications,4,16,Occasional Travel,Y,1,11,3,2,0,2,3-5 yrs,4
+1727,46,Male,Single,No,Product & Engineering,Biological Sciences,4,13,Occasional Travel,Y,1,19,10,7,0,9,6-10 yrs,6
+1346,40,Male,Single,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,9,9,8,8,8,6-10 yrs,1
+1948,31,Male,Divorced,No,Product & Engineering,Medical Sciences,2,3,No Travel,Y,1,4,4,2,2,3,3-5 yrs,1
+389,55,Male,Married,No,Product & Engineering,Applied Technology,2,20,Occasional Travel,Y,1,12,10,7,0,8,6-10 yrs,3
+1107,26,Male,Divorced,Yes,Product & Engineering,Medical Sciences,3,21,Occasional Travel,Y,1,1,1,1,0,0,0-2 yrs,1
+309,59,Male,Married,No,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,7,1,0,0,0,0-2 yrs,3
+33,32,Female,Single,Yes,Product & Engineering,Biological Sciences,1,16,Frequent Travel,Y,1,10,10,2,6,7,6-10 yrs,1
+585,30,Male,Single,No,Business Development,Marketing & Communications,1,7,Occasional Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+2013,32,Male,Married,No,Business Development,Medical Sciences,4,1,Occasional Travel,Y,1,3,2,2,2,2,0-2 yrs,0
+315,29,Male,Single,Yes,Product & Engineering,Medical Sciences,1,18,Occasional Travel,Y,1,4,4,3,0,1,3-5 yrs,1
+49,35,Female,Married,No,Business Development,Marketing & Communications,3,2,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1038,52,Female,Married,Yes,Business Development,Marketing & Communications,1,2,Occasional Travel,Y,1,33,32,14,6,9,10+ yrs,1
+1474,40,Male,Divorced,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,8,3,1,1,2,3-5 yrs,2
+631,32,Male,Married,Yes,Business Development,General Studies,4,11,No Travel,Y,1,6,4,2,1,2,3-5 yrs,8
+1756,33,Female,Single,No,Business Development,Marketing & Communications,3,2,No Travel,Y,1,13,11,7,1,7,10+ yrs,8
+2031,42,Male,Married,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,24,22,6,4,14,10+ yrs,5
+958,36,Male,Single,No,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,16,11,8,3,9,10+ yrs,4
+1900,48,Female,Divorced,No,Product & Engineering,Medical Sciences,3,22,Frequent Travel,Y,1,24,22,17,4,7,10+ yrs,3
+887,49,Female,Married,No,Product & Engineering,Applied Technology,3,1,Occasional Travel,Y,1,7,4,2,0,2,3-5 yrs,2
+1778,43,Male,Single,No,People Operations,Biological Sciences,3,2,Occasional Travel,Y,1,10,9,7,1,8,6-10 yrs,0
+1631,37,Male,Married,No,Product & Engineering,Biological Sciences,3,19,Occasional Travel,Y,1,9,4,3,0,2,3-5 yrs,3
+1719,45,Female,Single,No,Product & Engineering,Applied Technology,2,28,Occasional Travel,Y,1,21,21,6,8,6,10+ yrs,1
+1873,55,Male,Married,No,Product & Engineering,Applied Technology,4,2,Occasional Travel,Y,1,19,5,2,0,4,3-5 yrs,8
+1111,28,Male,Divorced,Yes,Product & Engineering,Medical Sciences,3,1,Frequent Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+217,22,Male,Married,No,Product & Engineering,Medical Sciences,1,19,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1338,56,Male,Single,No,People Operations,Biological Sciences,4,8,Occasional Travel,Y,1,36,7,3,7,7,6-10 yrs,6
+1667,35,Male,Single,Yes,Business Development,General Studies,4,12,Frequent Travel,Y,1,13,11,9,6,7,10+ yrs,3
+1138,49,Male,Married,No,Business Development,Applied Technology,4,8,Occasional Travel,Y,1,22,9,8,2,3,6-10 yrs,6
+1746,24,Male,Married,No,People Operations,Medical Sciences,3,10,Frequent Travel,Y,1,3,2,2,2,1,0-2 yrs,0
+1228,46,Male,Divorced,No,Product & Engineering,Applied Technology,4,2,Occasional Travel,Y,1,12,6,3,1,4,6-10 yrs,2
+1277,45,Female,Single,Yes,Business Development,Marketing & Communications,3,2,Occasional Travel,Y,1,26,24,10,1,11,10+ yrs,2
+205,53,Male,Married,No,Business Development,Marketing & Communications,2,6,Occasional Travel,Y,1,13,7,7,4,5,6-10 yrs,2
+1888,45,Female,Married,No,Product & Engineering,Biological Sciences,2,25,Occasional Travel,Y,1,10,9,8,3,8,6-10 yrs,0
+692,33,Male,Divorced,No,Product & Engineering,Biological Sciences,3,6,Frequent Travel,Y,1,15,13,11,4,7,10+ yrs,3
+1602,46,Male,Single,No,Business Development,Biological Sciences,4,1,Occasional Travel,Y,1,27,26,0,0,12,10+ yrs,1
+1728,35,Male,Married,No,Product & Engineering,Biological Sciences,4,27,Occasional Travel,Y,1,17,7,7,0,7,6-10 yrs,2
+138,34,Female,Single,No,Product & Engineering,General Studies,4,6,Occasional Travel,Y,1,16,16,13,2,10,10+ yrs,1
+812,24,Male,Divorced,No,Product & Engineering,Biological Sciences,3,9,No Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1826,35,Male,Married,No,Product & Engineering,Medical Sciences,4,23,Occasional Travel,Y,1,6,5,4,0,3,3-5 yrs,0
+1612,45,Male,Married,No,Business Development,Marketing & Communications,3,26,No Travel,Y,1,10,10,7,4,5,6-10 yrs,1
+70,35,Male,Married,No,Product & Engineering,Medical Sciences,2,11,No Travel,Y,1,10,4,0,2,3,3-5 yrs,2
+204,35,Male,Married,No,Business Development,Marketing & Communications,5,1,Occasional Travel,Y,1,10,10,8,0,6,6-10 yrs,1
+534,41,Male,Married,No,Business Development,Marketing & Communications,3,1,Occasional Travel,Y,1,10,10,7,0,7,6-10 yrs,1
+2009,33,Female,Married,No,Product & Engineering,Medical Sciences,2,15,Occasional Travel,Y,1,10,9,7,8,1,6-10 yrs,0
+286,36,Female,Single,No,Product & Engineering,Medical Sciences,1,18,Frequent Travel,Y,1,8,8,1,1,7,6-10 yrs,1
+1982,23,Male,Single,No,Product & Engineering,General Studies,2,12,Occasional Travel,Y,1,5,5,2,1,4,3-5 yrs,1
+1586,29,Male,Single,No,Product & Engineering,Medical Sciences,1,3,Occasional Travel,Y,1,10,10,9,1,5,6-10 yrs,1
+12,38,Male,Single,No,Product & Engineering,Biological Sciences,3,23,Frequent Travel,Y,1,10,9,7,1,8,6-10 yrs,0
+1430,31,Female,Single,No,Product & Engineering,Biological Sciences,5,8,Occasional Travel,Y,1,9,3,2,1,0,3-5 yrs,3
+1849,43,Male,Married,No,Business Development,Biological Sciences,4,2,Frequent Travel,Y,1,7,7,7,7,7,6-10 yrs,1
+1494,24,Male,Single,Yes,Product & Engineering,Medical Sciences,3,9,Frequent Travel,Y,1,4,0,0,0,0,0-2 yrs,2
+606,45,Male,Married,No,Business Development,General Studies,3,2,Occasional Travel,Y,1,9,8,7,3,7,6-10 yrs,0
+347,42,Female,Single,No,Product & Engineering,Biological Sciences,2,17,Occasional Travel,Y,1,10,3,2,0,2,3-5 yrs,3
+1252,31,Female,Single,No,Product & Engineering,Medical Sciences,3,24,Occasional Travel,Y,1,10,10,9,1,8,6-10 yrs,1
+1799,28,Male,Married,No,Product & Engineering,Biological Sciences,3,1,Occasional Travel,Y,1,5,5,3,0,3,3-5 yrs,1
+1234,32,Female,Married,No,Product & Engineering,General Studies,3,13,Frequent Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1952,26,Male,Single,No,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,8,7,7,7,6,6-10 yrs,0
+861,30,Male,Divorced,No,Product & Engineering,Biological Sciences,4,5,Frequent Travel,Y,1,10,5,4,0,3,3-5 yrs,9
+465,23,Male,Divorced,No,Product & Engineering,Biological Sciences,1,26,Occasional Travel,Y,1,4,4,2,0,2,3-5 yrs,1
+1766,38,Male,Married,No,Product & Engineering,Medical Sciences,3,18,Occasional Travel,Y,1,15,1,0,1,0,0-2 yrs,3
+362,32,Male,Single,No,Product & Engineering,Applied Technology,1,2,Occasional Travel,Y,1,9,6,2,0,4,6-10 yrs,4
+202,40,Female,Divorced,No,Product & Engineering,Medical Sciences,3,26,Frequent Travel,Y,1,20,20,7,2,13,10+ yrs,1
+635,37,Female,Married,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,8,6,5,4,3,6-10 yrs,6
+888,24,Male,Married,No,Product & Engineering,Biological Sciences,1,4,No Travel,Y,1,6,5,2,3,4,3-5 yrs,0
+2048,40,Male,Single,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,8,2,2,2,2,0-2 yrs,2
+1949,36,Male,Married,No,Product & Engineering,Biological Sciences,4,9,No Travel,Y,1,5,5,4,0,2,3-5 yrs,1
+758,23,Male,Married,No,Product & Engineering,Medical Sciences,1,9,Occasional Travel,Y,1,5,4,3,0,2,3-5 yrs,1
+1295,44,Female,Married,Yes,Product & Engineering,Medical Sciences,3,15,Occasional Travel,Y,1,10,10,7,0,5,6-10 yrs,1
+659,42,Female,Married,No,Product & Engineering,Biological Sciences,4,2,Occasional Travel,Y,1,10,10,2,2,2,6-10 yrs,1
+1865,29,Male,Married,No,People Operations,Medical Sciences,1,6,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1649,40,Male,Single,Yes,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,10,4,2,0,3,3-5 yrs,3
+198,30,Male,Single,No,Product & Engineering,Medical Sciences,1,2,Occasional Travel,Y,1,6,5,3,1,2,3-5 yrs,0
+533,30,Female,Single,No,Business Development,Applied Technology,3,12,Occasional Travel,Y,1,6,5,4,4,4,3-5 yrs,0
+1334,42,Male,Married,No,Product & Engineering,Biological Sciences,1,2,No Travel,Y,1,21,20,8,2,10,10+ yrs,0
+1943,42,Male,Divorced,No,Business Development,Marketing & Communications,4,12,Occasional Travel,Y,1,14,0,0,0,0,0-2 yrs,3
+916,28,Male,Single,No,Business Development,Medical Sciences,4,5,Occasional Travel,Y,1,4,4,2,0,2,3-5 yrs,1
+622,26,Male,Single,Yes,Product & Engineering,Applied Technology,3,24,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+253,40,Female,Married,No,Product & Engineering,Medical Sciences,1,4,Occasional Travel,Y,1,21,20,8,9,9,10+ yrs,1
+1617,49,Female,Married,No,Product & Engineering,Biological Sciences,4,25,Occasional Travel,Y,1,10,9,6,1,4,6-10 yrs,1
+1718,26,Male,Married,No,Product & Engineering,Medical Sciences,4,17,Occasional Travel,Y,1,3,3,2,0,2,3-5 yrs,1
+842,55,Male,Single,Yes,Business Development,Medical Sciences,1,2,Occasional Travel,Y,1,12,9,7,7,3,6-10 yrs,4
+194,30,Female,Single,No,Product & Engineering,Biological Sciences,3,18,Occasional Travel,Y,1,5,5,4,0,4,3-5 yrs,1
+1040,50,Female,Married,No,Business Development,Biological Sciences,3,1,No Travel,Y,1,19,18,7,0,13,10+ yrs,0
+1380,35,Female,Married,Yes,Business Development,Marketing & Communications,4,18,Frequent Travel,Y,1,5,4,2,3,2,3-5 yrs,0
+270,42,Female,Divorced,No,Product & Engineering,Medical Sciences,2,21,No Travel,Y,1,11,5,3,0,2,3-5 yrs,2
+1238,33,Male,Married,No,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,15,14,10,4,10,10+ yrs,0
+385,50,Male,Divorced,No,Product & Engineering,Biological Sciences,1,4,Occasional Travel,Y,1,28,10,4,1,6,6-10 yrs,3
+401,26,Male,Single,Yes,Business Development,Marketing & Communications,4,4,Occasional Travel,Y,1,8,8,7,7,4,6-10 yrs,1
+2027,29,Male,Married,Yes,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,4,2,2,2,2,0-2 yrs,9
+531,39,Male,Divorced,No,Product & Engineering,Biological Sciences,1,1,Frequent Travel,Y,1,21,21,8,1,6,10+ yrs,1
+161,56,Female,Married,Yes,Product & Engineering,Biological Sciences,4,14,Occasional Travel,Y,1,7,5,4,4,3,3-5 yrs,9
+1694,55,Male,Divorced,No,Product & Engineering,Applied Technology,3,22,Occasional Travel,Y,1,8,4,2,1,2,3-5 yrs,5
+277,34,Male,Divorced,No,Product & Engineering,Medical Sciences,4,10,Frequent Travel,Y,1,5,5,3,2,0,3-5 yrs,1
+1164,35,Male,Single,No,People Operations,Applied Technology,4,8,Occasional Travel,Y,1,6,5,4,1,4,3-5 yrs,1
+338,33,Female,Married,No,Product & Engineering,Biological Sciences,4,5,Occasional Travel,Y,1,2,2,2,0,2,0-2 yrs,1
+1967,31,Male,Married,Yes,Business Development,Marketing & Communications,4,26,Frequent Travel,Y,1,10,10,7,0,8,6-10 yrs,1
+1947,28,Male,Single,No,Product & Engineering,Medical Sciences,3,16,No Travel,Y,1,5,5,3,1,4,3-5 yrs,1
+1624,18,Female,Single,Yes,Business Development,Medical Sciences,2,3,Frequent Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+513,36,Male,Married,No,Business Development,Medical Sciences,2,2,Occasional Travel,Y,1,10,10,9,9,0,6-10 yrs,1
+1816,30,Female,Single,No,Product & Engineering,Medical Sciences,3,10,Occasional Travel,Y,1,9,7,7,0,2,6-10 yrs,9
+1195,45,Female,Married,No,Product & Engineering,Medical Sciences,3,7,Occasional Travel,Y,1,7,3,2,0,2,3-5 yrs,4
+303,54,Female,Married,No,Business Development,Marketing & Communications,3,3,Occasional Travel,Y,1,16,6,2,0,5,6-10 yrs,2
+889,32,Male,Married,No,Business Development,Biological Sciences,2,5,Frequent Travel,Y,1,10,10,8,5,3,6-10 yrs,1
+2,49,Male,Married,No,Product & Engineering,Biological Sciences,1,8,Frequent Travel,Y,1,10,10,7,1,7,6-10 yrs,1
+148,54,Female,Single,No,People Operations,HR Studies,3,26,No Travel,Y,1,23,5,3,4,4,3-5 yrs,2
+975,35,Female,Married,No,Business Development,Medical Sciences,3,18,Occasional Travel,Y,1,5,5,2,1,0,3-5 yrs,1
+1974,31,Female,Divorced,No,Product & Engineering,Medical Sciences,1,2,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1329,41,Male,Single,No,Business Development,Medical Sciences,2,10,No Travel,Y,1,19,19,2,11,9,10+ yrs,1
+1809,37,Male,Single,Yes,Product & Engineering,Medical Sciences,4,10,Occasional Travel,Y,1,10,10,3,0,8,6-10 yrs,1
+1862,32,Male,Single,Yes,Business Development,Marketing & Communications,4,2,Occasional Travel,Y,1,7,2,2,2,2,0-2 yrs,7
+591,42,Male,Married,No,Product & Engineering,General Studies,2,5,Frequent Travel,Y,1,8,2,2,2,0,0-2 yrs,4
+1604,28,Male,Married,Yes,Product & Engineering,Medical Sciences,3,24,Occasional Travel,Y,1,1,1,1,0,0,0-2 yrs,1
+1760,38,Female,Married,No,Product & Engineering,Medical Sciences,2,2,Frequent Travel,Y,1,9,6,1,0,5,6-10 yrs,4
+923,21,Female,Single,Yes,Product & Engineering,General Studies,1,18,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1886,35,Female,Married,No,Product & Engineering,General Studies,2,16,Occasional Travel,Y,1,4,3,2,0,2,3-5 yrs,0
+1761,31,Male,Married,Yes,Business Development,Marketing & Communications,4,16,Occasional Travel,Y,1,10,1,0,0,0,0-2 yrs,2
+1829,40,Female,Divorced,No,Product & Engineering,Biological Sciences,3,12,Occasional Travel,Y,1,15,7,4,7,7,6-10 yrs,2
+433,52,Male,Married,Yes,Product & Engineering,Medical Sciences,4,8,Occasional Travel,Y,1,11,8,2,7,7,6-10 yrs,2
+900,37,Female,Married,No,Business Development,Medical Sciences,2,21,Frequent Travel,Y,1,10,5,4,0,0,3-5 yrs,5
+991,31,Male,Single,Yes,Product & Engineering,Medical Sciences,2,9,No Travel,Y,1,4,3,2,1,2,3-5 yrs,0
+1798,33,Male,Married,No,Product & Engineering,Biological Sciences,4,8,Occasional Travel,Y,1,14,10,8,7,6,6-10 yrs,6
+1368,18,Female,Single,No,Product & Engineering,Biological Sciences,3,1,No Travel,Y,1,0,0,0,0,0,0-2 yrs,1
+867,52,Female,Married,No,Product & Engineering,Medical Sciences,4,25,Frequent Travel,Y,1,31,9,8,0,0,6-10 yrs,3
+875,42,Male,Single,No,Product & Engineering,Medical Sciences,1,2,Frequent Travel,Y,1,8,2,1,2,2,0-2 yrs,5
+1751,27,Female,Single,No,Product & Engineering,Medical Sciences,3,8,Occasional Travel,Y,1,6,6,2,1,4,6-10 yrs,1
+2017,37,Female,Married,No,Product & Engineering,Biological Sciences,3,10,Occasional Travel,Y,1,16,16,11,6,8,10+ yrs,1
+1757,49,Female,Single,No,Business Development,Marketing & Communications,4,11,Occasional Travel,Y,1,8,5,1,0,4,3-5 yrs,3
+1909,41,Female,Married,No,Business Development,Marketing & Communications,3,8,Occasional Travel,Y,1,14,5,4,1,4,3-5 yrs,5
+1105,37,Female,Divorced,No,Business Development,Biological Sciences,4,10,Occasional Travel,Y,1,8,1,0,0,0,0-2 yrs,2
+896,29,Female,Divorced,Yes,Business Development,Medical Sciences,3,1,Occasional Travel,Y,1,5,3,2,0,2,3-5 yrs,6
+1427,31,Female,Single,Yes,Business Development,Biological Sciences,4,1,Frequent Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+769,53,Male,Single,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,19,2,2,2,2,0-2 yrs,2
+950,38,Female,Married,No,Product & Engineering,Applied Technology,3,1,Occasional Travel,Y,1,15,15,12,5,11,10+ yrs,1
+802,37,Female,Divorced,No,Product & Engineering,Biological Sciences,1,10,Occasional Travel,Y,1,6,5,3,4,3,3-5 yrs,0
+1568,30,Male,Married,No,Business Development,Applied Technology,4,29,Occasional Travel,Y,1,9,4,2,1,3,3-5 yrs,3
+1772,41,Male,Divorced,No,Product & Engineering,Biological Sciences,4,9,Occasional Travel,Y,1,5,5,3,0,4,3-5 yrs,1
+1664,36,Male,Divorced,No,Product & Engineering,Biological Sciences,2,3,Occasional Travel,Y,1,13,5,4,0,4,3-5 yrs,6
+717,34,Female,Single,No,Product & Engineering,Medical Sciences,3,9,Occasional Travel,Y,1,9,8,7,7,7,6-10 yrs,1
+1492,35,Male,Married,No,Business Development,Biological Sciences,1,7,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+741,28,Female,Single,Yes,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,10,7,7,3,7,6-10 yrs,7
+1676,47,Female,Divorced,No,Business Development,Biological Sciences,4,2,Occasional Travel,Y,1,29,3,2,1,2,3-5 yrs,6
+1037,26,Male,Single,Yes,Business Development,Medical Sciences,2,29,No Travel,Y,1,7,2,2,2,2,0-2 yrs,8
+1915,34,Female,Married,No,Business Development,Medical Sciences,1,3,Occasional Travel,Y,1,9,4,2,0,1,3-5 yrs,3
+653,31,Male,Divorced,No,Business Development,Medical Sciences,4,6,Occasional Travel,Y,1,13,7,7,5,7,6-10 yrs,4
+126,54,Female,Married,No,Product & Engineering,Applied Technology,4,2,Occasional Travel,Y,1,16,4,3,0,3,3-5 yrs,9
+1438,47,Male,Married,No,Product & Engineering,Applied Technology,3,1,Occasional Travel,Y,1,17,6,5,1,2,6-10 yrs,7
+781,25,Female,Single,No,Business Development,Medical Sciences,1,26,Occasional Travel,Y,1,6,6,5,1,4,6-10 yrs,1
+1770,55,Male,Married,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,34,1,0,0,0,0-2 yrs,8
+1030,50,Male,Married,No,Product & Engineering,Biological Sciences,3,9,Occasional Travel,Y,1,8,1,0,0,0,0-2 yrs,4
+1207,33,Male,Married,No,People Operations,HR Studies,3,2,Occasional Travel,Y,1,5,5,4,1,4,3-5 yrs,1
+1246,44,Female,Married,No,Product & Engineering,Biological Sciences,1,2,Occasional Travel,Y,1,10,10,5,7,7,6-10 yrs,1
+1466,48,Male,Divorced,No,Business Development,Marketing & Communications,3,7,Occasional Travel,Y,1,15,2,2,2,2,0-2 yrs,4
+284,22,Male,Divorced,No,Product & Engineering,Biological Sciences,3,5,Occasional Travel,Y,1,4,4,2,2,2,3-5 yrs,1
+522,54,Male,Married,No,Product & Engineering,Medical Sciences,2,5,Occasional Travel,Y,1,24,4,2,1,2,3-5 yrs,4
+1103,34,Male,Single,No,Product & Engineering,Biological Sciences,1,3,Frequent Travel,Y,1,7,6,2,0,4,6-10 yrs,0
+1218,35,Male,Married,No,Business Development,Biological Sciences,4,17,Occasional Travel,Y,1,15,7,7,1,7,6-10 yrs,3
+527,25,Female,Single,No,Business Development,Biological Sciences,2,4,Occasional Travel,Y,1,5,5,4,1,3,3-5 yrs,1
+1061,50,Male,Married,No,Product & Engineering,Medical Sciences,4,2,Occasional Travel,Y,1,29,8,1,7,7,6-10 yrs,2
+1893,26,Female,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+1739,32,Male,Married,No,Business Development,Biological Sciences,3,19,Occasional Travel,Y,1,10,4,3,0,2,3-5 yrs,3
+1448,41,Male,Married,No,Product & Engineering,Medical Sciences,5,5,Occasional Travel,Y,1,7,4,2,0,3,3-5 yrs,2
+893,38,Male,Married,No,Business Development,Marketing & Communications,3,9,Occasional Travel,Y,1,3,2,2,1,2,0-2 yrs,0
+846,28,Female,Married,No,Business Development,Marketing & Communications,4,2,Occasional Travel,Y,1,8,8,7,7,5,6-10 yrs,1
+1349,41,Female,Divorced,No,Business Development,Marketing & Communications,3,1,Frequent Travel,Y,1,10,9,3,1,7,6-10 yrs,0
+1010,35,Male,Divorced,Yes,Product & Engineering,General Studies,4,14,Occasional Travel,Y,1,5,4,2,0,2,3-5 yrs,1
+952,25,Male,Married,Yes,Business Development,Marketing & Communications,2,19,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+131,58,Male,Single,No,Business Development,Medical Sciences,4,10,Occasional Travel,Y,1,38,37,10,1,8,10+ yrs,0
+1116,48,Male,Single,No,Product & Engineering,Medical Sciences,4,1,No Travel,Y,1,27,5,4,2,1,3-5 yrs,2
+543,52,Male,Married,No,Product & Engineering,Medical Sciences,3,3,Occasional Travel,Y,1,28,5,4,0,4,3-5 yrs,2
+682,53,Female,Single,No,Business Development,Medical Sciences,1,1,Occasional Travel,Y,1,18,14,7,8,10,10+ yrs,7
+1509,49,Female,Married,No,Product & Engineering,Medical Sciences,2,3,Occasional Travel,Y,1,10,3,2,1,2,3-5 yrs,4
+1486,28,Male,Married,Yes,Business Development,Applied Technology,3,1,Frequent Travel,Y,1,5,3,2,1,2,3-5 yrs,3
+1296,28,Male,Married,No,Product & Engineering,Biological Sciences,3,2,Frequent Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1081,51,Male,Married,Yes,Product & Engineering,Biological Sciences,4,4,Occasional Travel,Y,1,18,10,0,2,7,6-10 yrs,9
+274,27,Male,Married,No,Product & Engineering,Applied Technology,1,1,Frequent Travel,Y,1,6,2,2,2,0,0-2 yrs,5
+177,26,Female,Married,No,People Operations,Biological Sciences,1,25,Occasional Travel,Y,1,8,8,7,5,7,6-10 yrs,1
+1481,44,Female,Married,No,Business Development,Marketing & Communications,5,1,Frequent Travel,Y,1,11,1,0,0,0,0-2 yrs,7
+53,35,Male,Divorced,No,Product & Engineering,General Studies,2,4,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1434,27,Male,Married,No,Product & Engineering,Biological Sciences,1,11,Occasional Travel,Y,1,6,5,0,1,4,3-5 yrs,0
+316,52,Female,Single,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,6,2,2,2,2,0-2 yrs,7
+502,34,Male,Single,Yes,Business Development,Marketing & Communications,3,19,No Travel,Y,1,9,5,2,0,4,3-5 yrs,8
+394,26,Male,Divorced,Yes,Product & Engineering,Medical Sciences,4,16,Occasional Travel,Y,1,5,3,2,0,2,3-5 yrs,2
+560,26,Female,Divorced,No,Product & Engineering,Biological Sciences,3,23,Occasional Travel,Y,1,3,3,2,0,2,3-5 yrs,1
+521,40,Female,Married,No,Product & Engineering,Medical Sciences,3,2,Occasional Travel,Y,1,20,1,0,0,0,0-2 yrs,6
+820,47,Female,Married,No,Product & Engineering,General Studies,2,2,Occasional Travel,Y,1,26,26,14,3,0,10+ yrs,1
+1639,35,Male,Married,Yes,Business Development,Medical Sciences,3,10,Occasional Travel,Y,1,15,13,12,6,0,10+ yrs,9
+1539,50,Male,Single,No,Product & Engineering,Medical Sciences,5,22,Frequent Travel,Y,1,32,32,6,13,9,10+ yrs,1
+899,35,Male,Married,No,Product & Engineering,Applied Technology,3,25,Occasional Travel,Y,1,16,13,10,4,8,10+ yrs,3
+1623,21,Male,Single,No,Product & Engineering,Medical Sciences,1,5,Occasional Travel,Y,1,3,2,2,2,2,0-2 yrs,1
+1931,27,Male,Married,No,Product & Engineering,Applied Technology,4,2,Occasional Travel,Y,1,6,5,3,1,2,3-5 yrs,1
+712,48,Male,Married,No,Business Development,Marketing & Communications,1,2,Occasional Travel,Y,1,12,2,2,2,2,0-2 yrs,3
+83,36,Female,Divorced,No,Product & Engineering,Applied Technology,3,8,Occasional Travel,Y,1,17,17,14,12,8,10+ yrs,1
+19,28,Male,Single,Yes,Product & Engineering,Biological Sciences,3,24,Occasional Travel,Y,1,6,4,2,0,3,3-5 yrs,5
+1659,36,Male,Single,No,Product & Engineering,Biological Sciences,3,7,Occasional Travel,Y,1,15,4,3,1,3,3-5 yrs,2
+1499,30,Male,Divorced,No,People Operations,Biological Sciences,3,1,Occasional Travel,Y,1,6,5,3,1,3,3-5 yrs,0
+664,48,Female,Married,No,Product & Engineering,Biological Sciences,4,1,Occasional Travel,Y,1,21,3,2,0,2,3-5 yrs,7
+505,55,Female,Single,No,Product & Engineering,Biological Sciences,3,2,Occasional Travel,Y,1,30,5,4,1,2,3-5 yrs,2
+254,55,Male,Single,No,Product & Engineering,Medical Sciences,4,14,Occasional Travel,Y,1,36,24,15,2,15,10+ yrs,8
+1055,34,Female,Married,No,Business Development,Biological Sciences,4,10,Occasional Travel,Y,1,1,1,1,0,0,0-2 yrs,1
+299,30,Female,Single,Yes,Business Development,Marketing & Communications,4,26,Frequent Travel,Y,1,9,6,3,0,1,6-10 yrs,5
+1100,35,Male,Single,Yes,Business Development,Applied Technology,3,4,Occasional Travel,Y,1,9,8,7,4,7,6-10 yrs,0
+1520,54,Female,Divorced,No,Product & Engineering,Medical Sciences,4,11,Frequent Travel,Y,1,26,14,9,1,12,10+ yrs,3
+1231,42,Male,Married,No,People Operations,Medical Sciences,5,2,No Travel,Y,1,10,4,3,0,3,3-5 yrs,7
+455,29,Male,Single,No,Product & Engineering,General Studies,5,9,Occasional Travel,Y,1,4,3,2,2,2,3-5 yrs,0
+1003,47,Female,Single,No,Business Development,Biological Sciences,2,4,Occasional Travel,Y,1,9,9,0,0,7,6-10 yrs,1
+404,42,Female,Married,No,Business Development,Marketing & Communications,3,26,Frequent Travel,Y,1,23,20,4,4,8,10+ yrs,5
+1433,31,Female,Single,Yes,Product & Engineering,Biological Sciences,3,8,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1786,51,Female,Married,No,Product & Engineering,Applied Technology,3,3,Occasional Travel,Y,1,15,2,2,2,2,0-2 yrs,2
+612,33,Female,Divorced,No,Product & Engineering,Medical Sciences,5,1,Occasional Travel,Y,1,10,6,1,0,5,6-10 yrs,4
+2062,39,Male,Married,No,Product & Engineering,Medical Sciences,1,6,Occasional Travel,Y,1,9,7,7,1,7,6-10 yrs,4
+1131,21,Female,Single,No,Product & Engineering,Applied Technology,1,1,Occasional Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+373,36,Male,Married,No,Product & Engineering,Biological Sciences,3,6,Occasional Travel,Y,1,16,15,13,10,11,10+ yrs,0
+1402,43,Female,Single,No,Product & Engineering,Medical Sciences,3,6,Occasional Travel,Y,1,20,20,7,1,8,10+ yrs,1
+275,49,Male,Divorced,No,Product & Engineering,Biological Sciences,4,18,No Travel,Y,1,7,7,7,1,7,6-10 yrs,1
+218,27,Male,Divorced,No,Product & Engineering,Medical Sciences,3,9,No Travel,Y,1,6,2,2,2,2,0-2 yrs,6
+1014,35,Female,Divorced,No,Product & Engineering,Medical Sciences,4,25,Occasional Travel,Y,1,16,16,10,10,1,10+ yrs,1
+532,56,Female,Married,No,Business Development,Biological Sciences,3,6,Frequent Travel,Y,1,36,7,7,7,7,6-10 yrs,9
+982,30,Male,Divorced,No,Business Development,General Studies,2,8,Occasional Travel,Y,1,10,8,4,7,7,6-10 yrs,5
+1595,42,Male,Single,No,Product & Engineering,General Studies,2,9,Occasional Travel,Y,1,24,1,0,0,1,0-2 yrs,8
+784,23,Male,Single,No,Product & Engineering,Medical Sciences,1,10,Occasional Travel,Y,1,2,2,2,0,2,0-2 yrs,1
+1439,25,Male,Married,Yes,Business Development,Biological Sciences,2,9,Occasional Travel,Y,1,6,3,2,2,2,3-5 yrs,3
+1445,24,Female,Married,No,Business Development,Medical Sciences,1,4,Occasional Travel,Y,1,5,5,4,0,3,3-5 yrs,1
+1558,29,Male,Married,No,Product & Engineering,Biological Sciences,3,9,Occasional Travel,Y,1,5,1,0,0,0,0-2 yrs,6
+283,29,Female,Married,Yes,Business Development,Marketing & Communications,3,27,Occasional Travel,Y,1,10,10,4,1,9,6-10 yrs,1
+45,24,Male,Married,Yes,Product & Engineering,Medical Sciences,3,1,Occasional Travel,Y,1,6,2,0,2,0,0-2 yrs,2
+1076,43,Male,Divorced,No,Business Development,Medical Sciences,3,25,Occasional Travel,Y,1,18,1,0,0,0,0-2 yrs,5
+691,35,Male,Single,No,Product & Engineering,Biological Sciences,4,6,Occasional Travel,Y,1,17,17,11,11,8,10+ yrs,1
+2035,34,Female,Married,No,Business Development,Marketing & Communications,3,28,Occasional Travel,Y,1,8,8,7,1,7,6-10 yrs,1
+1960,28,Male,Divorced,Yes,Product & Engineering,Applied Technology,3,17,Occasional Travel,Y,1,6,4,1,0,3,3-5 yrs,5
+120,51,Male,Single,No,Business Development,Marketing & Communications,4,21,Occasional Travel,Y,1,11,10,7,1,0,6-10 yrs,0
+1924,33,Male,Single,No,Business Development,Marketing & Communications,4,10,Occasional Travel,Y,1,10,10,4,0,9,6-10 yrs,1
+1254,59,Female,Single,No,Business Development,Biological Sciences,3,3,Occasional Travel,Y,1,13,6,1,0,5,6-10 yrs,5
+783,45,Male,Single,No,Business Development,Applied Technology,2,2,Occasional Travel,Y,1,9,8,7,3,1,6-10 yrs,0
+1933,28,Female,Single,Yes,Business Development,Marketing & Communications,2,13,Occasional Travel,Y,1,6,2,0,2,2,0-2 yrs,3
+1077,20,Female,Single,Yes,Business Development,Marketing & Communications,3,9,Frequent Travel,Y,1,2,2,2,0,2,0-2 yrs,1
+333,32,Male,Married,No,Business Development,Marketing & Communications,4,26,No Travel,Y,1,4,3,2,2,2,3-5 yrs,0
+18,34,Male,Divorced,No,Product & Engineering,Medical Sciences,2,19,Occasional Travel,Y,1,3,2,2,1,2,0-2 yrs,0
+430,43,Female,Single,No,Product & Engineering,Biological Sciences,4,10,Frequent Travel,Y,1,9,8,7,1,7,6-10 yrs,0
+830,32,Female,Married,No,Product & Engineering,Biological Sciences,3,4,Occasional Travel,Y,1,14,14,13,6,8,10+ yrs,1
+516,40,Female,Divorced,No,Business Development,Marketing & Communications,2,2,Occasional Travel,Y,1,8,5,4,1,3,3-5 yrs,7
+1818,26,Female,Married,Yes,People Operations,Medical Sciences,2,20,Occasional Travel,Y,1,6,5,1,1,4,3-5 yrs,0
+227,41,Male,Divorced,No,Product & Engineering,Biological Sciences,3,14,Occasional Travel,Y,1,13,9,8,1,8,6-10 yrs,4
+1172,35,Male,Married,No,Product & Engineering,Medical Sciences,4,1,Occasional Travel,Y,1,10,8,0,1,7,6-10 yrs,6
+26,24,Female,Divorced,No,Product & Engineering,General Studies,2,11,No Travel,Y,1,5,4,2,1,3,3-5 yrs,0
+897,53,Male,Married,No,Business Development,Marketing & Communications,3,8,Occasional Travel,Y,1,28,2,0,2,2,0-2 yrs,5
+1625,47,Female,Married,No,People Operations,Biological Sciences,4,26,Occasional Travel,Y,1,27,5,2,1,0,3-5 yrs,3
+1160,31,Male,Married,Yes,Product & Engineering,Medical Sciences,3,15,Frequent Travel,Y,1,2,2,2,2,2,0-2 yrs,1
+1774,34,Male,Divorced,No,Business Development,Biological Sciences,3,10,No Travel,Y,1,15,15,14,0,7,10+ yrs,1
+780,33,Male,Single,Yes,Product & Engineering,General Studies,4,1,Occasional Travel,Y,1,10,10,9,7,8,6-10 yrs,1
+2016,32,Female,Married,No,Business Development,Marketing & Communications,4,1,Occasional Travel,Y,1,14,14,10,5,7,10+ yrs,1
+957,41,Male,Single,No,Product & Engineering,Medical Sciences,3,6,Occasional Travel,Y,1,20,18,13,2,17,10+ yrs,2
+1340,40,Male,Divorced,No,Product & Engineering,Biological Sciences,2,16,No Travel,Y,1,6,4,2,0,0,3-5 yrs,9
+258,51,Female,Single,No,Product & Engineering,Medical Sciences,3,3,Occasional Travel,Y,1,21,7,7,1,0,6-10 yrs,3
+1372,55,Male,Single,Yes,Business Development,Marketing & Communications,4,13,Occasional Travel,Y,1,24,19,7,3,8,10+ yrs,6
+976,52,Male,Married,No,Product & Engineering,Biological Sciences,2,1,Occasional Travel,Y,1,26,9,8,7,8,6-10 yrs,2
+698,54,Male,Married,No,People Operations,Medical Sciences,4,19,Occasional Travel,Y,1,16,9,7,7,1,6-10 yrs,2
+1533,23,Male,Single,No,Product & Engineering,Biological Sciences,1,20,Occasional Travel,Y,1,5,4,3,1,2,3-5 yrs,0
+639,24,Male,Married,No,Product & Engineering,Medical Sciences,3,23,Occasional Travel,Y,1,6,6,5,1,4,6-10 yrs,1
+1198,20,Male,Single,No,Product & Engineering,Biological Sciences,3,3,Occasional Travel,Y,1,2,2,2,1,2,0-2 yrs,1
+1036,38,Male,Single,No,Business Development,Biological Sciences,4,3,Occasional Travel,Y,1,19,1,0,0,0,0-2 yrs,8
+346,29,Male,Single,No,Product & Engineering,Biological Sciences,3,15,Occasional Travel,Y,1,6,6,5,1,5,6-10 yrs,1
+27,36,Male,Single,Yes,Business Development,Biological Sciences,4,9,Occasional Travel,Y,1,10,5,3,0,3,3-5 yrs,7
+1875,28,Female,Married,No,Business Development,Medical Sciences,3,3,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+616,41,Female,Single,No,Product & Engineering,General Studies,4,2,No Travel,Y,1,10,8,7,0,7,6-10 yrs,2
+1665,54,Female,Married,No,Product & Engineering,Medical Sciences,5,22,Occasional Travel,Y,1,36,10,8,4,7,6-10 yrs,3
+381,35,Female,Divorced,No,Product & Engineering,Biological Sciences,3,22,Occasional Travel,Y,1,10,7,7,6,2,6-10 yrs,7
+1336,55,Female,Married,No,Product & Engineering,Medical Sciences,2,2,Occasional Travel,Y,1,23,19,9,9,11,10+ yrs,4
+1704,35,Male,Single,No,Product & Engineering,Medical Sciences,4,2,Frequent Travel,Y,1,6,5,4,1,4,3-5 yrs,0
+514,30,Male,Single,Yes,Product & Engineering,Applied Technology,3,4,Frequent Travel,Y,1,3,1,0,0,0,0-2 yrs,9
+1117,45,Female,Married,No,Business Development,Biological Sciences,4,9,No Travel,Y,1,15,15,10,4,12,10+ yrs,1
+2022,39,Male,Single,No,Product & Engineering,Biological Sciences,3,9,No Travel,Y,1,21,6,0,1,3,6-10 yrs,2
+463,29,Female,Divorced,No,Business Development,Marketing & Communications,1,10,Occasional Travel,Y,1,7,7,7,1,7,6-10 yrs,1
+1068,26,Female,Divorced,No,Product & Engineering,Medical Sciences,1,1,Frequent Travel,Y,1,5,5,3,1,3,3-5 yrs,1
+1868,29,Male,Single,Yes,Product & Engineering,Biological Sciences,2,24,Frequent Travel,Y,1,1,1,0,1,0,0-2 yrs,1
+171,43,Female,Single,No,Product & Engineering,Medical Sciences,3,28,Frequent Travel,Y,1,18,3,2,1,2,3-5 yrs,4
+1219,24,Female,Married,Yes,Product & Engineering,Biological Sciences,2,17,Occasional Travel,Y,1,1,1,0,0,0,0-2 yrs,1
+1587,35,Female,Single,No,Product & Engineering,Medical Sciences,4,10,Occasional Travel,Y,1,10,5,2,0,4,3-5 yrs,3
+1968,53,Male,Single,Yes,Business Development,Biological Sciences,4,24,Occasional Travel,Y,1,15,2,2,2,2,0-2 yrs,6
+116,51,Male,Married,No,Product & Engineering,Biological Sciences,4,9,Occasional Travel,Y,1,10,4,2,0,3,3-5 yrs,3
+448,43,Female,Divorced,No,Product & Engineering,Biological Sciences,4,10,Frequent Travel,Y,1,9,9,7,0,0,6-10 yrs,1
+1735,23,Female,Single,No,Product & Engineering,Medical Sciences,1,4,Occasional Travel,Y,1,3,3,2,1,2,3-5 yrs,1
+625,41,Female,Married,No,Business Development,Biological Sciences,5,2,Occasional Travel,Y,1,22,18,16,11,8,10+ yrs,7
+160,33,Male,Married,No,Business Development,Marketing & Communications,2,22,No Travel,Y,1,8,7,7,0,7,6-10 yrs,0
+1473,49,Male,Married,No,Product & Engineering,Applied Technology,4,5,Occasional Travel,Y,1,20,3,2,1,2,3-5 yrs,2
+1549,33,Male,Married,No,Product & Engineering,Biological Sciences,4,28,Occasional Travel,Y,1,15,15,14,5,7,10+ yrs,1
+1596,35,Male,Married,No,Product & Engineering,Biological Sciences,3,28,Occasional Travel,Y,1,10,10,9,6,8,6-10 yrs,1
+1814,41,Male,Single,No,Product & Engineering,Biological Sciences,3,5,Occasional Travel,Y,1,11,3,2,1,2,3-5 yrs,3
+1203,22,Male,Married,Yes,Product & Engineering,Biological Sciences,4,3,Frequent Travel,Y,1,1,0,0,0,0,0-2 yrs,0
+2053,29,Male,Married,No,Product & Engineering,General Studies,2,13,Occasional Travel,Y,1,10,4,3,0,3,3-5 yrs,4
+1591,50,Male,Married,No,Business Development,Marketing & Communications,3,9,Occasional Travel,Y,1,27,1,0,0,0,0-2 yrs,4
